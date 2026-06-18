@@ -1,6 +1,6 @@
-# Aramco Mini LLM
+# Aramco Text Embedding
 
-A Retrieval-Augmented Generation (RAG) pipeline that builds a searchable knowledge base from Saudi Aramco's public financial documents and deploys it as a tool inside [Open WebUI](https://github.com/open-webui/open-webui).
+A pipeline that scrapes and extracts Saudi Aramco's public financial documents, generates text embeddings, and writes them to a pgvector database for semantic retrieval via a custom [Open WebUI](https://github.com/open-webui/open-webui) RAG tool.
 
 ## What it does
 
