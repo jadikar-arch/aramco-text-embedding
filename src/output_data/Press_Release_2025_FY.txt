@@ -1,0 +1,1206 @@
+SOURCE: Saudi Aramco — Press Release 2025 FY
+TYPE: Press Release
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2025/fy/saudi-aramco-fy-2025-results-press-release-english.pdf
+============================================================
+
+[Page 1]
+Aramco announces fourth quarter and full-year 2025 results
+Company delivers growth, strong earnings, and increased returns
+• Adjusted net income1: $104.7 billion (FY 2025) / $25.1 billion (Q4)
+• Cash flow from operating activities: $136.2 billion (FY 2025) / $40.8 billion (Q4)
+• Free cash flow1: $85.4 billion (FY 2025) / $27.5 billion (Q4)
+• Gearing ratio1: 3.8% as at December 31, 2025 (end of 2024: 4.5%)
+• Capital investment of $52.2 billion in 2025, in line with guidance and $1.0 billion lower YoY; 2026 capital investment guidance of $50.0
+billion to $55.0 billion
+• Total shareholder distributions of $85.5 billion in 2025
+• Board declares base dividend of $21.89 billion for Q4, a 3.5% YoY increase and increased for the fourth consecutive year, to be paid in
+Q1 2026
+• Company announces share buyback program of up to $3.0 billion over 18 months
+• Progress continues towards sales gas production capacity increase of approximately 80% by 2030, from 2021 production levels, with
+start of production at Jafurah and commencement of operations at Tanajib Gas Plant
+• Marjan crude oil increment brought onstream and water injection operations commenced at Berri crude oil increment, supporting
+flexibility and ability to respond to changing market conditions
+• Plans progress to acquire significant minority interest in HUMAIN to unlock new AI value-creation opportunities
+• Technology Realized Value of $5.3 billion from AI, digital, and other solutions in 2025, taking cumulative TRV to $11.3 billion since 2023
+• iktva program achieves 70% localization in procurement, with a 2030 target of 75% supporting supply chain resilience
+For more information, please see the Aramco 2025 Annual Report.
+Key financial results
+4th quarter 3rd quarter 4th quarter Twelve months Twelve months
+All amounts in millions unless otherwise stated 2025 2025 2024 2025 2024
+﷼ 66,630 101,015 83,776 350,210 398,422
+Net income
+$ 17,768 26,937 22,340 93,389 106,246
+﷼ 93,979 105,978 95,809 392,454 413,621
+Adjusted net income1,2
+$ 25,061 28,260 25,549 104,653 110,299
+﷼ 50,146 47,081 53,185 190,444 188,890
+Capital expenditures
+$ 13,372 12,555 14,183 50,785 50,371
+﷼ 103,015 88,364 81,090 320,354 319,998
+Free cash flow1
+$ 27,472 23,563 21,624 85,428 85,333
+﷼ 79,296 79,291 76,062 317,159 304,325
+Base dividends paid
+$ 21,146 21,145 20,283 84,577 81,153
+﷼ 822 822 40,389 3,288 161,593
+Performance-linked dividends paid
+$ 219 219 10,770 876 43,092
+ROACE1,3,4 % 19.8% 19.9% 21.1% 19.8% 21.1%
+Average realized crude oil price $/bbl 64.1 70.1 73.1 69.2 80.2
+1. Non-IFRS measure: refer to the Non-IFRS measures reconciliations and definitions section for further details.
+2. Q3 2025 figures have been amended to reflect revisions made to adjusting items for comparative purposes.
+3. Comparative ratios have been amended to reflect Aramco’s revised ROACE definition.
+4. Calculated on a 12-month rolling basis.
+[TABLE DATA]
+﷼ | 66,630 | 101,015 83,776
+26,937 22,340 | 350,210
+$ | 17,768 |  | 93,389
+﷼ | 93,979 | 105,978 95,809
+28,260 25,549 | 392,454
+$ | 25,061 |  | 104,653
+﷼ | 50,146 | 47,081 53,185
+12,555 14,183 | 190,444
+$ | 13,372 |  | 50,785
+﷼ | 103,015 | 88,364 81,090
+23,563 21,624 | 320,354
+$ | 27,472 |  | 85,428
+﷼ | 79,296 | 79,291 76,062
+21,145 20,283 | 317,159
+$ | 21,146 |  | 84,577
+﷼ | 822 | 822 40,389
+219 10,770 | 3,288
+$ | 219 |  | 876
+% | 19.8% | 19.9% 21.1% | 19.8%
+$/bbl | 64.1 | 70.1 73.1 | 69.2
+[Page 2]
+Commenting on the results,
+Aramco President & CEO Amin H. Nasser said:
+“Aramco delivered robust growth and strong cash flows in 2025, “Following another year of record oil demand in 2025, we believe
+reinforcing confidence in our strategy. Our disciplined capital ongoing investments in our operations position us well for the
+allocation, combined with our lower-cost, adaptable, and highly- future. In parallel, our ambitious gas expansion is progressing on
+reliable operations, drove strong financial performance in a year schedule, aligning with rising domestic demand and delivering
+marked by price volatility. This enabled a 3.5% increase to our significant volumes of high-value associated liquids. Looking
+base dividend, reinforcing our focus on delivering sustainable and ahead, our strong project momentum underscores potential for
+progressive shareholder returns. future operating cash flow growth, creating further opportunities
+and reinforcing our position as a global energy leader.”
+“We continue to leverage advanced technologies including AI to
+enhance efficiency and unlock value across our business. We also
+continued to maintain our impressive safety track record in 2025,
+with our lowest total recordable case rate since the IPO.
+2 Saudi Aramco I Fourth quarter and full-year press release
+[Page 3]
+All amounts in millions unless otherwise stated
+Supplementary fourth quarter and full-year financial information
+Summary of financial results
+4th quarter 3rd quarter 4th quarter Twelve months Twelve months
+2025 2025 2024 2025 2024
+﷼ 416,290 418,160 428,591 1,671,204 1,801,674
+Revenue and other income related to sales
+$ 111,010 111,509 114,290 445,654 480,446
+﷼ (261,441) (224,640) (255,280) (964,382) (1,027,049)
+Operating costs1
+$ (69,717) (59,904) (68,074) (257,168) (273,879)
+﷼ 154,849 193,520 173,311 706,822 774,625
+Operating income
+$ 41,293 51,605 46,216 188,486 206,567
+﷼ 151,901 194,196 172,277 702,860 782,010
+Income before income taxes and zakat
+$ 40,507 51,785 45,940 187,429 208,536
+﷼ (85,271) (93,181) (88,501) (352,650) (383,588)
+Income taxes and zakat
+$ (22,739) (24,848) (23,600) (94,040) (102,290)
+﷼ 66,630 101,015 83,776 350,210 398,422
+Net income
+$ 17,768 26,937 22,340 93,389 106,246
+﷼ 93,979 105,978 95,809 392,454 413,621
+Adjusted net income2,3
+$ 25,061 28,260 25,549 104,653 110,299
+1. Impairment and held for sale remeasurement losses were recognized within depreciation and amortization for the third quarter of 2025 and fourth quarter of 2024.
+2. Refer to the Non-IFRS measures reconciliations and definitions section for further details.
+3. Q3 2025 figures have been amended to reflect revisions made to adjusting items for comparative purposes.
+Financial analysis
+4th quarter 2025 vs 3rd quarter 2025 Net income for the fourth quarter of 2025 was ﷼ 66,630 ($17,768),
+Revenue and other income related to sales for the fourth quarter compared to ﷼ 101,015 ($26,937) for the third quarter of 2025.
+of 2025 was ﷼ 416,290 ($111,010), which was relatively consistent The decrease was mainly due to the impact of higher operating
+with ﷼ 418,160 ($111,509) for the third quarter of 2025. costs. This was partially offset by a decrease in income taxes and
+zakat driven by lower taxable income.
+Operating costs for the fourth quarter of 2025 were ﷼ 261,441
+($69,717), compared to ﷼ 224,640 ($59,904) for the third quarter The decrease in adjusted net income was mainly due to the same
+of 2025. The increase was mainly due to higher impairment and factors as net income, excluding the impact of adjusting items.
+held for sale remeasurement losses, and higher purchases. Please refer to the Non-IFRS measures reconciliations and
+definitions section for further details.
+The increase in impairment and held for sale remeasurement
+losses is primarily due to fair value losses recognized as part of a
+reclassification of assets and liabilities as held for sale related to
+SABIC’s plans to divest certain petrochemicals and engineering
+thermoplastics businesses.
+The increase in purchases primarily reflects the impact of higher
+volumes purchased of crude oil, partially offset by lower volumes
+of refined and chemical products purchased.
+Saudi Aramco I Fourth quarter and full-year press release 33
+[TABLE DATA]
+| ﷼ | 416,290 | 418,160 | 428,591 | 1,671,204 | 1,801,674
+| $ | 111,010 | 111,509 | 114,290 | 445,654 | 480,446
+| ﷼ | (261,441) | (224,640) | (255,280) | (964,382) | (1,027,049)
+| $ | (69,717) | (59,904) | (68,074) | (257,168) | (273,879)
+| ﷼ | 154,849 | 193,520 | 173,311 | 706,822 | 774,625
+| $ | 41,293 | 51,605 | 46,216 | 188,486 | 206,567
+| ﷼ | 151,901 | 194,196 | 172,277 | 702,860 | 782,010
+| $ | 40,507 | 51,785 | 45,940 | 187,429 | 208,536
+| ﷼ | (85,271) | (93,181) | (88,501) | (352,650) | (383,588)
+| $ | (22,739) | (24,848) | (23,600) | (94,040) | (102,290)
+| ﷼ | 66,630 | 101,015 | 83,776 | 350,210 | 398,422
+| $ | 17,768 | 26,937 | 22,340 | 93,389 | 106,246
+|  |  |  |  |  |
+| ﷼ | 93,979 | 105,978 | 95,809
+25,549 | 392,454 |
+| $ | 25,061 | 28,260 |  | 104,653 |
+[Page 4]
+All amounts in millions unless otherwise stated
+4th quarter 2025 vs 4th quarter 2024 Twelve months 2025 vs Twelve months 2024
+Revenue and other income related to sales for the fourth quarter Revenue and other income related to sales for the twelve months
+of 2025 was ﷼ 416,290 ($111,010), compared to ﷼ 428,591 of 2025 was ﷼ 1,671,204 ($445,654), compared to ﷼ 1,801,674
+($114,290) for the fourth quarter of 2024. ($480,446) for the twelve months of 2024.
+The decrease in revenue was mainly driven by lower crude oil The decrease in revenue was mainly due to lower prices of crude
+prices, partially offset by higher volumes sold of crude oil. oil as well as lower prices of refined and chemical products.
+This was partially offset by higher volumes sold of refined and
+The decrease in other income related to sales was due to lower chemical products, as well as gas and crude oil.
+price equalization compensation mainly resulting from higher
+regulated prices, lower reference equalization prices, and lower The decrease in other income related to sales was driven by lower
+volumes sold of crude oil and refined products at regulated prices. price equalization compensation primarily due to lower reference
+equalization prices, higher regulated prices, and lower volumes
+Operating costs for the fourth quarter of 2025 were ﷼ 261,441 sold of crude oil and refined products at regulated prices.
+($69,717), compared to ﷼ 255,280 ($68,074) for the fourth quarter
+of 2024. The increase was mainly due to higher impairment Operating costs for the twelve months of 2025 were ﷼ 964,382
+and held for sale remeasurement losses, partially offset by ($257,168), compared to ﷼ 1,027,049 ($273,879) for the twelve
+lower production royalties, lower purchases, and lower selling, months of 2024. This decrease was mainly due to a decrease in
+administrative and general expenses. purchases and production royalties, partially offset by higher
+producing and manufacturing expenses, as well as higher
+The increase in impairment and held for sale remeasurement impairment and held for sale remeasurement losses.
+losses is primarily due to fair value losses recognized as part of a
+reclassification of assets and liabilities as held for sale related to The decrease in purchases primarily reflects the impact of lower
+SABIC’s plans to divest certain petrochemicals and engineering prices of crude oil as well as lower prices of refined and chemical
+thermoplastics businesses. products purchased, partially offset by higher volumes purchased
+of refined and chemical products.
+Lower production royalties were predominantly driven by lower
+crude oil prices and lower average effective royalty rate, partially The decrease in production royalties largely reflects lower
+offset by higher volumes sold of crude oil. average effective royalty rate and lower crude oil prices.
+The decrease in purchases primarily reflects the impact of lower The increase in producing and manufacturing expenses largely
+prices of crude oil purchased and lower prices of refined and reflects unfavorable inventory valuation movement, higher
+chemical products purchased, partially offset by higher volumes utilities, and other costs.
+purchased of crude oil and higher volumes purchased of refined
+and chemical products. The increase in impairment and held for sale remeasurement
+losses is primarily due to fair value losses recognized as part of a
+The decrease in selling, administrative and general expenses reclassification of assets and liabilities as held for sale related to
+was primarily driven by lower freight costs and recognition of a SABIC’s plans to divest certain petrochemicals and engineering
+gain compared to a loss in prior year associated with derivative thermoplastics businesses.
+instruments.
+Net income for the twelve months of 2025 was ﷼ 350,210
+Net income for the fourth quarter of 2025 was ﷼ 66,630 ($17,768), ($93,389), compared to ﷼ 398,422 ($106,246) for the twelve
+compared to ﷼ 83,776 ($22,340) for the fourth quarter of 2024. months of 2024. The decrease was mainly due to the impact
+The decrease was mainly driven by lower revenue and other of lower revenue and other income related to sales. This was
+income related to sales, and higher operating costs. partially offset by lower operating costs and lower income taxes
+and zakat driven by lower taxable income.
+The decrease in adjusted net income was mainly due to the same
+factors as net income, excluding the impact of adjusting items. The decrease in adjusted net income was mainly due to the same
+Please refer to the Non-IFRS measures reconciliations and factors as net income, excluding the impact of adjusting items.
+definitions section for further details. Please refer to the Non-IFRS measures reconciliations and
+definitions section for further details.
+4 Saudi Aramco I Fourth quarter and full-year press release
+[Page 5]
+All amounts in millions unless otherwise stated
+Upstream performance
+4th quarter 3rd quarter 4th quarter Twelve months Twelve months
+2025 2025 2024 2025 2024
+﷼ 179,555 193,079 188,536 731,850 801,047
+EBIT
+$ 47,881 51,488 50,276 195,160 213,613
+﷼ ‑ 8 - 1,088 -
+Adjusting items1
+$ ‑ 2 - 290 -
+﷼ 179,555 193,087 188,536 732,938 801,047
+Adjusted EBIT
+$ 47,881 51,490 50,276 195,450 213,613
+﷼ 35,837 33,956 36,995 141,635 147,135
+Capital expenditures - cash basis
+$ 9,556 9,055 9,865 37,769 39,236
+Total liquids production2 mbpd 11,099 10,824 10,141 10,678 10,292
+Total gas production3 mmscfd 10,738 12,609 10,530 11,365 10,833
+Total hydrocarbon production4 mboed 13,198 13,267 12,194 12,891 12,403
+Average realized crude oil price $/bbl 64.1 70.1 73.1 69.2 80.2
+1. Refer to the Non-IFRS measures reconciliations and definitions section for further details.
+2. Total liquids production is comprised of crude oil, NGL, and condensate.
+3. Total gas production includes natural gas and ethane.
+4. Total hydrocarbon production (mboed) is derived from mmscfd (for natural gas and ethane) by dividing the relevant product production by 5.400 (in the case of natural gas)
+and 3.330 (in the case of ethane).
+Upstream financial analysis
+4th quarter 2025 vs 3rd quarter 2025 Twelve months 2025 vs Twelve months 2024
+Adjusted EBIT for the fourth quarter of 2025 was ﷼ 179,555 Adjusted EBIT for the twelve months ended 2025 was ﷼ 732,938
+($47,881) compared to ﷼ 193,087 ($51,490) for the third quarter ($195,450) compared to ﷼ 801,047 ($213,613) for the same period
+of 2025. The decrease was mainly driven by lower crude oil prices, in 2024. The decrease was primarily due to lower crude oil prices,
+partially offset by higher crude oil volumes sold. partially offset by higher crude oil volumes sold and a decrease in
+production royalties.
+Capital expenditures for the fourth quarter of 2025 were ﷼ 35,837
+($9,556) compared to ﷼ 33,956 ($9,055) for the third quarter of Capital expenditures for the twelve months ended 2025 were
+2025. The increase was mainly due to phasing of strategic gas ﷼ 141,635 ($37,769), which were relatively consistent with
+projects and crude oil increments. ﷼ 147,135 ($39,236) for the same period in 2024.
+4th quarter 2025 vs 4th quarter 2024
+Adjusted EBIT for the fourth quarter of 2025 was ﷼ 179,555
+($47,881) compared to ﷼ 188,536 ($50,276) for the fourth quarter
+of 2024. The decrease was predominantly due to lower crude
+oil prices, partially offset by higher crude oil volumes sold and a
+decrease in production royalties.
+Capital expenditures for the fourth quarter of 2025 were ﷼ 35,837
+($9,556), which were relatively consistent with ﷼ 36,995 ($9,865)
+for the fourth quarter of 2024.
+Saudi Aramco I Fourth quarter and full-year press release 55
+[TABLE DATA]
+﷼ | 179,555 | 193,079 188,536
+51,488 50,276 |  | 731,850 | 801,047
+$ | 47,881 |  |  | 195,160 | 213,613
+﷼ | ‑ | 8
+2 | - | 1,088 | -
+$ | ‑ |  | - | 290 | -
+﷼ | 179,555 | 193,087 188,536
+51,490 50,276 |  | 732,938 | 801,047
+$ | 47,881 |  |  | 195,450 | 213,613
+﷼ | 35,837 | 33,956 36,995
+9,055 9,865 | 141,635 | 147,135
+$ | 9,556 |  | 37,769 | 39,236
+mbpd | 11,099 | 10,824 10,141 | 10,678 |
+mmscfd | 10,738 | 12,609 10,530 | 11,365 |
+mboed | 13,198 | 13,267 12,194 | 12,891 |
+$/bbl | 64.1 | 70.1 73.1 | 69.2 |
+[Page 6]
+All amounts in millions unless otherwise stated
+Downstream performance
+4th quarter 3rd quarter 4th quarter Twelve months Twelve months
+2025 2025 2024 2025 2024
+﷼ (18,648) 5,079 (7,957) (9,552) (10,998)
+EBIT
+$ (4,973) 1,355 (2,122) (2,547) (2,933)
+﷼ 29,932 5,304 8,891 47,162 19,857
+Adjusting items1 ,2
+$ 7,982 1,414 2,371 12,576 5,295
+﷼ 11,284 10,383 934 37,610 8,859
+Adjusted EBIT2
+$ 3,009 2,769 249 10,029 2,362
+﷼ 13,043 11,654 15,148 43,831 38,989
+Capital expenditures - cash basis
+$ 3,478 3,108 4,039 11,688 10,397
+Supply reliability % 99.9% 99.9% 99.8% 99.9% 99.7%
+Downstream utilization of Aramco's crude
+oil production3 % 53% 54% 53% 53% 53%
+1. Refer to the Non-IFRS measures reconciliations and definitions section for further details.
+2. Q3 2025 figures have been amended to reflect revisions made to adjusting items for comparative purposes.
+3. Downstream utilization numbers are calculated based on year-to-date basis.
+Downstream financial analysis
+4th quarter 2025 vs 3rd quarter 2025 Twelve months 2025 vs Twelve months 2024
+Adjusted EBIT for the fourth quarter of 2025 was ﷼ 11,284 Adjusted EBIT for the twelve months of 2025 was ﷼ 37,610
+($3,009) compared to ﷼ 10,383 ($2,769) for the third quarter of ($10,029) compared to ﷼ 8,859 ($2,362) for the same period in
+2025. This increase was primarily attributed to improved refining 2024. This increase was primarily attributed to higher refining
+margins, partially offset by weakening chemical margins. margins, partially offset by weakening chemical margins.
+Capital expenditures for the fourth quarter of 2025 were ﷼ 13,043 Capital expenditures for the twelve months of 2025 were ﷼ 43,831
+($3,478), an increase of 11.9% compared to ﷼ 11,654 ($3,108) ($11,688), an increase of 12.4% compared to ﷼ 38,989 ($10,397)
+for the third quarter of 2025, predominantly due to progress of for the same period in 2024, predominantly due to progress of
+capital projects such as the construction of the refinery-integrated capital projects such as the construction of the refinery-integrated
+petrochemical steam cracker being developed by S-OIL, and other petrochemical steam cracker being developed by S-OIL, the
+projects. Amiral expansion at the SATORP refinery, and other projects.
+4th quarter 2025 vs 4th quarter 2024
+Adjusted EBIT for the fourth quarter of 2025 was ﷼ 11,284
+($3,009) compared to ﷼ 934 ($249) for the same quarter in
+2024. This increase was primarily attributed to stronger refining
+margins, partially offset by weakening chemical margins.
+Capital expenditures for the fourth quarter of 2025 were ﷼ 13,043
+($3,478), a decrease of 13.9% compared to ﷼ 15,148 ($4,039)
+for the same quarter in 2024, primarily due to phasing of capital
+spending.
+6 Saudi Aramco I Fourth quarter and full-year press release
+[TABLE DATA]
+﷼ | (18,648) | 5,079 | (7,957) | (9,552) | (10,998)
+$ | (4,973) | 1,355 | (2,122) | (2,547) | (2,933)
+﷼ | 29,932 | 5,304 | 8,891 | 47,162 | 19,857
+$ | 7,982 | 1,414 | 2,371 | 12,576 | 5,295
+﷼ | 11,284 | 10,383 | 934 | 37,610 | 8,859
+$ | 3,009 | 2,769 | 249 | 10,029 | 2,362
+﷼ | 13,043 | 11,654 | 15,148 | 43,831 | 38,989
+$ | 3,478 | 3,108 | 4,039 | 11,688 | 10,397
+% | 99.9% | 99.9% 99.8% |  | 99.9% |
+% | 53% | 54% 53% |  | 53% |
+[Page 7]
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and definitions
+The information in this section includes certain non-IFRS financial performance or liquidity under IFRS and should not be used
+measures (gearing, ROACE, free cash flow, EBIT, adjusted EBIT, instead of, or considered as alternatives to, any measures of
+and adjusted net income), which Aramco uses to make informed performance or liquidity under IFRS. The non-IFRS financial
+decisions about its financial position and operating performance measures relate to the reporting periods described and are not
+or liquidity. These non-IFRS financial measures have been included intended to be predictive of future results.
+to facilitate a better understanding of Aramco’s historical trends of
+operation and financial position. In addition, other companies, including those in Aramco’s
+industry, may calculate similarly titled non-IFRS financial measures
+Aramco uses non-IFRS financial measures as supplementary differently from Aramco. Because companies do not necessarily
+information to its IFRS-based operating performance and calculate these non-IFRS financial measures in the same manner,
+financial position. The non-IFRS financial measures are not Aramco’s presentation of such non-IFRS financial measures may
+defined by, or presented in accordance with, IFRS. The non-IFRS not be comparable to other similarly titled non-IFRS financial
+financial measures are not measurements of Aramco’s operating measures used by other companies.
+Gearing
+Gearing is a measure of the degree to which Aramco’s operations term investments, total investment in debt instruments, and
+are financed by debt and reflects available liquidity held in non-current cash investments) to total equity and net debt (cash).
+current and non-current investments and cash management Management believes that gearing is widely used by analysts
+instruments. Aramco defines gearing as the ratio of net debt and investors in the oil and gas industry to indicate a company’s
+(cash) (total borrowings less cash and cash equivalents, short- financial health and flexibility.
+4th quarter 3rd quarter 4th quarter
+2025 2025 2024
+﷼ 363,617 356,540 319,290
+Total borrowings (current and non-current)
+$ 96,965 95,077 85,143
+﷼ (243,099) (193,873) (216,642)
+Cash and cash equivalents
+$ (64,826) (51,699) (57,771)
+﷼ (14,643) (16,532) (13,186)
+Short-term investments
+$ (3,905) (4,408) (3,516)
+﷼ (37,364) (31,805) (11,384)
+Total investments in debt instruments (current and non-current)1
+$ (9,964) (8,481) (3,037)
+﷼ ‑ - -
+Non-current cash investments
+$ ‑ - -
+﷼ 68,511 114,330 78,078
+Net debt (cash)
+$ 18,270 30,489 20,819
+﷼ 1,721,744 1,691,628 1,651,355
+Total equity
+$ 459,132 451,101 440,361
+﷼ 1,790,255 1,805,958 1,729,433
+Total equity and net debt (cash)
+$ 477,402 481,590 461,180
+Gearing % 3.8% 6.3% 4.5%
+1. As at December 31, 2025, investments in debt instruments (current and non-current) are comprised of ﷼ 28,960 ($7,723) and ﷼ 8,404 ($2,241), which form part of investments
+in securities under current assets, and investments in securities under non-current assets, respectively. As at September 30, 2025, investments in debt instruments (current and
+non-current) are comprised of ﷼ 22,099 ($5,893) and ﷼ 9,706 ($2,588), which form part of investments in securities under current assets, and investments in securities under
+non-current assets, respectively. As at December 31, 2024, investments in debt instruments (current and non-current) are comprised of ﷼ 1,656 ($442) and ﷼ 9,728 ($2,595),
+which form a part of investments in securities under current assets, and investments in securities under non-current assets, respectively.
+4th quarter 2025 vs 3rd quarter 2025 4th quarter 2025 vs 4th quarter 2024
+Aramco’s gearing ratio as at December 31, 2025, was 3.8% Aramco’s gearing ratio as at December 31, 2025, was 3.8%
+compared to 6.3% as at September 30, 2025. The decrease in compared to 4.5% as at December 31, 2024. The decrease in
+gearing was principally driven by the change in net debt position gearing reflects the impact of lower net debt position mainly
+mainly reflecting operating cash inflows, and the proceeds from reflecting operating cash inflows, and the proceeds from the
+the sale of a non-controlling equity interest in JMGC. This was sale of a non-controlling equity interest in JMGC. This was
+partially offset by dividend payments, capital expenditures, and partially offset by dividend payments, capital expenditures, and
+investments in securities during the period. investments in securities during the period.
+Saudi Aramco I Fourth quarter and full-year press release 77
+[TABLE DATA]
+﷼ | 363,617
+$ | 96,965
+﷼ | (243,099)
+$ | (64,826)
+﷼ | (14,643)
+$ | (3,905)
+﷼ | (37,364)
+$ | (9,964)
+﷼ | ‑
+$ | ‑
+﷼ | 68,511
+$ | 18,270
+﷼ | 1,721,744
+$ | 459,132
+﷼ | 1,790,255
+$ | 477,402
+% | 3.8%
+[Page 8]
+All amounts in millions unless otherwise stated
+ROACE
+ROACE measures the efficiency of Aramco’s utilization of capital. employed is the average of total borrowings plus total equity at
+Aramco’s ROACE definition has been revised and is now defined the beginning and end of the applicable period. Aramco utilizes
+as adjusted net income before finance costs, net of adjustments ROACE to evaluate management’s performance and demonstrate
+and income taxes and zakat, as a percentage of average capital to its shareholders that capital has been used effectively.
+employed, calculated on a 12-month rolling basis. Average capital
+Trailing 12 months ended
+4th quarter 3rd quarter 4th quarter
+2025 2025 2024
+﷼ 392,454 394,284 413,621
+Adjusted net income1,2
+$ 104,653 105,141 110,299
+﷼ 8,816 8,801 7,928
+Finance costs, net of adjustments and income taxes and zakat
+$ 2,351 2,347 2,114
+Adjusted net income before finance costs, net ﷼ 401,270 403,085 421,549
+of adjustments and income taxes and zakat $ 107,004 107,488 112,413
+As at period start:
+﷼ 261,733 251,304 226,481
+Non-current borrowings
+$ 69,795 67,014 60,395
+﷼ 57,557 52,155 63,666
+Current borrowings
+$ 15,348 13,908 16,978
+﷼ 1,651,355 1,690,863 1,737,092
+Total equity
+$ 440,361 450,897 463,225
+﷼ 1,970,645 1,994,322 2,027,239
+Capital employed
+$ 525,504 531,819 540,598
+As at period end:
+﷼ 308,466 310,446 261,733
+Non-current borrowings
+$ 82,258 82,785 69,795
+﷼ 55,151 46,094 57,557
+Current borrowings
+$ 14,707 12,292 15,348
+﷼ 1,721,744 1,691,628 1,651,355
+Total equity
+$ 459,132 451,101 440,361
+﷼ 2,085,361 2,048,168 1,970,645
+Capital employed
+$ 556,097 546,178 525,504
+﷼ 2,028,003 2,021,245 1,998,942
+Average capital employed
+$ 540,801 538,999 533,051
+ROACE3 % 19.8% 19.9% 21.1%
+1. For more details, refer to the Reconciliation of adjusting items section.
+2. Q3 2025 figures have been amended to reflect revisions made to adjusting items for comparative purposes.
+3. Comparative ratios have been amended to reflect Aramco’s revised ROACE definition.
+4th quarter 2025 vs 3rd quarter 2025 4th quarter 2025 vs 4th quarter 2024
+ROACE for the twelve months ended December 31, 2025, was ROACE for the twelve months ended December 31, 2025,
+19.8%, which was relatively consistent to 19.9% for the twelve was 19.8%, compared to 21.1% for the twelve months ended
+months ended September 30, 2024. December 31, 2024. The decrease in ROACE, calculated on a
+twelve-month rolling basis, was largely driven by lower adjusted
+net income mainly due to the impact of lower revenue and other
+income related to sales, and higher producing and manufacturing
+expenses. This was partially offset by a decrease in purchases and
+production royalties, as well as lower income taxes and zakat.
+8 Saudi Aramco I Fourth quarter and full-year press release
+[TABLE DATA]
+﷼ | 392,454
+$ | 104,653
+﷼ | 8,816
+$ | 2,351
+﷼ | 401,270
+$ | 107,004
+|
+﷼ | 261,733
+$ | 69,795
+﷼ | 57,557
+$ | 15,348
+﷼ | 1,651,355
+$ | 440,361
+﷼ | 1,970,645
+$ | 525,504
+|
+﷼ | 308,466
+$ | 82,258
+﷼ | 55,151
+$ | 14,707
+﷼ | 1,721,744
+$ | 459,132
+﷼ | 2,085,361
+$ | 556,097
+﷼ | 2,028,003
+$ | 540,801
+% | 19.8%
+[Page 9]
+All amounts in millions unless otherwise stated
+Free cash flow
+Aramco uses free cash flow to evaluate its cash available for free cash flow as net cash provided by operating activities less
+financing activities, including dividend payments. Aramco defines capital expenditures.
+4th quarter 3rd quarter 4th quarter Twelve months Twelve months
+2025 2025 2024 2025 2024
+﷼ 153,161 135,445 134,275 510,798 508,888
+Net cash provided by operating activities
+$ 40,844 36,118 35,807 136,213 135,704
+﷼ (50,146) (47,081) (53,185) (190,444) (188,890)
+Capital expenditures
+$ (13,372) (12,555) (14,183) (50,785) (50,371)
+﷼ 103,015 88,364 81,090 320,354 319,998
+Free cash flow
+$ 27,472 23,563 21,624 85,428 85,333
+4th quarter 2025 vs 3rd quarter 2025 4th quarter 2025 vs 4th quarter 2024
+Free cash flow for the fourth quarter of 2025 was ﷼ 103,015 Free cash flow for the fourth quarter of 2025 was ﷼ 103,015
+($27,472), compared to ﷼ 88,364 ($23,563) for the previous ($27,472), compared to ﷼ 81,090 ($21,624) for the same quarter
+quarter. The increase was attributable to higher net cash last year. The increase was attributable to higher net cash
+provided by operating activities, partially offset by higher capital provided by operating activities, and lower capital expenditures.
+expenditures.
+The increase in net cash provided by operating activities was
+The increase in net cash provided by operating activities was mainly due to favorable movement in working capital, and a
+primarily driven by favorable movements in working capital, reduction in cash paid for the settlement of income, zakat and
+partially offset by lower earnings as well as higher cash paid for other taxes. This was partially offset by lower earnings.
+the settlement of income, zakat and other taxes.
+The decrease in capital expenditures was predominantly due to
+The increase in capital expenditures was predominantly due to lower Downstream capital expenditures compared to the same
+higher Upstream and Downstream capital expenditures compared period of the previous year.
+to the previous quarter.
+Twelve months 2025 vs Twelve months 2024
+Free cash flow for the twelve months of 2025 was ﷼ 320,354
+($85,428), which was relatively consistent with ﷼ 319,998
+($85,333) for the twelve months of 2024.
+Saudi Aramco I Fourth quarter and full-year press release 99
+[TABLE DATA]
+﷼ | 153,161 | 135,445 | 134,275 | 510,798 | 508,888
+$ | 40,844 | 36,118 | 35,807 | 136,213 | 135,704
+﷼ | (50,146) | (47,081) | (53,185) | (190,444) | (188,890)
+$ | (13,372) | (12,555) | (14,183) | (50,785) | (50,371)
+﷼ | 103,015 | 88,364 | 81,090 | 320,354 | 319,998
+$ | 27,472 | 23,563 | 21,624 | 85,428 | 85,333
+[Page 10]
+All amounts in millions unless otherwise stated
+EBIT and adjusted EBIT
+Aramco defines EBIT as net income plus finance costs and income EBIT and adjusted EBIT provide useful information regarding its
+taxes and zakat, less finance income. Adjusted EBIT is defined as operational and financial performance to analysts and investors.
+EBIT excluding the impact of adjusting items. Aramco believes
+4th quarter 3rd quarter 4th quarter Twelve months Twelve months
+2025 2025 2024 2025 2024
+﷼ 66,630 101,015 83,776 350,210 398,422
+Net income
+$ 17,768 26,937 22,340 93,389 106,246
+﷼ (2,792) (3,388) (4,222) (13,287) (20,254)
+Finance income
+$ (744) (904) (1,125) (3,543) (5,401)
+﷼ 3,434 2,301 2,921 11,091 10,540
+Finance costs
+$ 916 614 779 2,958 2,811
+﷼ 85,271 93,181 88,501 352,650 383,588
+Income taxes and zakat
+$ 22,739 24,848 23,600 94,040 102,290
+﷼ 152,543 193,109 170,976 700,664 772,296
+EBIT
+$ 40,679 51,495 45,594 186,844 205,946
+﷼ 26,730 6,009 10,387 43,946 16,039
+Total adjusting items1,2
+$ 7,128 1,602 2,770 11,718 4,277
+﷼ 179,273 199,118 181,363 744,610 788,335
+Adjusted EBIT2
+$ 47,807 53,097 48,364 198,562 210,223
+1. For more details, refer to the Reconciliation of adjusting items section.
+2. Q3 2025 figures have been amended to reflect revisions made to adjusting items for comparative purposes.
+4th quarter 2025 vs 3rd quarter 2025 Twelve months 2025 vs Twelve months 2024
+Adjusted EBIT for the fourth quarter of 2025 was ﷼ 179,273 Adjusted EBIT for the twelve months of 2025 was ﷼ 744,610
+($47,807), compared to ﷼ 199,118 ($53,097) for the previous ($198,562), compared to ﷼ 788,335 ($210,223) for the twelve
+quarter. The decrease was mainly due to the impact of higher months of 2024. The decrease was mainly due to the impact of
+purchases compared to the previous quarter. lower revenue and other income related to sales, and higher
+producing and manufacturing expenses. This was partially offset by
+4th quarter 2025 vs 4th quarter 2024 a decrease in purchases and production royalties.
+Adjusted EBIT for the fourth quarter of 2025 was ﷼ 179,273
+($47,807), compared to ﷼ 181,363 ($48,364) for the same quarter
+in 2024. The decrease was mainly driven by lower revenue and
+other income related to sales, partially offset by lower production
+royalties, lower purchases, and lower selling, administrative and
+general expenses.
+10 Saudi Aramco I Fourth quarter and full-year press release
+[TABLE DATA]
+﷼ | 66,630 | 101,015 83,776
+26,937 22,340 | 350,210 | 398,422
+$ | 17,768 |  | 93,389 | 106,246
+﷼ | (2,792) | (3,388) (4,222)
+(904) (1,125) | (13,287) | (20,254)
+$ | (744) |  | (3,543) | (5,401)
+﷼ | 3,434 | 2,301 2,921
+614 779 | 11,091 |
+$ | 916 |  | 2,958 |
+﷼ | 85,271 | 93,181 88,501
+24,848 23,600 | 352,650 |
+$ | 22,739 |  | 94,040 |
+﷼ | 152,543 | 193,109 170,976
+51,495 45,594 | 700,664 |
+$ | 40,679 |  | 186,844 |
+﷼ | 26,730 | 6,009 10,387
+1,602 2,770 | 43,946 | 16,039
+$ | 7,128 |  | 11,718 | 4,277
+﷼ | 179,273 | 199,118 181,363
+53,097 48,364 | 744,610 | 788,335
+$ | 47,807 |  | 198,562 | 210,223
+[Page 11]
+All amounts in millions unless otherwise stated
+Adjusted net income
+Aramco defines adjusted net income as net income excluding the income is a useful measure that enables analysts and investors to
+impact of adjusting items, adjusting items related to finance costs, evaluate its operational and financial performance by excluding
+and tax and zakat adjustments. Aramco believes that adjusted net the impact of one-off, non-operating and non-recurring items.
+4th quarter 3rd quarter 4th quarter Twelve months Twelve months
+2025 2025 2024 2025 2024
+﷼ 66,630 101,015 83,776 350,210 398,422
+Net income
+$ 17,768 26,937 22,340 93,389 106,246
+﷼ 26,730 6,009 10,387 43,946 16,039
+Total adjusting items1,2
+$ 7,128 1,602 2,770 11,718 4,277
+﷼ 34 34 15 98 1,118
+Adjusting items related to finance costs2
+$ 9 9 4 26 298
+﷼ 585 (1,080) 1,631 (1,800) (1,958)
+Tax and zakat adjustments2,3
+$ 156 (288) 435 (480) (522)
+﷼ 93,979 105,978 95,809 392,454 413,621
+Adjusted net income2
+$ 25,061 28,260 25,549 104,653 110,299
+1. For more details, refer to the Reconciliation of adjusting items section.
+2. Q3 2025 figures have been amended to reflect revisions made to adjusting items for comparative purposes.
+3. Includes tax and zakat effect of the adjusting items listed and the deferred tax impact of certain transactions.
+4th quarter 2025 vs 3rd quarter 2025 Twelve months 2025 vs Twelve months 2024
+Adjusted net income for the fourth quarter of 2025 was ﷼ 93,979 Adjusted net income for the twelve months of 2025 was ﷼ 392,454
+($25,061), compared to ﷼ 105,978 ($28,260) for the previous ($104,653), compared to ﷼ 413,621 ($110,299) for the twelve
+quarter. The decrease was mainly due to the impact of higher months of 2024. The decrease was mainly due to the impact of
+purchases, partially offset by lower income taxes and zakat driven lower revenue and other income related to sales, and higher
+by lower taxable income. producing and manufacturing expenses. This was partially offset
+by decrease in purchases and production royalties, as well as lower
+4th quarter 2025 vs 4th quarter 2024 income taxes and zakat.
+Adjusted net income for the fourth quarter of 2025 was ﷼ 93,979
+($25,061), compared to ﷼ 95,809 ($25,549) for the same quarter
+in 2024. The decrease was mainly driven by lower revenue and
+other income related to sales, partially offset by lower production
+royalties, lower purchases, and lower selling, administrative and
+general expenses.
+Saudi Aramco I Fourth quarter and full-year press release 1111
+[TABLE DATA]
+﷼ | 66,630 | 101,015 83,776
+26,937 22,340 | 350,210 | 398,422
+$ | 17,768 |  | 93,389 | 106,246
+﷼ | 26,730 | 6,009 10,387
+1,602 2,770 | 43,946 | 16,039
+$ | 7,128 |  | 11,718 | 4,277
+﷼ | 34 | 34 15
+9 4 | 98 |
+$ | 9 |  | 26 |
+﷼ | 585 | (1,080) 1,631
+(288) 435 | (1,800) |
+$ | 156 |  | (480) |
+﷼ | 93,979 | 105,978 95,809
+28,260 25,549 | 392,454 | 413,621
+$ | 25,061 |  | 104,653 | 110,299
+[Page 12]
+All amounts in millions unless otherwise stated
+Reconciliation of adjusting items
+Adjusted EBIT
+4th quarter 2025
+Upstream Downstream Corporate Eliminations Consolidated
+﷼ 179,555 (18,648) (6,138) (2,226) 152,543
+EBIT
+$ 47,881 (4,973) (1,637) (592) 40,679
+Adjusting Items:
+﷼ ‑ 3,960 ‑ (3,454) 506
+Replacement cost adjustment1
+$ ‑ 1,056 ‑ (921) 135
+Impairment and held for sale ﷼ ‑ 23,539 ‑ ‑ 23,539
+remeasurement losses
+$ ‑ 6,277 ‑ ‑ 6,277
+Losses for the year from assets classified as ﷼ ‑ 772 ‑ ‑ 772
+held for sale
+$ ‑ 206 ‑ ‑ 206
+(Gains) losses on sales, retirements and ﷼ ‑ 514 ‑ ‑ 514
+disposals
+$ ‑ 137 ‑ ‑ 137
+(Gains) losses on fair value remeasurement ﷼ ‑ (150) ‑ ‑ (150)
+of certain commodity derivatives
+$ ‑ (40) ‑ ‑ (40)
+Adjustments related to joint ventures and ﷼ ‑ 893 349 (97) 1,145
+associates
+$ ‑ 238 93 (26) 305
+﷼ ‑ 404 ‑ ‑ 404
+Others2
+$ ‑ 108 ‑ ‑ 108
+﷼ ‑ 29,932 349 (3,551) 26,730
+Total adjusting items
+$ ‑ 7,982 93 (947) 7,128
+﷼ 179,555 11,284 (5,789) (5,777) 179,273
+Adjusted EBIT
+$ 47,881 3,009 (1,544) (1,539) 47,807
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring and redundancy costs, amongst
+others.
+12 Saudi Aramco I Fourth quarter and full-year press release
+[TABLE DATA]
+| ﷼ | 179,555 | (18,648) | (6,138) | (2,226) | 152,543
+| $ | 47,881 | (4,973) | (1,637) | (592) | 40,679
+Adjusting Items: |  |  |  |  |  |
+| ﷼ | ‑ | 3,960 | ‑ | (3,454) | 506
+| $ | ‑ | 1,056 | ‑ | (921) | 135
+| ﷼ | ‑ | 23,539 | ‑ | ‑ | 23,539
+| $ | ‑ | 6,277 | ‑ | ‑ | 6,277
+| ﷼ | ‑ | 772 | ‑ | ‑ | 772
+| $ | ‑ | 206 | ‑ | ‑ | 206
+| ﷼ | ‑ | 514 | ‑ | ‑ | 514
+| $ | ‑ | 137 | ‑ | ‑ | 137
+| ﷼ | ‑ | (150) | ‑ | ‑ | (150)
+| $ | ‑ | (40) | ‑ | ‑ | (40)
+| ﷼ | ‑ | 893 | 349 | (97) | 1,145
+| $ | ‑ | 238 | 93 | (26) | 305
+| ﷼ | ‑ | 404 | ‑ | ‑ | 404
+| $ | ‑ | 108 | ‑ | ‑ | 108
+| ﷼ | ‑ | 29,932 | 349 | (3,551) | 26,730
+| $ | ‑ | 7,982 | 93 | (947) | 7,128
+|  |  |  |  |  |
+| ﷼ | 179,555 | 11,284 | (5,789) | (5,777) | 179,273
+| $ | 47,881 | 3,009 | (1,544) | (1,539) | 47,807
+[Page 13]
+All amounts in millions unless otherwise stated
+Adjusted EBIT
+3rd quarter 2025
+Upstream Downstream Corporate Eliminations Consolidated
+﷼ 193,079 5,079 (4,548) (501) 193,109
+EBIT
+$ 51,488 1,355 (1,213) (135) 51,495
+Adjusting Items:
+﷼ - (330) - 735 405
+Replacement cost adjustment1
+$ - (88) - 196 108
+Impairment and held for sale ﷼ - 5,345 - - 5,345
+remeasurement losses
+$ - 1,425 - - 1,425
+Losses for the year from assets classified as ﷼ - 608 - - 608
+held for sale
+$ - 162 - - 162
+(Gains) losses on sales, retirements and ﷼ 8 19 - - 27
+disposals
+$ 2 5 - - 7
+(Gains) losses on fair value remeasurement ﷼ - (15) - - (15)
+of certain commodity derivatives
+$ - (4) - - (4)
+Adjustments related to joint ventures and ﷼ - 184 - (38) 146
+associates
+$ - 49 - (10) 39
+﷼ - (507) - - (507)
+Others2
+$ - (135) - - (135)
+﷼ 8 5,304 - 697 6,009
+Total adjusting items3
+$ 2 1,414 - 186 1,602
+﷼ 193,087 10,383 (4,548) 196 199,118
+Adjusted EBIT3
+$ 51,490 2,769 (1,213) 51 53,097
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring, and redundancy costs, amongst
+others.
+3. Q3 2025 figures have been amended to reflect revisions made to adjusting items for comparative purposes.
+Saudi Aramco I Fourth quarter and full-year press release 1133
+[Page 14]
+All amounts in millions unless otherwise stated
+Adjusted EBIT
+4th quarter 2024
+Upstream Downstream Corporate Eliminations Consolidated
+﷼ 188,536 (7,957) (9,591) (12) 170,976
+EBIT
+$ 50,276 (2,122) (2,557) (3) 45,594
+Adjusting Items:
+﷼ - (1,148) - 1,530 382
+Replacement cost adjustment1
+$ - (306) - 408 102
+Impairment and held for sale ﷼ - 7,609 - - 7,609
+remeasurement losses
+$ - 2,029 - - 2,029
+Losses for the year from assets classified as ﷼ - 1,324 - - 1,324
+held for sale
+$ - 353 - - 353
+(Gains) losses on sales, retirements and ﷼ - (109) - - (109)
+disposals
+$ - (29) - - (29)
+(Gains) losses on fair value remeasurement ﷼ - 41 - - 41
+of certain commodity derivatives
+$ - 11 - - 11
+Adjustments related to joint ventures and ﷼ - 1,215 - (45) 1,170
+associates
+$ - 324 - (12) 312
+﷼ - (41) 11 - (30)
+Others2
+$ - (11) 3 - (8)
+﷼ - 8,891 11 1,485 10,387
+Total adjusting items
+$ - 2,371 3 396 2,770
+﷼ 188,536 934 (9,580) 1,473 181,363
+Adjusted EBIT
+$ 50,276 249 (2,554) 393 48,364
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring, and redundancy costs, amongst
+others.
+14 Saudi Aramco I Fourth quarter and full-year press release
+[Page 15]
+All amounts in millions unless otherwise stated
+Adjusted EBIT
+2025
+Upstream Downstream Corporate Eliminations Consolidated
+﷼ 731,850 (9,552) (18,539) (3,095) 700,664
+EBIT
+$ 195,160 (2,547) (4,944) (825) 186,844
+Adjusting Items:
+﷼ ‑ 5,955 ‑ (4,590) 1,365
+Replacement cost adjustment1
+$ ‑ 1,588 ‑ (1,224) 364
+Impairment and held for sale ﷼ ‑ 32,357 68 ‑ 32,425
+remeasurement losses
+$ ‑ 8,628 18 ‑ 8,646
+Losses for the year from assets classified as ﷼ ‑ 3,428 ‑ ‑ 3,428
+held for sale
+$ ‑ 914 ‑ ‑ 914
+(Gains) losses on sales, retirements and ﷼ 1,088 1,324 ‑ ‑ 2,412
+disposals
+$ 290 353 ‑ ‑ 643
+(Gains) losses on fair value remeasurement ﷼ ‑ (150) ‑ ‑ (150)
+of certain commodity derivatives
+$ ‑ (40) ‑ ‑ (40)
+Adjustments related to joint ventures and ﷼ ‑ 3,293 353 (135) 3,511
+associates
+$ ‑ 878 94 (36) 936
+﷼ ‑ 955 ‑ ‑ 955
+Others2
+$ ‑ 255 ‑ ‑ 255
+﷼ 1,088 47,162 421 (4,725) 43,946
+Total adjusting items
+$ 290 12,576 112 (1,260) 11,718
+﷼ 732,938 37,610 (18,118) (7,820) 744,610
+Adjusted EBIT
+$ 195,450 10,029 (4,832) (2,085) 198,562
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring, and redundancy costs, amongst
+others.
+Saudi Aramco I Fourth quarter and full-year press release 1155
+[TABLE DATA]
+| ﷼ | 731,850 | (9,552) | (18,539) | (3,095) | 700,664
+| $ | 195,160 | (2,547) | (4,944) | (825) | 186,844
+Adjusting Items: |  |  |  |  |  |
+| ﷼ | ‑ | 5,955 | ‑ | (4,590) | 1,365
+| $ | ‑ | 1,588 | ‑ | (1,224) | 364
+| ﷼ | ‑ | 32,357 | 68 | ‑ | 32,425
+| $ | ‑ | 8,628 | 18 | ‑ | 8,646
+| ﷼ | ‑ | 3,428 | ‑ | ‑ | 3,428
+| $ | ‑ | 914 | ‑ | ‑ | 914
+| ﷼ | 1,088 | 1,324 | ‑ | ‑ | 2,412
+| $ | 290 | 353 | ‑ | ‑ | 643
+| ﷼ | ‑ | (150) | ‑ | ‑ | (150)
+| $ | ‑ | (40) | ‑ | ‑ | (40)
+| ﷼ | ‑ | 3,293 | 353 | (135) | 3,511
+| $ | ‑ | 878 | 94 | (36) | 936
+| ﷼ | ‑ | 955 | ‑ | ‑ | 955
+| $ | ‑ | 255 | ‑ | ‑ | 255
+| ﷼ | 1,088 | 47,162 | 421 | (4,725) | 43,946
+| $ | 290 | 12,576 | 112 | (1,260) | 11,718
+|  |  |  |  |  |
+| ﷼ | 732,938 | 37,610 | (18,118) | (7,820) | 744,610
+| $ | 195,450 | 10,029 | (4,832) | (2,085) | 198,562
+[Page 16]
+All amounts in millions unless otherwise stated
+Adjusted EBIT
+2024
+Upstream Downstream Corporate Eliminations Consolidated
+﷼ 801,047 (10,998) (21,830) 4,077 772,296
+EBIT
+$ 213,613 (2,933) (5,821) 1,087 205,946
+Adjusting Items:
+﷼ - 4,114 - (3,773) 341
+Replacement cost adjustment1
+$ - 1,097 - (1,006) 91
+Impairment and held for sale ﷼ - 11,811 23 - 11,834
+remeasurement losses
+$ - 3,150 6 - 3,156
+Losses for the year from assets classified as ﷼ - 3,544 - - 3,544
+held for sale
+$ - 945 - - 945
+(Gains) losses on sales, retirements and ﷼ - (338) - - (338)
+disposals
+$ - (90) - - (90)
+(Gains) losses on fair value remeasurement ﷼ - 68 - - 68
+of certain commodity derivatives
+$ - 18 - - 18
+Adjustments related to joint ventures and ﷼ - 1,226 - (79) 1,147
+associates
+$ - 327 - (21) 306
+﷼ - (568) 11 - (557)
+Others2
+$ - (152) 3 - (149)
+﷼ - 19,857 34 (3,852) 16,039
+Total adjusting items
+$ - 5,295 9 (1,027) 4,277
+﷼ 801,047 8,859 (21,796) 225 788,335
+Adjusted EBIT
+$ 213,613 2,362 (5,812) 60 210,223
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring, and redundancy costs, amongst
+others.
+16 Saudi Aramco I Fourth quarter and full-year press release
+[Page 17]
+All amounts in millions unless otherwise stated
+Adjusted net income
+4th quarter 3rd quarter 4th quarter Twelve months Twelve months
+2025 2025 2024 2025 2024
+﷼ 66,630 101,015 83,776 350,210 398,422
+Net income
+$ 17,768 26,937 22,340 93,389 106,246
+Adjusting Items:
+﷼ 506 405 382 1,365 341
+Replacement cost adjustment1
+$ 135 108 102 364 91
+Impairment and held for sale ﷼ 23,539 5,345 7,609 32,425 11,834
+remeasurement losses $ 6,277 1,425 2,029 8,646 3,156
+Losses for the year from assets ﷼ 772 608 1,324 3,428 3,544
+classified as held for sale $ 206 162 353 914 945
+(Gains) losses on sales, retirements ﷼ 514 27 (109) 2,412 (338)
+and disposals $ 137 7 (29) 643 (90)
+(Gains) losses on fair value ﷼ (150) (15) 41 (150) 68
+remeasurement of certain commodity
+derivatives $ (40) (4) 11 (40) 18
+Adjustments related to joint ventures ﷼ 1,145 146 1,170 3,511 1,147
+and associates $ 305 39 312 936 306
+﷼ 404 (507) (30) 955 (557)
+Others2
+$ 108 (135) (8) 255 (149)
+﷼ 26,730 6,009 10,387 43,946 16,039
+Total adjusting items3
+$ 7,128 1,602 2,770 11,718 4,277
+﷼ 34 34 15 98 1,118
+Adjusting items related to finance costs3
+$ 9 9 4 26 298
+﷼ 585 (1,080) 1,631 (1,800) (1,958)
+Tax and zakat adjustments3,4
+$ 156 (288) 435 (480) (522)
+﷼ 93,979 105,978 95,809 392,454 413,621
+Adjusted net income3
+$ 25,061 28,260 25,549 104,653 110,299
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring, and redundancy costs, amongst
+others.
+3. Q3 2025 figures have been amended to reflect revisions made to adjusting items for comparative purposes.
+4. Includes tax and zakat effect of the adjusting items listed and deferred tax impact of certain transactions.
+Saudi Aramco I Fourth quarter and full-year press release 1177
+[TABLE DATA]
+﷼ | 66,630 | 101,015 83,776
+26,937 22,340 | 350,210 | 398,422
+$ | 17,768 |  | 93,389 | 106,246
+| ﷼ | 506 |  | 382 | 1,365 | 341
+| $ | 135 |  | 102 | 364 | 91
+| ﷼ | 23,539 | 5,345
+1,425 | 7,609 | 32,425 | 11,834
+| $ | 6,277 |  | 2,029 | 8,646 | 3,156
+| ﷼ | 772 | 608
+162 | 1,324 | 3,428 | 3,544
+| $ | 206 |  | 353 | 914 | 945
+| ﷼ | 514 | 27
+7 | (109) | 2,412 | (338)
+| $ | 137 |  | (29) | 643 | (90)
+| ﷼ | (150) | (15)
+(4) | 41 | (150) | 68
+| $ | (40) |  | 11 | (40) | 18
+| ﷼ | 1,145 | 146
+39 | 1,170 | 3,511 | 1,147
+| $ | 305 |  | 312 | 936 | 306
+| ﷼ | 404 | (507)
+(135) | (30) | 955 | (557)
+| $ | 108 |  | (8) | 255 | (149)
+| ﷼ | 26,730 | 6,009
+1,602 | 10,387 | 43,946 |
+| $ | 7,128 |  | 2,770 | 11,718 |
+| ﷼ | 34 | 34
+9 | 15 | 98 |
+| $ | 9 |  | 4 | 26 |
+| ﷼ | 585 | (1,080)
+(288) | 1,631 | (1,800) |
+| $ | 156 |  | 435 | (480) |
+|  |  |  |  |  |
+| ﷼ | 93,979 | 105,978
+28,260 | 95,809 | 392,454 |
+| $ | 25,061 |  | 25,549 | 104,653 |
+[Page 18]
+Terms and abbreviations
+Currencies mmscfd NGL
+﷼/SAR/Saudi Riyal Million standard cubic feet per day Natural gas liquids, which are liquid or
+Saudi Arabian Riyal, the lawful currency of liquefied hydrocarbons produced in the
+the Kingdom mmtpa manufacture, purification, and stabilization
+Million metric tons per annum of natural gas. For the reporting of
+$/USD/Dollar reserves, ethane is included in NGL. For the
+U.S. dollar mtpa reporting of production, NGL is included
+Million tons per annum in total liquids, and ethane is reported as a
+Units of measurement component of total gas.
+Barrel (bbl) MWh
+Barrels of crude oil, condensate, or refined Megawatt hour Supply reliability
+products Total products volume shipped/delivered
+per day within 24 hours of the scheduled time,
+bn Volumes are converted into a daily basis divided by the total products volume
+Billion using a calendar year (Gregorian) committed. Any delays caused by factors
+that are under the Company’s control
+boe PetaFLOP (e.g. terminal, pipeline, stabilization, or
+Barrels of oil equivalent A unit of measure for calculating computer production) negatively affect the score,
+speed equal to approximately one whereas delays caused by conditions that
+bpd quadrillion operations per second are beyond the Company’s control, such
+Barrels per day as adverse weather, are not considered.
+scf A score of less than 100% indicates there
+bscf Standard cubic feet were issues that negatively impacted
+Billion standard cubic feet supply reliability.
+tscf
+bscfd Trillion standard cubic feet
+Billion standard cubic feet per day
+Technical terms
+bstb CO
+2
+Billion stock tank barrels Carbon dioxide.
+GW Condensate
+Gigawatt Light hydrocarbon substances produced
+with raw gas which condense into liquid
+kgCOe/boe at normal temperatures and pressures
+2
+Kilograms of carbon dioxide equivalent per associated with surface production
+barrel of oil equivalent equipment.
+mboed Hydrocarbons
+Thousand barrels of oil equivalent per day Crude oil and other hydrogen and carbon
+compounds in liquid or gaseous state.
+mbpd
+Thousand barrels per day Liquids
+Crude oil, condensate, and NGL.
+mmbbl
+Million barrels MSC
+Maximum Sustainable Capacity – the
+mmboe average maximum number of barrels per
+Million barrels of oil equivalent day of crude oil that can be produced
+for one year during any future planning
+mmboed period, after taking into account all
+Million barrels of oil equivalent per day planned capital expenditures and
+maintenance, repair and operating costs,
+mmbpd and after being given three months to
+Million barrels per day make operational adjustments. The MSC
+excludes AGOC’s crude oil production
+mmBTU capacity.
+Million British thermal units
+Natural gas
+mmtCOe Methane produced at Aramco’s gas plants
+2
+Million metric tons of carbon dioxide and sold within the Kingdom as sales gas.
+equivalent
+18 Saudi Aramco I Fourth quarter and full-year press release
+[Page 19]
+Glossary
+Affiliate EBIT SABIC
+Except with respect to financial Earnings (losses) before interest, income Saudi Basic Industries Corporation, which
+information, the term affiliate means a taxes, and zakat. is a publicly traded company listed on the
+person who controls another person or is Saudi Exchange.
+controlled by that other person, or who is HUMAIN
+under common control with that person PIF portfolio company specialized in Saudi Aramco/Aramco/Group
+by a third person. In any of the preceding, artificial intelligence technologies and Saudi Arabian Oil Company, together with
+control could be direct or indirect. solutions. its consolidated subsidiaries, and where
+the context requires, its joint operations,
+With respect to financial information, IFRS joint ventures and associates.
+the term affiliate means the Company’s International Financial Reporting
+subsidiaries, joint arrangements and Standard(s) that are endorsed in the Any reference to “us”, “we” or “our”
+associates, each as defined by IFRS. Kingdom and other standards and refers to Aramco except where otherwise
+pronouncements endorsed by SOCPA. stated.
+AI
+Artificial Intelligence. iktva Unless otherwise stated, the text does not
+In-Kingdom Total Value Add. distinguish between the activities and
+Associate operations of the Company and those of
+With respect to financial information, Joint arrangement its subsidiaries.
+the term Associate, as defined by IFRS, The term joint arrangement, as defined by
+means an entity over which the Company IFRS, refers to either a joint operation or a SATORP
+has significant influence but not control, joint venture. Saudi Aramco Total Refining and
+generally reflected by a shareholding Petrochemical Company, a venture
+of between 20% and 50% of the voting Joint operation established by Aramco and Total Refining
+rights. Significant influence is the power to The term joint operation, as defined by Saudi Arabia SAS in 2008.
+participate in the financial and operating IFRS, means a type of joint arrangement
+policy decisions of the investee but is not whereby the parties that have joint control Shareholder
+control or joint control over those policies. of the agreement have rights to the assets Any holder of shares.
+and obligations for the liabilities relating
+Auditor to the arrangement. SOCPA
+An auditor is a person or entity authorized Saudi Organization for Chartered and
+to review and verify the accuracy Joint venture Professional Accountants.
+of financial records and ensure that The term joint venture, as defined by
+companies comply with applicable laws IFRS, means a type of joint arrangement S‑OIL
+and regulations. Aramco is audited by an whereby the parties that have joint control S-Oil Corporation.
+independent external auditor, of the arrangement have rights to the net
+PricewaterhouseCoopers (PwC) Public assets of the joint arrangement. Subsidiaries
+Accountants. Except with respect to financial
+Kingdom information, the term subsidiaries mean
+Board Kingdom of Saudi Arabia. the companies that Aramco controls
+The Board of Directors of the Company. through its ability to influence the actions
+MENA or decisions of another person through,
+Company Middle East and North Africa. whether directly or indirectly, alone or
+Saudi Arabian Oil Company (the with a relative or affiliate (i) holding 30%
+Company). PIF or more of the voting rights in a company
+Public Investment Fund of Saudi Arabia. or (ii) having the right to appoint 30% or
+Control more of the board of a company.
+Except with respect to financial PP
+information, the term “Control” means Percentage point. With respect to financial information,
+the ability to influence the actions or the term subsidiaries is defined by IFRS,
+decisions of another person through, Price equalization meaning entities over which the Company
+whether directly or indirectly, alone or Prices are established separately by the has control.
+with a relative or affiliate (a) holding Ministry of Energy for each relevant
+30% or more of the voting rights in product using a combination of either
+a company, or (b) having the right to internationally recognized indices or,
+appoint 30% or more of the Board of a where relevant, the Company’s official
+company; “controller” shall be construed selling price and, depending on the
+accordingly. relevant product, on the basis of export
+parity, import parity or a combination of
+With respect to financial information, both.
+the term “Control” is defined by IFRS:
+The Company controls an entity when it ROACE
+is exposed to, or has rights to, variable Return on average capital employed.
+returns from its involvement with the
+entity and has the ability to affect those
+returns through its power over the entity.
+Saudi Aramco I Fourth quarter and full-year press release 1199
+[Page 20]
+Disclaimer
+This Fourth Quarter and Full-Year Press Release may contain For a discussion of our risk factors, please see Aramco’s Annual
+certain forward-looking statements with respect to Aramco’s Report 2025, available through the investor relations section of
+financial position, results of operations and business and certain of Aramco’s website at
+Aramco’s plans, intentions, expectations, assumptions, goals and www.aramco.com/en/investors/reports-and-presentations.
+beliefs regarding such items. These statements include all matters
+that are not historical fact and generally, but not always, may be Our forward-looking statements speak as of the date of this
+identified by the use of words such as “believes”, “expects”, “are report or the date they are made, and we undertake no obligation
+expected to”, “anticipates”, “intends”, “estimates”, “should”, to update or revise any forward-looking statement, whether
+“will”, “shall”, “may”, “is likely to”, “plans”, “outlook” or similar as a result of new information, future events or otherwise.
+expressions, including variations and the negatives thereof or All subsequent written and oral forward-looking statements
+comparable terminology. attributable to us or to persons acting on our behalf are expressly
+qualified in their entirety by the cautionary statements referred to
+Investors and prospective investors should be aware that forward- above and our risk factors in our Annual Report and statements
+looking statements are not guarantees of future performance contained elsewhere in this Fourth Quarter and Full-Year Press
+and that Aramco’s actual financial position, results of operations Release. Undue reliance should not be placed on the forward-
+and business and the development of the industries in which it looking statements.
+operates may differ significantly from those made in or suggested
+by these forward-looking statements. In addition, even if Financial information herein, with the exception of three-month
+Aramco’s financial position, results of operations and business periods ended December 31, 2025 and December 31, 2024, has
+and the development of the industries in which it operates are been extracted from Aramco’s consolidated financial statements
+consistent with these forward-looking statements, those results or for the twelve month period ended December 31, 2025 prepared
+developments may not be indicative of results or developments in and presented in accordance with International Financial
+subsequent periods. Reporting Standards and Aramco’s condensed consolidated
+interim financial report for the three-month and nine-month
+Factors that could cause actual results to differ materially from periods ended September 30, 2025 prepared and presented in
+Aramco’s expectations are contained in cautionary statements and accordance with IAS 34, which are endorsed in the Kingdom
+include, among other things, the following: of Saudi Arabia, and other standards and pronouncements
+issued by the Saudi Organization for Chartered and Professional
+• Global supply, demand and price fluctuations of oil, gas and Accountants. Financial information contained in this Fourth
+petrochemicals; Quarter and Full-Year Press Release is converted at a fixed rate
+of U.S. dollar 1.00 = SAR 3.75 for convenience only. The numbers
+• Global economic conditions;
+presented throughout may not sum precisely to the totals
+• Competition in the industries in which Aramco operates;
+provided, and percentages may not precisely reflect the absolute
+• Climate change concerns, weather conditions and related figures, due to rounding.
+impacts on the global demand for hydrocarbons and
+hydrocarbon-based products, as well as risks related to Aramco’s
+Financial information for the three-month periods ended
+ESG goals and targets;
+December 31, 2025 and December 31, 2024 has not been subject
+• Conditions affecting the transportation of products; to an interim review in accordance with the International Standard
+• Operational risk and hazards common in the oil and gas, on Review Engagements 2410 (Review of Interim Financial
+refining and petrochemicals industries; Information Performed by the Independent Auditor of the
+Company).
+• The cyclical nature of the oil and gas, refining and
+petrochemicals industries;
+In addition, this document includes certain “non-IFRS financial
+• Political and social instability and unrest, and actual or potential
+measures”. These measures are not recognized measures under
+armed conflicts in the MENA region and other areas;
+IFRS and do not have standardized meanings prescribed by IFRS.
+• Natural disasters and public health pandemics or epidemics; Rather, these measures are provided as additional information to
+• The management of Aramco’s growth; complement IFRS measures by providing further understanding
+• The management of the Company’s subsidiaries, joint of Aramco’s results of operations, cash flow and financial position
+operations, joint ventures, associates and entities in which it from management’s perspective. Accordingly, they should not be
+holds a minority interest; considered in isolation or as a substitute for analysis of Aramco’s
+financial information reported under IFRS.
+• Aramco’s exposure to inflation, interest rate risk and foreign
+exchange risk;
+A reconciliation of non-IFRS measures is included in the Non-
+• Risks related to operating in a regulated industry and changes to
+IFRS measures reconciliations and definitions section of this
+oil, gas, environmental or other regulations that impact the
+Fourth Quarter and Full-Year Press. The Company may revise the
+industries in which Aramco operates;
+definitions of non-IFRS financial measures, introduce new financial
+• Legal proceedings, international trade matters, and other measures, or discontinue their use altogether in future reporting
+disputes or agreements; and,
+periods. Furthermore, this report may include non-IFRS financial
+• Risks related to the Kingdom. measures not used in prior reports, making it difficult to compare
+performance of such measures with past periods.
+20 Saudi Aramco I Fourth quarter and full-year press release

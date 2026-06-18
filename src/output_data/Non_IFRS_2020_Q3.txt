@@ -1,0 +1,178 @@
+SOURCE: Saudi Aramco — Non IFRS 2020 Q3
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2020/q3/saudi-aramco-q3-2020-non-ifrs-english.pdf
+============================================================
+
+[Page 1]
+1 Saudi Arabian Oil Company
+Third quarter and nine months 2020
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and
+definitions
+Aramco uses certain non-IFRS financial measures – ROACE, free cash flow, gearing and EBIT – in the analysis of its business and financial
+position.
+These non-IFRS financial measures have been included below to facilitate a better understanding of Aramco’s historical trends of operation and
+financial position.
+Aramco uses non-IFRS financial measures as supplementary information to its IFRS based operating performance and financial position. The
+non-IFRS financial measures are not defined by, or presented in accordance with, IFRS. The non-IFRS financial measures are not measurements
+of Aramco’s operating performance or liquidity under IFRS and should not be used instead of, or considered as alternatives to, any measures of
+performance or liquidity under IFRS. The non-IFRS financial measures relate to the third quarter and nine month periods and are not intended to
+be predictive of future results. In addition, other companies, including those in Aramco’s industry, may calculate similarly titled non-IFRS financial
+measures differently from Aramco. Because companies do not necessarily calculate these non-IFRS financial measures in the same manner,
+Aramco’s presentation of such non-IFRS financial measures may not be comparable to other similarly titled non-IFRS financial measures used by
+other companies.
+ROACE
+ROACE measures the efficiency of Aramco’s utilization of capital. Aramco defines ROACE as net income before finance costs, net of income
+taxes and zakat, for a period as a percentage of average capital employed during that period. Average capital employed is the average of total
+borrowings plus total equity at the beginning and end of the applicable period. Aramco utilizes ROACE to evaluate management’s performance
+and demonstrate to its shareholders that capital has been used effectively.
+ROACE for the third quarter and nine months ended September 30, 2020, calculated on a twelve-month rolling basis, was 14.8% compared to
+31.5% for the same periods in 2019. This decrease was primarily attributable to lower net income, and to a lesser extent, higher borrowings as a
+result of the SABIC acquisition.
+SAR USD*
+Twelve months ended Twelve months ended
+September 30 September 30
+All amounts in millions unless otherwise stated 2020 2019 2020 2019
+Net income 206,291 359,771 55,010 95,939
+Finance costs, net of income taxes and zakat 4,265 2,608 1,137 696
+Net income before finance costs, net of income taxes and zakat 210,556 362,379 56,147 96,635
+As at period start:
+Non-current borrowings 133,288 73,302 35,543 19,547
+Current borrowings 40,006 28,883 10,668 7,702
+Total equity 1,049,446 973,892 279,852 259,705
+Capital employed 1,222,740 1,076,077 326,063 286,954
+As at period end:
+Non-current borrowings 411,552 133,288 109,747 35,543
+Current borrowings 96,770 40,006 25,805 10,668
+Total equity 1,113,737 1,049,446 296,997 279,852
+Capital employed 1,622,059 1,222,740 432,549 326,063
+Average capital employed 1,422,400 1,149,409 379,306 306,509
+ROACE 14.8% 31.5% 14.8% 31.5%
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+206,291
+4,265
+210,556
+133,288
+40,006
+1,049,446
+1,222,740
+411,552
+96,770
+1,113,737
+1,622,059
+1,422,400
+14.8%
+55,010
+1,137
+56,147
+35,543
+10,668
+279,852
+326,063
+109,747
+25,805
+296,997
+432,549
+379,306
+14.8%
+[Page 2]
+Saudi Arabian Oil Company 2
+Third quarter and nine months 2020
+All amounts in millions unless otherwise stated
+Free cash flow
+Aramco uses free cash flow to evaluate its cash available for financing activities, including dividend payments. Aramco defines free cash flow as
+net cash provided by operating activities less capital expenditures.
+Free cash flow for the third quarter of 2020 was SAR 46,547 ($12,411), compared to SAR 77,290 ($20,611) for the same quarter in 2019, a
+decrease of SAR 30,743 ($8,200). This decrease was principally due to lower operating cash flow, reflecting a decline in earnings and
+unfavourable movements in working capital, partially offset by a reduction in settlement of taxes and zakat. Capital expenditures decreased by
+SAR 6,418 ($1,711) in the third quarter of 2020, compared to the same quarter in 2019, as a result of the on-going capital spending optimization
+and efficiency programs.
+Free cash flow for the first nine months of 2020 was SAR 125,752 ($33,533), compared to SAR 219,716 ($58,591) for the same period in 2019.
+This decrease of SAR 93,964 ($25,058) mainly reflects lower earnings resulting from lower crude oil prices and volumes sold and weaker refining
+and chemicals margins. This was partially offset by a decrease in settlement of taxes and zakat and cash released from working capital changes.
+Capital expenditures for the first nine months of 2020 declined in comparison to the same period in 2019, due to the implementation of capital
+spending optimization and efficiency programs in response to the current economic environment.
+Third quarter Nine months
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2020 2019 2020 2019 2020 2019 2020 2019
+Net cash provided by operating activities 70,481 107,642 18,794 28,705 200,858 304,331 53,561 81,155
+Capital expenditures (23,934) (30,352) (6,383) (8,094) (75,106) (84,615) (20,028) (22,564)
+Free cash flow 46,547 77,290 12,411 20,611 125,752 219,716 33,533 58,591
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Gearing
+Gearing is a measure of the degree to which Aramco’s operations are financed by debt. Aramco defines gearing as the ratio of total borrowings
+less cash and cash equivalents to total borrowings less cash and cash equivalents plus total equity. Management believes that gearing is widely
+used by analysts and investors in the oil and gas industry to indicate a company’s financial health and flexibility.
+Gearing increased from –0.2% (net cash position) as at December 31, 2019 to 21.8% as at September 30, 2020. This principally reflects an
+increase in debt in connection with the deferred consideration on acquisition of SABIC, the full drawdown of a $10 billion term loan facility and the
+consolidation of SABIC’s net debt onto Aramco’s balance sheet.
+SAR USD*
+September 30, December 31, September 30, December 31,
+All amounts in millions unless otherwise stated 2020 2019 2020 2019
+Total borrowings (current and non-current) 508,322 175,585 135,552 46,823
+Cash and cash equivalents (197,649) (177,706) (52,706) (47,388)
+Net debt / (cash) 310,673 (2,121) 82,846 (565)
+Total equity 1,113,737 1,046,235 296,997 278,996
+Total equity and net debt / (cash) 1,424,410 1,044,114 379,843 278,431
+Gearing 21.8% (0.2)% 21.8% (0.2)%
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+70,481 | 107,642
+(30,352) | 18,794
+(23,934) |  | (6,383)
+46,547 | 77,290 | 12,411
+200,858 | 304,331 | 53,561
+(75,106) | (84,615) | (20,028)
+125,752 | 219,716 | 33,533
+508,322
+(197,649)
+310,673
+1,113,737
+1,424,410
+21.8%
+135,552
+(52,706)
+82,846
+296,997
+379,843
+21.8%
+[Page 3]
+3 Saudi Arabian Oil Company
+Third quarter and nine months 2020
+All amounts in millions unless otherwise stated
+Earnings before interest, income taxes and zakat (EBIT)
+Aramco believes EBIT provides useful information regarding its financial performance to analysts and investors. Aramco defines EBIT as net
+income plus finance costs and income taxes and zakat, less finance income.
+EBIT for the third quarter ended September 30, 2020, was SAR 95,477 ($25,461) compared to SAR 165,479 ($44,129) during the same quarter in
+2019, representing a decrease of SAR 70,002 ($18,668). This primarily reflects the impact of lower crude oil prices and volumes sold, and weaker
+refining and chemicals margins.
+EBIT for the nine months ended September 30, 2020, was SAR 274,905 ($73,308) compared to SAR 512,378 ($136,635) during the same period
+in 2019. This decrease of SAR 237,473 ($63,327) was mainly due to the impact of lower crude oil prices and volumes sold, and reduced refining
+and chemicals margins.
+Third quarter Nine months
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2020 2019 2020 2019 2020 2019 2020 2019
+Net income 44,209 79,839 11,789 21,291 131,308 255,710 35,015 68,190
+Finance income (681) (1,411) (181) (376) (2,315) (4,125) (617) (1,100)
+Finance costs 3,407 1,623 909 433 6,906 4,402 1,842 1,174
+Income taxes and zakat 48,542 85,428 12,944 22,781 139,006 256,391 37,068 68,371
+Earnings before interest, income
+taxes and zakat 95,477 165,479 25,461 44,129 274,905 512,378 73,308 136,635
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+44,209 | 79,839
+(1,411)
+1,623
+85,428 | 11,789
+(681) |  | (181)
+3,407 |  | 909
+48,542 |  | 12,944
+| 165,479 |
+95,477 |  | 25,461
+131,308 | 255,710 | 35,015
+(2,315) | (4,125) | (617)
+6,906 | 4,402 | 1,842
+139,006 | 256,391 | 37,068
+|  |
+274,905 | 512,378 | 73,308

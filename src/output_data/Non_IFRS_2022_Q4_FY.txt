@@ -1,0 +1,210 @@
+SOURCE: Saudi Aramco — Non IFRS 2022 Q4 FY
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2022/q4---fy/saudi-aramco-fy-2022-non-ifrs-english.pdf
+============================================================
+
+[Page 1]
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and definitions
+for the year ended December 31, 2022
+Aramco uses certain non-IFRS financial measures or considered as alternatives to, any measures
+to make informed decisions about its financial of performance or liquidity under IFRS. The
+position, operating performance or liquidity. non-IFRS financial measures relate to the
+These non-IFRS financial measures have reporting periods described below and are not
+been included below to facilitate a better intended to be predictive of future results. In
+understanding of Aramco’s historical trends addition, other companies, including those in
+of operation and financial position. Aramco’s industry, may calculate similarly titled
+non-IFRS financial measures differently from
+Aramco uses non-IFRS financial measures as
+Aramco. Because companies do not necessarily
+supplementary information to its IFRS-based
+calculate these non-IFRS financial measures in
+operating performance and financial position.
+the same manner, Aramco’s presentation of
+The non-IFRS financial measures are not defined
+such non-IFRS financial measures may not be
+by, or presented in accordance with, IFRS. The
+comparable to other similarly titled non-IFRS
+non-IFRS financial measures are not measurements
+financial measures used by other companies.
+of Aramco’s operating performance or liquidity
+under IFRS and should not be used instead of,
+Return on average capital employed (ROACE)
+ROACE measures the efficiency of Aramco’s ROACE for the year ended December 31, 2022,
+utilization of capital. Aramco defines ROACE as was 31.6%, compared to 24.4% in 2021. This
+net income before finance costs, net of income increase was mainly attributable to higher
+taxes and zakat, as a percentage of average earnings, primarily reflecting stronger crude oil
+capital employed, calculated on a 12-month prices and volumes sold, and improved refining
+rolling basis. Average capital employed is the margins. This was partially offset by higher average
+average of total borrowings plus total equity at capital employed during the year due to an increase
+the beginning and end of the applicable period. in total equity associated with higher earnings.
+Aramco utilizes ROACE to evaluate management’s
+performance and demonstrate to its shareholders
+ROACE
+that capital has been used effectively.
+(%)
+2022 31.6
+2021 24.4
+SAR USD*
+Twelve months ended Twelve months ended
+December 31 December 31
+All amounts in millions unless otherwise stated 2022 2021 2022 2021
+Net income 604,005 412,396 161,068 109,972
+Finance costs, net of income taxes and zakat 4,441 6,029 1,185 1,608
+Net income before finance costs, net of income taxes and zakat 608,446 418,425 162,253 111,580
+As at period start:
+Non-current borrowings 436,371 436,920 116,366 116,512
+Current borrowings 74,550 99,157 19,880 26,442
+Total equity 1,280,668 1,101,094 341,512 293,625
+Capital employed 1,791,589 1,637,171 477,758 436,579
+As at period end:
+Non-current borrowings 318,380 436,371 84,901 116,366
+Current borrowings 74,764 74,550 19,937 19,880
+Total equity 1,666,147 1,280,668 444,306 341,512
+Capital employed 2,059,291 1,791,589 549,144 477,758
+Average capital employed 1,925,440 1,714,380 513,451 457,169
+ROACE 31.6% 24.4% 31.6% 24.4%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+604,005
+4,441
+608,446
+436,371
+74,550
+1,280,668
+1,791,589
+318,380
+74,764
+1,666,147
+2,059,291
+1,925,440
+31.6%
+161,068
+1,185
+162,253
+116,366
+19,880
+341,512
+477,758
+84,901
+19,937
+444,306
+549,144
+513,451
+31.6%
+[Page 2]
+All amounts in millions unless otherwise stated
+Free cash flow
+Aramco uses free cash flow to evaluate its cash refining margins. This was partially offset by
+available for financing activities, including higher cash paid for the settlement of income,
+dividend payments. Aramco defines free cash zakat and other taxes, and an increase in
+flow as net cash provided by operating activities upstream capital expenditures.
+less capital expenditures.
+Free cash flow in 2022 was SAR 556,991 Free cash flow
+($148,531), compared to SAR 402,956 ($107,455) ($ million)
+in 2021, an increase of SAR 154,035 ($41,076), or
+38.2%. This was predominantly due to higher 2022 148,531
+operating cash flows, largely driven by stronger
+crude oil prices and volumes sold, and improved 2021 107,455
+SAR USD*
+Year ended December 31 Year ended December 31
+All amounts in millions unless otherwise stated 2022 2021 2022 2021
+Net cash provided by operating activities 698,152 522,601 186,174 139,360
+Capital expenditures (141,161) (119,645) (37,643) (31,905)
+Free cash flow 556,991 402,956 148,531 107,455
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Gearing
+Gearing is a measure of the degree to which Aramco’s gearing ratio was (7.9)% as at December
+Aramco’s operations are financed by debt and 31, 2022, compared to 12.0% as at December 31,
+reflects available liquidity held in current and 2021. The decrease in gearing reflects the impact
+non-current investments and cash management of net cash position and higher total equity,
+instruments. Aramco defines gearing as the ratio predominantly driven by stronger earnings as
+of net (cash) / debt (total borrowings less cash a result of higher crude oil prices and volumes
+and cash equivalents, short-term investments, sold, and improved refining margins.
+investments in debt securities (current and
+non-current), and non-current cash investments)
+Gearing
+to total equity and net (cash) / debt. Management
+believes that gearing is widely used by analysts (%)
+and investors in the oil and gas industry to indicate
+a company’s financial health and flexibility. 2022 (7.9)
+2021 12.0
+SAR USD*
+As at December 31 As at December 31
+All amounts in millions unless otherwise stated 2022 2021 2022 2021
+Total borrowings (current and non-current) 393,144 510,921 104,838 136,246
+Cash and cash equivalents (226,047) (299,579) (60,279) (79,888)
+Short-term investments (281,215) (27,073) (74,991) (7,219)
+Investments in debt securities (current and non-current)1 (8,565) (8,966) (2,282) (2,391)
+Non-current cash investments – – – –
+Net (cash) / debt (122,683) 175,303 (32,714) 46,748
+Total equity 1,666,147 1,280,668 444,306 341,512
+Total equity and net (cash) / debt 1,543,464 1,455,971 411,592 388,260
+Gearing2 (7.9)% 12.0% (7.9)% 12.0%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+1. As at December 31, 2022, investments in debt securities (current and non-current) are comprised of SAR 906 ($240) and SAR 7,659 ($2,042) which form part of other assets and
+receivables under current assets, and investments in securities under non-current assets, respectively. As at December 31, 2021, the investments in debt securities (current and
+non-current) are comprised of SAR 1,515 ($404) and SAR 7,451 ($1,987) which form part of other assets and receivables under current assets, and investments in securities under
+non-current assets, respectively.
+2. Comparative ratios have been amended to reflect Aramco’s revised gearing definition. Aramco’s gearing ratio based on its previously disclosed definition is 9.1% and 14.2%
+as at December 31, 2022, and December 31, 2021, respectively.
+[TABLE DATA]
+698,152
+(141,161)
+556,991
+186,174
+(37,643)
+148,531
+393,144
+(226,047)
+(281,215)
+(8,565)
+–
+(122,683)
+1,666,147
+1,543,464
+(7.9)%
+104,838
+(60,279)
+(74,991)
+(2,282)
+–
+(32,714)
+444,306
+411,592
+(7.9)%
+[Page 3]
+All amounts in millions unless otherwise stated
+Earnings before interest, income taxes and zakat (EBIT)
+Aramco defines EBIT as net income plus finance
+costs and income taxes and zakat, less finance EBIT
+income. Aramco believes EBIT provides useful ($ million)
+information regarding its financial performance
+to analysts and investors. 2022 306,512
+EBIT for 2022 was SAR 1,149,419 ($306,512), 2021 208,046
+compared to SAR 780,174 ($208,046) in 2021.
+This increase of SAR 369,245 ($98,466), or 47.3%,
+mainly represents the impact of stronger crude
+oil prices and volumes sold, and improved
+refining margins, partially offset by an increase
+in purchases and production royalties.
+SAR USD*
+Year ended December 31 Year ended December 31
+All amounts in millions unless otherwise stated 2022 2021 2022 2021
+Net income 604,005 412,396 161,068 109,972
+Finance income (12,425) (1,405) (3,313) (375)
+Finance costs 8,882 12,058 2,369 3,215
+Income taxes and zakat 548,957 357,125 146,388 95,234
+Earnings before interest, income taxes and zakat 1,149,419 780,174 306,512 208,046
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+604,005
+(12,425)
+8,882
+548,957
+1,149,419
+161,068
+(3,313)
+2,369
+146,388
+306,512

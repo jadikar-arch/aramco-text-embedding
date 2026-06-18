@@ -1,0 +1,56 @@
+SOURCE: Saudi Aramco — Non IFRS 2019 Q4 FY
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2019/q4---fy/saudi-aramco-fy-2019-non-ifrs-english.pdf
+============================================================
+
+[Page 1]
+Non-IFRS measures reconciliations and definitions
+for the year ended December 31, 2019
+Saudi Aramco uses certain non-IFRS financial measures in the analysis of its business and financial position. These non-IFRS financial measures
+are reported to facilitate a better understanding of Saudi Aramco’s historic trends of operation and
+financial position.
+Saudi Aramco uses non-IFRS financial measures as supplementary information to its IFRS based operating performance and financial position.
+The non-IFRS financial measures are not defined by, or presented in accordance with, IFRS. The non-IFRS financial measures are not
+measurements of Saudi Aramco’s operating performance or liquidity under IFRS and should not be used instead of, or considered as alternatives
+to, any measures of performance or liquidity under IFRS. The non-IFRS financial measures relate to the periods presented below and are not
+intended to be predictive of future results. In addition, other companies, including those in Saudi Aramco’s industry, may calculate similarly titled
+non-IFRS financial measures differently from Saudi Aramco. Because companies do not necessarily calculate these non-IFRS financial measures
+in the same manner, Saudi Aramco’s presentation of such non-IFRS financial measures may not be comparable to other similarly titled non-IFRS
+financial measures used by other companies.
+Free cash flow
+Saudi Aramco uses free cash flow to evaluate its cash available for financing activities, including dividend payments. Saudi Aramco defines
+free cash flow as net cash provided by operating activities less capital expenditures.
+SAR USD*
+Year ended December 31 Year ended December 31
+All amounts in millions unless otherwise stated 2019 2018 2019 2018
+Net cash provided by operating activities 416,529 453,701 111,074 120,987
+Capital expenditures (122,882) (131,766) (32,769) (35,138)
+Free cash flow 293,647 321,935 78,305 85,849
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Gearing
+Gearing is a measure of the degree to which Saudi Aramco’s operations are financed by debt. Saudi Aramco defines gearing as the ratio
+of total borrowings less cash and cash equivalents to total borrowings less cash and cash equivalents plus total equity. Management believes
+that gearing is widely used by analysts and investors in the oil and gas industry to indicate a company’s financial health and flexibility.
+SAR USD*
+As at December 31 As at December 31
+All amounts in millions unless otherwise stated 2019 2018 2019 2018
+Total borrowings (current and non-current) 175,585 101,318 46,823 27,018
+Cash & cash equivalents (177,706) (183,152) (47,388) (48,841)
+Net cash (2,121) (81,834) (565) (21,823)
+Total equity 1,046,235 1,028,435 278,996 274,249
+Total equity and net cash 1,044,114 946,601 278,431 252,426
+Gearing (0.2)% (8.6)% (0.2)% (8.6)%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+416,529 | 453,701
+(131,766) | 111,074
+(122,882) |  | (32,769
+293,647 | 321,935 | 78,305
+175,585 | 101,318
+(183,152) | 46,823
+(177,706) |  | (47,388
+(2,121) | (81,834)
+1,028,435 | (565
+1,046,235 |  | 278,996
+1,044,114 | 946,601 | 278,431
+(0.2)% | (8.6)% | (0.2)%

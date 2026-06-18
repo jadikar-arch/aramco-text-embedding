@@ -1,0 +1,125 @@
+SOURCE: Saudi Aramco — Press Release 2023 Q3
+TYPE: Press Release
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2023/q3/saudi-aramco-q3-2023-results-press-release-english.pdf
+============================================================
+
+[Page 1]
+Aramco announces third quarter 2023 results
+Company continues to deliver robust earnings while progressing its growth strategy
+• Net income: $32.6 billion (Q3 2022: $42.4 billion)
+• Cash flow from operating activities: $31.4 billion (Q3 2022: $54.0 billion)
+• Free cash flow1: $20.3 billion (Q3 2022: $45.0 billion)
+• Gearing ratio1: -7.6% as at September 30, 2023, compared to -7.9% at end of 2022
+• Q2 base dividend of $19.5 billion paid in the third quarter; Q3 base dividend of $19.5 billion to be paid in the fourth quarter
+• First performance-linked dividend distribution of $9.9 billion paid in Q3; second distribution of approximately $9.9 billion to
+be paid in Q4 based on combined full-year 2022 and nine-month 2023 results
+• Strategic expansion continues with agreement on first international LNG investment, and plan to enter South American
+market through a downstream retail acquisition
+• Company increases raw gas processing capacity by 800 million standard cubic feet per day (mmscfd), including approximately
+750 mmscfd of sales gas processing capacity, through Hawiyah Gas Plant expansion
+• Collaboration with Stellantis indicates eFuel compatibility with 24 engine families in Europe
+“Our robust financial results reinforce Aramco’s ability to generate consistent value for our
+shareholders, and we continue to identify new opportunities to evolve our business and meet
+the needs of customers.
+“During the third quarter we agreed to make our first international investment in liquefied
+natural gas (LNG) to capitalize on rising LNG demand, and announced our intention to enter
+the South American retail market. These planned investments demonstrate the scale of our
+ambition, the broad scope of our activities, and the disciplined execution of our strategy. I am
+excited by the progress we are making, which I believe will complement both our Upstream
+capacity expansion and our growing Downstream presence.
+“We intend to continue investing across the hydrocarbon chain, leveraging cutting-edge technologies to optimize our
+operations and advance the development of emerging energy solutions. It is an approach rooted in our belief that a
+balanced and realistic energy transition plan should consider the needs of all geographies, in order to avoid disparities
+between global energy consumers.”
+Amin H. Nasser
+President and CEO
+For more information, please see the 2023 Saudi Aramco Third Quarter Interim Report.
+Key financial results
+Third quarter ended September 30 Nine months ended September 30
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2023 2022 2023 2022 2023 2022 2023 2022
+Net income 122,188 159,115 32,583 42,430 354,540 488,784 94,544 130,342
+EBIT1 233,523 301,810 62,273 80,482 667,233 909,618 177,929 242,565
+Capital expenditures 41,354 33,895 11,028 9,038 113,390 97,423 30,237 25,979
+Free cash flow1 76,280 168,617 20,341 44,965 278,966 413,274 74,392 110,207
+Dividends paid 110,181 70,329 29,382 18,754 256,491 210,988 68,398 56,263
+ROACE1, 2 23.4% 32.6% 23.4% 32.6% 23.4% 32.6% 23.4% 32.6%
+Average realized crude oil price ($/barrel) n/a n/a 89.3 101.7 n/a n/a 82.9 104.3
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+1. Non-IFRS measure: refer to Non-IFRS measures reconciliations and definitions section of the 2023 Saudi Aramco Third Quarter Interim Report for further details.
+2. Calculated on a 12-month rolling basis.
+[TABLE DATA]
+122,188
+233,523
+41,354
+76,280
+110,181
+23.4%
+n/a
+32,583
+62,273
+11,028
+20,341
+29,382
+23.4%
+89.3
+354,540 | 488,784
+909,618
+97,423
+413,274
+210,988
+32.6%
+n/a
+667,233 |
+113,390 |
+278,966 |
+256,491 |
+23.4% |
+n/a |
+[Page 2]
+Contact Information
+Media Relations: media.inquiries@aramco.com
+Investor Relations: investor.relations@aramco.com
+Aramco
+Disclaimer
+The press release contains forward-looking statements. All statements other than statements relating to historical or current
+facts included in the press release are forward-looking statements. Forward-looking statements give the Company’s current
+expectations and projections relating to its capital expenditures and investments, major projects, upstream and downstream
+performance, including relative to peers. These statements may include, without limitation, any statements preceded by,
+followed by or including words such as “target,” “believe,” “expect,” “aim,” “intend,” “may,” “anticipate,” “estimate,”
+“plan,” “project,” “can have,” “likely,” “should,” “could,” and other words and terms of similar meaning or the negative
+thereof. Such forward looking statements involve known and unknown risks, uncertainties and other important factors
+beyond the Company’s control that could cause the Company’s actual results, performance or achievements to be materially
+different from the expected results, performance, or achievements expressed or implied by such forward looking statements,
+including the following factors: international crude oil supply and demand and the price at which it sells crude oil; the impact
+of pandemics or infectious diseases on business and economic conditions and on supply and demand for crude oil, gas and
+refined and petrochemical products; competitive pressure; climate change concerns and impacts; weather; cyclicity of gas, oil,
+refining and petrochemical sectors; terrorism and armed conflict; adverse economic or political developments; operational
+risks and hazards in the oil and gas, refining and petrochemicals industries; any significant deviation or changes in existing
+economic and operating conditions that could affect the estimated quantity and value of the Company’s proved reserves;
+losses from risks related to insufficient insurance; the Company’s ability to deliver on current and future projects; comparability
+amongst periods; the Company’s ability to realize benefits from recent and future acquisitions, including with respect to SABIC;
+risks related to operating in several countries; the Company’s dependence on its senior management and key personnel; the
+reliability and security of the Company’s IT systems; litigation to which the Company is or may be subject; risks related to oil,
+gas, environmental, health and safety and other regulations that impact the industries in which the Company operates; risks
+related to international operations, including sanctions and trade restrictions, anti-bribery and anti-corruption laws and other
+laws and regulations; risks stemming from requirements to obtain, maintain, and renew governmental licenses, permits, and
+approvals; risks stemming from existing and potential laws, regulations, and other requirements or expectations relating to
+environmental protection, health and safety laws and regulations, and sale and use of chemicals and plastics; potential changes
+in equalization compensation received in connection with domestic sales of hydrocarbons; potential impact on tax rates if the
+Company does not separate its downstream business in a timeframe set by the Government of Saudi Arabia; risks related to
+Government-directed projects and other Government requirements, including those related to Government-set maximum level
+of crude oil production and target Maximum Sustainable Capacity (MSC); as well as the importance of the hydrocarbon industry
+to the Government; political and social instability and unrest and actual or potential armed conflicts in the regions in which the
+Company operates and other areas; interest and exchange rate fluctuations; risks arising should the Government eliminate or
+change the pegging of SAR to the U.S. dollar; and other risks and uncertainties that could cause actual results to differ from
+the forward looking statements in this press release, as set forth in the Company’s latest periodic reports filed with the Saudi
+Stock Exchange. For additional information on the potential risks and uncertainties that could cause actual results to differ
+from the results predicted please see the Company’s latest periodic reports filed with the Saudi Stock Exchange. Such forward-
+looking statements are based on numerous assumptions regarding the Company’s present and future business strategies and
+the environment in which it will operate in the future. The information contained in the press release, including but not limited
+to forward-looking statements, applies only as of the date of this press release and is not intended to give any assurances as to
+future results. The Company expressly disclaims any obligation or undertaking to disseminate any updates or revisions to the
+press release, including any financial data or forward-looking statements, whether as a result of new information, future events
+or otherwise, unless required by applicable law or regulation. No person should construe the press release as financial, tax or
+investment advice. Undue reliance should not be placed on the forward-looking statements.

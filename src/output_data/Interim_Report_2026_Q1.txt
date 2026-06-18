@@ -1,0 +1,2471 @@
+SOURCE: Saudi Aramco — Interim Report 2026 Q1
+TYPE: Interim Report
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2026/q1/saudi-aramco-q1-2026-interim-report-english.pdf
+============================================================
+
+[Page 1]
+Aramco announces first quarter 2026 results
+Exceptional operational flexibility and resilience underpin strong Q1 performance
+• Adjusted net income1: $33.6 billion (Q1 2025: $26.6 billion2)
+• Cash flow from operating activities: $30.7 billion (Q1 2025: $31.7 billion)
+• Free cash flow1: $18.6 billion (Q1 2025: $19.2 billion), impacted by $15.8 billion3 of working capital build
+• Gearing ratio1: 4.8% as at March 31, 2026, compared to 3.8% at end of 2025
+• Capital expenditures of $12.1 billion in Q1 supports growth objectives
+• Board declares Q1 2026 base dividend of $21.9 billion, up 3.5% year-on-year, to be paid in the second quarter
+• East-West Pipeline sharply ramped up to reach its maximum capacity of 7.0 million barrels per day in Q1, supporting exports via Saudi
+Arabia’s west coast
+• Aramco’s domestic and international storage capacity provide additional optionality
+• Strategic investment in critical infrastructure and robust contingency planning supported operational continuity and helped mitigate
+disruption
+“Aramco’s first quarter performance reflects strong resilience and operational flexibility in a complex
+geopolitical environment. Our East-West Pipeline, which reached its maximum capacity of 7.0 million
+barrels of oil per day, has proven itself to be a critical supply artery, helping to mitigate the impact of a
+global energy shock and providing relief to customers affected by shipping constraints in the Strait of
+Hormuz.
+“Recent events have clearly demonstrated the vital contribution of oil and gas to energy security and the
+global economy, and are a stark reminder that reliable energy supply is critical.
+“Despite these headwinds, Aramco remains focused on its strategic priorities and is leveraging
+both its domestic infrastructure and its global network to navigate disruption. Our people have also
+demonstrated immense professionalism, determination, and expertise, enabling us to continue to deliver Amin H. Nasser
+for our customers and shareholders.”
+President and CEO
+Key financial results
+1st quarter 4th quarter 1st quarter
+All amounts in millions unless otherwise stated 2026 2025 2025
+﷼ 122,008 66,630 97,543
+Net income
+$ 32,536 17,768 26,011
+﷼ 125,972 93,979 99,785
+Adjusted net income1,2
+$ 33,593 25,061 26,609
+﷼ 45,354 50,146 47,059
+Capital expenditures
+$ 12,094 13,372 12,549
+﷼ 69,888 103,015 71,849
+Free cash flow1
+$ 18,637 27,472 19,160
+﷼ 82,080 79,296 79,282
+Base dividends paid
+$ 21,888 21,146 21,142
+ROACE1,4,5 % 20.7% 19.8% 20.8%
+Average realized crude oil price $/bbl 76.9 64.1 76.3
+1. Non-IFRS measure: refer to the Non-IFRS measures reconciliations and definitions section for further details.
+2. Q1 2025 amounts have been amended to reflect revisions made to adjusting items for comparative purposes.
+3. Refer to the Condensed consolidated statement of cash flows for further details.
+4. Calculated on a 12-month rolling basis.
+5. Q1 2025 figure has been amended to reflect Aramco’s revised ROACE definition.
+[TABLE DATA]
+﷼ | 122,008
+$ | 32,536
+﷼ | 125,972
+$ | 33,593
+﷼ | 45,354
+$ | 12,094
+﷼ | 69,888
+$ | 18,637
+﷼ | 82,080
+$ | 21,888
+% | 20.7%
+$/bbl | 76.9
+[Page 2]
+All amounts in millions unless otherwise stated
+“Aramco’s unique operational agility and flexibility enabled our strong performance in the first
+quarter of 2026, reflecting the strength of our strategic planning, as well as the deep-rooted
+resilience that defines our organization. Amid exceptional market volatility, we remained
+focused on delivering energy solutions to our customers while generating robust returns for
+our shareholders. Our results underscore our ability to provide consistent value, even in a
+complex geopolitical environment.”
+Ziad T. Al-Murshed
+Executive Vice President & CFO
+Financial performance
+During the quarter, geopolitical developments in the Middle East Portfolio and funding optimization
+significantly impacted global energy markets and constrained the • In January, SABIC announced the signing of agreements to sell
+flow of supply, increasing crude oil price volatility. In response, its European and American petrochemicals and engineering
+Aramco swiftly activated its business continuity plans developed thermoplastics businesses to an affiliate of AEQUITA, and
+from the Company’s long history of scenario planning to help subsidiaries of Mutares, respectively. These agreements follow
+mitigate supply disruptions and support continuity of global oil the authorization by SABIC’s Board in December 2025 to divest
+and product supplies. Guided by its strong risk management these businesses, which resulted in a reclassification of related
+framework and strategic infrastructure built to withstand and assets and liabilities as held for sale and a recognition of an
+adapt to evolving global challenges, the Company rerouted initial remeasurement loss. During the first quarter of 2026, a
+crude oil volumes via the East-West Pipeline to utilize alternative further remeasurement loss of ﷼ 176.0 million ($46.9 million)
+export routes, while also leveraging its domestic and international was recognized for the engineering thermoplastics business.
+storage capacity. This prompt activation of contingency measures This resulted in an increase in impairment and held for sale
+reflects Aramco’s operational agility and preparedness, and remeasurement losses, and a decrease in assets classified as held
+for sale.
+enabled the Company to deliver strong financial results despite
+impacts to certain Aramco facilities and ongoing regional
+instability. The impact of these events was not material to Financing arrangements
+Aramco’s financial position, results of operations, or cash flows as • In February, Aramco announced the completion of an
+of March 31, 2026. international bond issuance aggregating to an equivalent of
+﷼ 15.0 billion ($4.0 billion) under its GMTN Programme. The
+Key factors affecting Aramco’s first quarter financial results issuance consists of four tranches, with the first tranche of
+﷼ 1.88 billion ($0.5 billion) carrying a 4.0% coupon rate and
+Aramco’s results of operations and cash flows are primarily driven
+maturing in 2029, a second tranche of ﷼ 5.63 billion ($1.5
+by market prices and volumes sold of hydrocarbons, as well as
+billion) carrying a 4.375% coupon rate and maturing in 2031, a
+refined and chemical products. Ongoing regional uncertainty
+third tranche of ﷼ 4.69 billion ($1.25 billion) carrying a 5.0%
+resulted in higher prices for hydrocarbons and lower volumes
+coupon rate and maturing in 2036, and a fourth tranche of
+sold, as well as improved refining and chemical margins,
+﷼ 2.81 billion ($0.75 billion) carrying a 6.0% coupon rate and
+compared to the previous quarter.
+maturing in 2056. These notes are listed on the London Stock
+Exchange’s Main Market.
+Shareholders’ returns
+• During the first quarter of 2026, SATORP, a joint operation of the
+• During the three-month period ended March 31, 2026, the Company, made a drawdown of ﷼ 2.0 billion ($0.53 billion) in
+Company paid base dividends of ﷼ 82.1 billion ($21.9 billion), relation to its external long-term debt financing arrangements,
+reflecting its aim to deliver value to shareholders. These of which Aramco’s share was ﷼ 1.2 billion ($0.32 billion).
+dividend distributions resulted in a decrease in cash and cash
+equivalents and a corresponding reduction in shareholders’
+These financing transactions resulted in an increase in
+equity.
+borrowings and an increase in cash and cash equivalents during
+the period.
+Sustainable and progressive dividends
+Share repurchase
+• In March, the Board of Directors approved the repurchase of up
+Base dividends paid – first quarter of 2026 to 350 million of the Company’s ordinary shares from the
+market over a period of 18 months from the approval date, up
+﷼ 82.1 to a maximum total spend of ﷼ 11.3 billion ($3.0 billion). The
+bn $21.9 bn repurchased shares will primarily be used by the Company for
+its employee share plans. The Company may retain the shares
+for a maximum period of 10 years from the date of purchase
+without sale or allocation. As of March 31, 2026, the Company
+had repurchased an aggregate of 9.9 million shares from the
+market for a cash payment of ﷼ 266.0 million ($70.9 million).
+This resulted in a decrease in cash and cash equivalents and a
+corresponding reduction in shareholders’ equity.
+2 Saudi Aramco I First quarter interim report 2026
+[Page 3]
+All amounts in millions unless otherwise stated
+Summary of financial results
+1st quarter 4th quarter 1st quarter
+2026 2025 2025
+﷼ 467,236 416,290 429,612
+Revenue and other income related to sales
+$ 124,596 111,010 114,563
+﷼ (244,700) (261,441) (238,251)
+Operating costs
+$ (65,253) (69,717) (63,533)
+﷼ 222,536 154,849 191,361
+Operating income
+$ 59,343 41,293 51,030
+﷼ 222,078 151,901 190,294
+Income before income taxes and zakat
+$ 59,221 40,507 50,745
+﷼ (100,070) (85,271) (92,751)
+Income taxes and zakat
+$ (26,685) (22,739) (24,734)
+﷼ 122,008 66,630 97,543
+Net income
+$ 32,536 17,768 26,011
+﷼ 125,972 93,979 99,785
+Adjusted net income1,2
+$ 33,593 25,061 26,609
+1. Refer to the Non-IFRS measures reconciliations and definitions section for further details.
+2. Q1 2025 amounts have been amended to reflect revisions made to adjusting items for comparative purposes.
+Financial analysis
+1st quarter 2026 vs 4th quarter 2025 1st quarter 2026 vs 1st quarter 2025
+Revenue and other income related to sales for the first quarter of Revenue and other income related to sales for the first quarter of
+2026 was ﷼ 467,236 ($124,596), compared to ﷼ 416,290 ($111,010) for 2026 was ﷼ 467,236 ($124,596), compared to ﷼ 429,612 ($114,563) for
+the fourth quarter of 2025. the first quarter of 2025.
+The increase in revenue was mainly due to higher prices of crude oil The increase in revenue was mainly due to higher prices and volumes
+and refined and chemical products, partially offset by lower volumes sold of refined and chemical products, as well as higher crude oil
+sold of refined and chemical products, as well as lower volumes sold volumes sold and higher crude oil prices.
+of crude oil.
+The increase in other income related to sales was primarily due to
+The increase in other income related to sales was primarily due higher reference equalization prices and volumes sold of refined
+to higher reference equalization prices, partially offset by higher products at regulated prices, partially offset by higher regulated prices
+regulated prices and lower volumes sold of crude oil and refined for crude oil and refined products, as well as lower volumes sold of
+products at regulated prices. crude oil at regulated prices.
+Operating costs for the first quarter of 2026 were ﷼ 244,700 Operating costs for the first quarter of 2026 were ﷼ 244,700
+($65,253), compared to ﷼ 261,441 ($69,717) for the fourth quarter of ($65,253), compared to ﷼ 238,251 ($63,533) for the first quarter of
+2025. The decrease was mainly due to lower impairment and held for 2025. The increase was mainly due to higher selling, administrative
+sale remeasurement losses and lower producing and manufacturing and general expenses, partially offset by lower purchases and lower
+expenses, partially offset by increases in selling, administrative and producing and manufacturing expenses.
+general expenses, and royalties and other taxes.
+The increase in selling, administrative and general expenses was
+The decrease in impairment and held for sale remeasurement losses primarily driven by losses associated with derivative instruments and
+is primarily due to lower remeasurement losses recognized as part higher freight costs, while the decrease in purchases primarily reflects
+of a reclassification of assets and liabilities as held for sale related the impact of lower volumes purchased of crude oil, partially offset
+to SABIC’s plans to divest certain petrochemicals and engineering by higher prices of refined and chemical products purchased. The
+thermoplastics businesses. Producing and manufacturing expenses decrease in producing and manufacturing expenses was primarily due
+decreased primarily due to favorable inventory valuation movement, to favorable inventory valuation movement.
+while the increase in selling, administrative and general expenses
+was primarily driven by losses associated with derivative instruments. Net income for the first quarter of 2026 was ﷼ 122,008 ($32,536),
+The increase in royalties and other taxes was predominately driven compared to ﷼ 97,543 ($26,011) for the first quarter of 2025. The
+by higher average effective royalty rate and higher crude oil prices, increase was mainly driven by higher revenue and other income
+partially offset by the impact of higher royalties capitalized in related to sales, partially offset by higher operating costs and an
+inventory. increase in income taxes and zakat driven by higher taxable income.
+Net income for the first quarter of 2026 was ﷼ 122,008 ($32,536), The increase in adjusted net income was mainly due to the same
+compared to ﷼ 66,630 ($17,768) for the fourth quarter of 2025. The factors as net income, excluding the impact of adjusting items.
+increase was mainly due to the impact of higher revenue and other
+income related to sales, and lower operating costs. This was partially
+offset by an increase in income taxes and zakat driven by higher
+taxable income.
+The increase in adjusted net income was mainly due to the same
+factors as net income, excluding the impact of adjusting items.
+Saudi Aramco I First quarter interim report 2026 33
+[TABLE DATA]
+﷼ | 467,236 | 416,290 | 429,612
+$ | 124,596 | 111,010 | 114,563
+﷼ | (244,700) | (261,441) | (238,251)
+$ | (65,253) | (69,717) | (63,533)
+﷼ | 222,536 | 154,849 | 191,361
+$ | 59,343 | 41,293 | 51,030
+﷼ | 222,078 | 151,901 | 190,294
+$ | 59,221 | 40,507 | 50,745
+﷼ | (100,070) | (85,271) | (92,751)
+$ | (26,685) | (22,739) | (24,734)
+﷼ | 122,008 | 66,630 | 97,543
+$ | 32,536 | 17,768 | 26,011
+﷼ | 125,972 | 93,979 | 99,785
+$ | 33,593 | 25,061 | 26,609
+[Page 4]
+AAllll aammoouunnttss iinn mmiilllliioonnss uunnlleessss ootthheerrwwiissee ssttaatteedd
+Upstream performance
+1st quarter 4th quarter 1st quarter
+2026 2025 2025
+﷼ 203,209 179,555 192,793
+EBIT
+$ 54,189 47,881 51,411
+﷼ ‑ - -
+Adjusting items1
+$ ‑ - -
+﷼ 203,209 179,555 192,793
+Adjusted EBIT
+$ 54,189 47,881 51,411
+﷼ 36,927 35,837 37,217
+Capital expenditures - cash basis
+$ 9,847 9,556 9,925
+Total liquids production2 mbpd 10,561 11,099 10,300
+Total gas production3 mmscfd 10,513 10,738 10,245
+Total hydrocarbon production4 mboed 12,614 13,198 12,305
+Average realized crude oil price $/bbl 76.9 64.1 76.3
+1. Refer to the Non-IFRS measures reconciliations and definitions section for further details.
+2. Total liquids production is comprised of crude oil, NGL, and condensate.
+3. Total gas production includes natural gas and ethane.
+4. Total hydrocarbon production (mboed) is derived from mmscfd (for natural gas and ethane) by dividing the relevant product production by 5.400 (in the case of natural gas)
+and 3.330 (in the case of ethane).
+Upstream financial analysis
+1st quarter 2026 vs 4th quarter 2025 1st quarter 2026 vs 1st quarter 2025
+Adjusted EBIT for the first quarter of 2026 was ﷼ 203,209 Adjusted EBIT for the first quarter of 2026 was ﷼ 203,209
+($54,189), compared to ﷼ 179,555 ($47,881) for the fourth quarter ($54,189), compared to ﷼ 192,793 ($51,411) for the first quarter
+of 2025. The increase was mainly driven by higher crude oil of 2025. The increase was predominantly due to higher crude oil
+prices, partially offset by lower crude oil volumes sold and higher volumes sold and higher crude oil prices, partially offset by an
+production royalties. increase in production royalties.
+Capital expenditures for the first quarter of 2026 were ﷼ 36,927 Capital expenditures for the first quarter of 2026 were ﷼ 36,927
+($9,847), which were relatively consistent with ﷼ 35,837 ($9,556) ($9,847), which were relatively consistent with ﷼ 37,217 ($9,925)
+for the fourth quarter of 2025. for the first quarter of 2025.
+4 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+﷼ | 203,209 | 179,555 | 192,793
+$ | 54,189 | 47,881 | 51,411
+﷼ | ‑ | - | -
+$ | ‑ | - | -
+﷼ | 203,209 | 179,555 | 192,793
+$ | 54,189 | 47,881 | 51,411
+﷼ | 36,927 | 35,837 | 37,217
+$ | 9,847 | 9,556 | 9,925
+mbpd | 10,561 |  |
+mmscfd | 10,513 |  |
+mboed | 12,614 |  |
+$/bbl | 76.9 |  |
+[Page 5]
+Adjusted EBIT
+▼ Jafurah Gas Plant, Jafurah unconventional
+gas field, Saudi Arabia
+1st quarter of 2026
+﷼ 203.2
+bn
+$54.2
+bn
+Total hydrocarbon production
+1st quarter of 2026
+12.6
+mmboed
+DUposwtrnesatmrea hmig hhliigghhltigshts
+Aramco continued to deliver strong Upstream performance Aramco continued to progress its strategy to increase sales gas
+despite regional uncertainty through its operational resilience production capacity by approximately 80%1 through the following
+and flexibility. Total hydrocarbon production in the first quarter developments during the quarter.
+of 2026 was 12.6 mmboed, an increase of 0.3 mmboed compared
+to the same period in 2025. This achievement demonstrates • Phase one of the Jafurah Gas Plant advanced toward full
+Aramco’s unique ability to adapt to changing market conditions production capacity and successfully exported the first shipment
+and showcases the scale and flexibility of its assets, supported by of condensate to customers. Procurement and construction
+its operational and technical capabilities and robust contingency activities progressed for phase two, which is expected to be
+planning. completed in 2027. Production from Jafurah is expected to reach
+a sustainable sales gas rate of 2.0 bscfd by 2030, in addition to
+Progress on the following increment projects to maintain MSC at significant volumes of ethane, NGL, and condensate.
+12.0 mmbpd continued through the first quarter, ensuring the • Construction activities progressed for the Fadhili Gas Plant
+Company’s operational flexibility and market responsiveness. expansion, which is expected to add additional raw gas
+processing capacity of 1.5 bscfd (approximately 1.15 bscfd of
+• Construction activities advanced for the Zuluf crude oil sales gas production capacity) by 2027.
+increment, which is expected to process 600 mbpd of crude oil
+from the Zuluf field through a central facility in 2026.
+• Engineering, procurement, and construction activities
+progressed for phase two of the Dammam development project,
+which is expected to be onstream in 2027, adding crude oil
+production capacity of 50 mbpd.
+1. Over 2021 production levels by 2030 subject to domestic demand and inclusive of pre-FID projects not yet announced.
+Saudi Aramco I First quarter interim report 2026 55
+[Page 6]
+AAllll aammoouunnttss iinn mmiilllliioonnss uunnlleessss ootthheerrwwiissee ssttaatteedd
+Downstream performance
+1st quarter 4th quarter 1st quarter
+2026 2025 2025
+﷼ 55,984 (18,648) 1,905
+EBIT
+$ 14,929 (4,973) 508
+﷼ (37,178) 29,932 3,318
+Adjusting items1,2
+$ (9,914) 7,982 885
+﷼ 18,806 11,284 5,223
+Adjusted EBIT2
+$ 5,015 3,009 1,393
+﷼ 7,489 13,043 8,607
+Capital expenditures - cash basis
+$ 1,997 3,478 2,295
+Supply reliability % 96.3% 99.9% 100%
+Downstream utilization of Aramco’s crude oil production3 % 51% 53% 56%
+1. Refer to the Non-IFRS measures reconciliations and definitions section for further details.
+2. Q1 2025 amounts have been amended to reflect revisions made to adjusting items for comparative purposes.
+3. Downstream utilization numbers are calculated based on year-to-date basis.
+Downstream financial analysis
+1st quarter 2026 vs 4th quarter 2025 1st quarter 2026 vs 1st quarter 2025
+Adjusted EBIT for the first quarter of 2026 was ﷼ 18,806 ($5,015) Adjusted EBIT for the first quarter of 2026 was ﷼ 18,806 ($5,015)
+compared to ﷼ 11,284 ($3,009) for the fourth quarter of 2025. compared to ﷼ 5,223 ($1,393) for the same quarter in 2025. This
+This increase was primarily attributed to improved refining and increase was primarily attributed to stronger refining margins,
+chemical margins. partially offset by weakened chemical margins.
+Capital expenditures for the first quarter of 2026 were ﷼ 7,489 Capital expenditures for the first quarter of 2026 were ﷼ 7,489
+($1,997), a decrease of 42.6% compared to ﷼ 13,043 ($3,478) for ($1,997), a decrease of 13.0% compared to ﷼ 8,607 ($2,295) for
+the fourth quarter of 2025, primarily due to phasing of capital the same quarter of 2025, primarily due to phasing of capital
+spending. spending.
+6 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+﷼ | 55,984 | (18,648) | 1,905
+$ | 14,929 | (4,973) | 508
+﷼ | (37,178) | 29,932 | 3,318
+$ | (9,914) | 7,982 | 885
+﷼ | 18,806 | 11,284 | 5,223
+$ | 5,015 | 3,009 | 1,393
+﷼ | 7,489 | 13,043 | 8,607
+$ | 1,997 | 3,478 | 2,295
+% | 96.3% |  |
+% | 51% |  |
+[Page 7]
+Adjusted EBIT
+▼ Aramco service station,
+Dhahran, Saudi Arabia
+1st quarter of 2026
+﷼ 18.8
+bn
+$5.0
+bn
+Supply reliability
+1st quarter of 2026
+96.3
+%
+Downstream highlights
+Despite temporary disruptions at certain domestic refining • In January, Aramco launched 98-octane gasoline in the domestic
+and processing facilities, Aramco maintained strong supply market, aligning with efforts to address emerging market needs
+reliability of 96.3% in the first quarter by optimizing the outlined by the Ministry of Energy. This new gasoline grade is
+flow of hydrocarbon products through its integrated global integrated into Aramco’s existing fuel lineup without disrupting
+network, demonstrating its operational flexibility and robust current offerings, providing consumers additional choices while
+logistics capabilities. In the first quarter, Downstream utilized meeting the increasing demand for specialized fuels, especially
+approximately 51% of Aramco’s crude oil production. those suited for high-performance vehicles. The gasoline is
+specifically formulated for sports cars and high-performance
+engines that require higher octane levels for optimal
+Operationally, the Company quickly ramped up the East-West
+performance. This initiative is anticipated to benefit both the
+Pipeline to reach its maximum capacity of 7.0 million barrels per
+automotive and energy sectors by boosting vehicle performance
+day in the quarter, allowing for higher crude oil exports from
+and enhancing fuel efficiency for advanced engines.
+the Kingdom’s west coast and helping mitigate potential global
+supply disruptions. Additionally, Aramco’s extensive domestic
+storage infrastructure and international storage capacity provided
+flexibility and agility as the Company responds to evolving market
+conditions.
+Key Downstream developments include the following:
+• In January, SABIC announced the signing of two strategic
+transactions to divest its European petrochemicals business to
+AEQUITA, and its engineering thermoplastics business in the
+Americas and Europe to Mutares. These transactions represent
+significant steps in the advancement of SABIC’s strategy and are
+a core component of its broader portfolio optimization program.
+Saudi Aramco I First quarter interim report 2026 77
+[Page 8]
+▼ Upstream Innovation Center,
+Dhahran, Saudi Arabia
+Technology and innovation highlights
+As part of its digital transformation efforts, Aramco announced Aramco reached a significant milestone in its quantum computing
+its intention to deploy a next generation high-performance program with the completion of network and software setup,
+supercomputer to increase the Company’s upstream computing optical alignment, and cloud integration for the Pasqal quantum
+capabilities in hydrocarbon discovery and recovery. The new computer, ahead of the planned quantum computing as a
+supercomputer is expected to have seven times more compute service launch in the second quarter of 2026. This achievement
+capacity than what is currently available for Aramco’s upstream accelerates Aramco’s ability to explore quantum advantages in
+operations, enabling advanced seismic data processing and large- real-world applications, including logistics optimization, secure
+scale reservoir modelling and simulation. The system is anticipated communications, and advanced simulation.
+to be delivered by early 2027.
+In February, Aramco signed a memorandum of understanding
+to strengthen its cybersecurity capabilities through a proposed
+strategic partnership with CrowdStrike to introduce advanced
+AI-powered cybersecurity solutions in the Kingdom. The
+collaboration is expected to enhance Aramco’s real-time threat
+detection, prevention, and response capabilities, while enabling
+the development of solutions tailored to operational technologies
+of the energy and chemical industries.
+8 Saudi Aramco I First quarter interim report 2026
+[Page 9]
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and definitions
+The information in this section includes certain non-IFRS financial performance or liquidity under IFRS and should not be used
+measures (free cash flow, ROACE, gearing, EBIT, adjusted EBIT, instead of, or considered as alternatives to, any measures of
+and adjusted net income), which Aramco uses to make informed performance or liquidity under IFRS. The non-IFRS financial
+decisions about its financial position and operating performance measures relate to the reporting periods described and are not
+or liquidity. These non-IFRS financial measures have been included intended to be predictive of future results.
+to facilitate a better understanding of Aramco’s historical trends of
+operation and financial position. In addition, other companies, including those in Aramco’s
+industry, may calculate similarly titled non-IFRS financial measures
+Aramco uses non-IFRS financial measures as supplementary differently from Aramco. Because companies do not necessarily
+information to its IFRS-based operating performance and calculate these non-IFRS financial measures in the same manner,
+financial position. The non-IFRS financial measures are not Aramco’s presentation of such non-IFRS financial measures may
+defined by, or presented in accordance with, IFRS. The non-IFRS not be comparable to other similarly titled non-IFRS financial
+financial measures are not measurements of Aramco’s operating measures used by other companies.
+Free cash flow
+Aramco uses free cash flow to evaluate its cash available for free cash flow as net cash provided by operating activities less
+financing activities, including dividend payments. Aramco defines capital expenditures.
+1st quarter 4th quarter 1st quarter
+2026 2025 2025
+﷼ 115,242 153,161 118,908
+Net cash provided by operating activities
+$ 30,731 40,844 31,709
+﷼ (45,354) (50,146) (47,059)
+Capital expenditures
+$ (12,094) (13,372) (12,549)
+﷼ 69,888 103,015 71,849
+Free cash flow
+$ 18,637 27,472 19,160
+1st quarter 2026 vs 4th quarter 2025
+Free cash flow ($ million)
+Free cash flow for the first quarter of 2026 was ﷼ 69,888
+($18,637), compared to ﷼ 103,015 ($27,472) for the previous
+quarter. The decrease was attributable to lower net cash 27,472
+provided by operating activities, partially offset by lower capital
+expenditures.
+19,160
+18,637
+The decrease in net cash provided by operating activities was
+mainly due to unfavorable movement in working capital. This was
+partially offset by higher earnings and a reduction in cash paid for
+the settlement of income, zakat and other taxes.
+The decrease in capital expenditures was predominantly due to
+lower Downstream capital expenditures compared to the previous 1st quarter 4th quarter 1st quarter
+quarter. 2026 2025 2025
+1st quarter 2026 vs 1st quarter 2025
+Free cash flow for the first quarter of 2026 was ﷼ 69,888
+($18,637), compared to ﷼ 71,849 ($19,160) for the same quarter
+last year. The decrease was attributable to lower net cash
+provided by operating activities, partially offset by lower capital
+expenditures.
+The decrease in net cash provided by operating activities was
+mainly due to unfavorable movement in working capital, partially
+offset by higher earnings and a reduction in cash paid for the
+settlement of income, zakat and other taxes, and changes in other
+assets and receivables.
+The decrease in capital expenditures was predominantly due to
+lower Downstream capital expenditures compared to the same
+quarter of the previous year.
+Saudi Aramco I First quarter interim report 2026 99
+[TABLE DATA]
+﷼ | 115,242 | 153,161
+$ | 30,731 | 40,844
+﷼ | (45,354) | (50,146)
+$ | (12,094) | (13,372)
+﷼ | 69,888 | 103,015
+$ | 18,637 | 27,472
+[Page 10]
+All amounts in millions unless otherwise stated
+ROACE
+Reconciliation of adjusting items
+ROACE measures the efficiency of Aramco’s utilization of capital. average of total borrowings plus total equity at the beginning and
+Aramco’s ROACE definition is defined as adjusted net income end of the applicable period. Aramco utilizes ROACE to evaluate
+before finance costs, net of adjustments and income taxes and management’s performance and demonstrate to its shareholders
+zakat, as a percentage of average capital employed, calculated that capital has been used effectively.
+on a 12-month rolling basis. Average capital employed is the
+Trailing 12 months ended
+1st quarter 4th quarter 1st quarter
+2026 2025 2025
+﷼ 418,641 392,454 407,453
+Adjusted net income1
+$ 111,637 104,653 108,654
+﷼ 8,753 8,816 8,490
+Finance costs, net of adjustments and income taxes and zakat
+$ 2,334 2,351 2,264
+Adjusted net income before finance costs, ﷼ 427,394 401,270 415,943
+net of adjustments and income taxes and zakat $ 113,971 107,004 110,918
+As at period start:
+﷼ 280,864 261,733 240,310
+Non-current borrowings
+$ 74,898 69,795 64,083
+﷼ 45,204 57,557 51,521
+Current borrowings
+$ 12,054 15,348 13,739
+﷼ 1,667,128 1,651,355 1,722,375
+Total equity
+$ 444,568 440,361 459,300
+﷼ 1,993,196 1,970,645 2,014,206
+Capital employed
+$ 531,520 525,504 537,122
+As at period end:
+﷼ 323,341 308,466 280,864
+Non-current borrowings
+$ 86,224 82,258 74,898
+﷼ 56,166 55,151 45,204
+Current borrowings
+$ 14,978 14,707 12,054
+﷼ 1,758,311 1,721,744 1,667,128
+Total equity
+$ 468,883 459,132 444,568
+﷼ 2,137,818 2,085,361 1,993,196
+Capital employed
+$ 570,085 556,097 531,520
+﷼ 2,065,507 2,028,003 2,003,701
+Average capital employed
+$ 550,803 540,801 534,321
+ROACE2 % 20.7% 19.8% 20.8%
+1. Q1 2025 amounts have been amended to reflect revisions made to adjusting items for comparative purposes.
+2. Q1 2025 figure has been amended to reflect Aramco’s revised ROACE definition.
+1st quarter 2026 vs 4th quarter 2025
+ROACE (%)
+ROACE for the 12 months ended March 31, 2026, was 20.7%
+compared to 19.8% for the 12 months ended December 31,
+2025. The increase in ROACE, calculated on a 12-month rolling 20.7 20.8
+19.8
+basis, was largely driven by higher adjusted net income mainly
+due to the impact of higher revenue and other income related to
+sales, lower purchases, and lower producing and manufacturing
+expenses, partially offset by an increase in selling, administrative
+and general expenses, and income taxes and zakat.
+1st quarter 2026 vs 1st quarter 2025
+ROACE for the 12 months ended March 31, 2026 was 20.7%,
+which was consistent with 20.8% for the 12 months ended March
+31, 2025. 1st quarter 4th quarter 1st quarter
+2026 2025 2025
+10 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+﷼ | 418,641
+$ | 111,637
+﷼ | 8,753
+$ | 2,334
+﷼ | 427,394
+$ | 113,971
+|
+﷼ | 280,864
+$ | 74,898
+﷼ | 45,204
+$ | 12,054
+﷼ | 1,667,128
+$ | 444,568
+﷼ | 1,993,196
+$ | 531,520
+|
+﷼ | 323,341
+$ | 86,224
+﷼ | 56,166
+$ | 14,978
+﷼ | 1,758,311
+$ | 468,883
+﷼ | 2,137,818
+$ | 570,085
+﷼ | 2,065,507
+$ | 550,803
+% | 20.7%
+[Page 11]
+All amounts in millions unless otherwise stated
+Gearing
+Gearing is a measure of the degree to which Aramco’s operations term investments, total investment in debt instruments, and
+are financed by debt and reflects available liquidity held in non-current cash investments) to total equity and net debt (cash).
+current and non-current investments and cash management Management believes that gearing is widely used by analysts
+instruments. Aramco defines gearing as the ratio of net debt and investors in the oil and gas industry to indicate a company’s
+(cash) (total borrowings less cash and cash equivalents, short- financial health and flexibility.
+1st quarter 4th quarter 1st quarter
+2026 2025 2025
+﷼ 379,507 363,617 326,068
+Total borrowings (current and non-current)
+$ 101,202 96,965 86,952
+﷼ (230,813) (243,099) (202,698)
+Cash and cash equivalents
+$ (61,550) (64,826) (54,053)
+﷼ (13,374) (14,643) (19,327)
+Short-term investments
+$ (3,567) (3,905) (5,154)
+﷼ (46,519) (37,364) (11,602)
+Total investments in debt instruments (current and non-current)1
+$ (12,406) (9,964) (3,094)
+﷼ ‑ - -
+Non-current cash investments
+$ ‑ - -
+﷼ 88,801 68,511 92,441
+Net debt (cash)
+$ 23,679 18,270 24,651
+﷼ 1,758,311 1,721,744 1,667,128
+Total equity
+$ 468,883 459,132 444,568
+﷼ 1,847,112 1,790,255 1,759,569
+Total equity and net debt (cash)
+$ 492,562 477,402 469,219
+Gearing % 4.8% 3.8% 5.3%
+1. As at March 31, 2026, investments in debt instruments (current and non-current) are comprised of ﷼ 37,872 ($10,099) and ﷼ 8,647 ($2,307), which form part of investments
+in securities under current assets, and investments in securities under non-current assets, respectively. As at December 31, 2025, investments in debt instruments (current and
+non-current) are comprised of ﷼ 28,960 ($7,723) and ﷼ 8,404 ($2,241), which form part of investments in securities under current assets, and investments in securities under
+non-current assets, respectively. As at March 31, 2025, investments in debt instruments (current and non-current) are comprised of ﷼ 1,866 ($498) and ﷼ 9,736 ($2,596), which
+form a part of other assets and receivables under current assets, and investments in securities under non-current assets, respectively.
+1st quarter 2026 vs 4th quarter 2025
+Gearing (%)
+Aramco’s gearing ratio as at March 31, 2026, was 4.8% compared
+to 3.8% as at December 31, 2025. The increase in gearing was
+principally driven by higher net debt (cash) mainly reflecting 5.3
+dividend payments and capital expenditures, partially offset by 4.8
+operating cash inflows during the period.
+3.8
+1st quarter 2026 vs 1st quarter 2025
+Aramco’s gearing ratio as at March 31, 2026, was 4.8% compared
+to 5.3% as at March 31, 2025. The decrease in gearing was driven
+by the impact of lower net debt (cash) mainly reflecting operating
+cash inflows and cash proceeds from the sale of a non-controlling
+equity interest in JMGC, partially offset by dividend payments and
+capital expenditures during the period, as well as higher total 1st quarter 4th quarter 1st quarter
+equity. 2026 2025 2025
+Saudi Aramco I First quarter interim report 2026 1111
+[TABLE DATA]
+﷼ | 379,507
+$ | 101,202
+﷼ | (230,813)
+$ | (61,550)
+﷼ | (13,374)
+$ | (3,567)
+﷼ | (46,519)
+$ | (12,406)
+﷼ | ‑
+$ | ‑
+﷼ | 88,801
+$ | 23,679
+﷼ | 1,758,311
+$ | 468,883
+﷼ | 1,847,112
+$ | 492,562
+% | 4.8%
+[Page 12]
+All amounts in millions unless otherwise stated
+EBIT and adjusted EBIT
+Aramco defines EBIT as net income plus finance costs and income EBIT and adjusted EBIT provide useful information regarding its
+taxes and zakat, less finance income. Adjusted EBIT is defined as operational and financial performance to analysts and investors.
+EBIT excluding the impact of adjusting items. Aramco believes
+1st quarter 4th quarter 1st quarter
+2026 2025 2025
+﷼ 122,008 66,630 97,543
+Net income
+$ 32,536 17,768 26,011
+﷼ (3,560) (2,792) (3,532)
+Finance income
+$ (950) (744) (942)
+﷼ 4,987 3,434 2,766
+Finance costs
+$ 1,330 916 738
+﷼ 100,070 85,271 92,751
+Income taxes and zakat
+$ 26,685 22,739 24,734
+﷼ 223,505 152,543 189,528
+EBIT
+$ 59,601 40,679 50,541
+﷼ 1,916 26,730 2,924
+Total adjusting items1,2
+$ 511 7,128 780
+﷼ 225,421 179,273 192,452
+Adjusted EBIT2
+$ 60,112 47,807 51,321
+1. For more details, refer to the Reconciliation of adjusting items section.
+2. Q1 2025 amounts have been amended to reflect revisions made to adjusting items for comparative purposes.
+1st quarter 2026 vs 4th quarter 2025
+Adjusted EBIT ($ million)
+Adjusted EBIT for the first quarter of 2026 was ﷼ 225,421
+($60,112), compared to ﷼ 179,273 ($47,807) for the previous
+quarter. The increase was mainly due to higher revenue and other 60,112
+income related to sales, partially offset by an increase in selling,
+51,321
+administrative and general expenses, royalties and other taxes. 47,807
+1st quarter 2026 vs 1st quarter 2025
+Adjusted EBIT for the first quarter of 2026 was ﷼ 225,421 ($60,112),
+compared to ﷼ 192,452 ($51,321) for the same quarter in 2025. The
+increase was mainly driven by the impact of higher revenue and
+other income related to sales, and lower purchases and producing
+and manufacturing expenses, partially offset by an increase in
+selling, administrative and general expenses. 1st quarter 4th quarter 1st quarter
+2026 2025 2025
+12 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+﷼ | 122,008
+$ | 32,536
+﷼ | (3,560)
+$ | (950)
+﷼ | 4,987
+$ | 1,330
+﷼ | 100,070
+$ | 26,685
+﷼ | 223,505
+$ | 59,601
+﷼ | 1,916
+$ | 511
+﷼ | 225,421
+$ | 60,112
+[Page 13]
+All amounts in millions unless otherwise stated
+Adjusted net income
+Aramco defines adjusted net income as net income excluding the income is a useful measure that enables analysts and investors to
+impact of adjusting items, adjusting items related to finance costs, evaluate its operational and financial performance by excluding
+and tax and zakat adjustments. Aramco believes that adjusted net the impact of one-off, non-operating and non-recurring items.
+1st quarter 4th quarter 1st quarter
+2026 2025 2025
+﷼ 122,008 66,630 97,543
+Net income
+$ 32,536 17,768 26,011
+﷼ 1,916 26,730 2,924
+Total adjusting items1,2
+$ 511 7,128 780
+﷼ 2,269 34 (11)
+Adjusting items related to finance costs2
+$ 605 9 (3)
+﷼ (221) 585 (671)
+Tax and zakat adjustments2,3
+$ (59) 156 (179)
+﷼ 125,972 93,979 99,785
+Adjusted net income2
+$ 33,593 25,061 26,609
+1. For more details, refer to the Reconciliation of adjusting items section.
+2. Q1 2025 amounts have been amended to reflect revisions made to adjusting items for comparative purposes.
+3. Includes tax and zakat effect of the adjusting items listed and the deferred tax impact of certain transactions.
+1st quarter 2026 vs 4th quarter 2025
+Adjusted net income ($ million)
+Adjusted net income for the first quarter of 2026 was ﷼ 125,972
+($33,593), compared to ﷼ 93,979 ($25,061) for the previous
+quarter. The increase was mainly due to higher revenue and other 33,593
+income related to sales, partially offset by an increase in selling,
+administrative and general expenses, royalties and other taxes,
+26,609
+and income taxes and zakat. 25,061
+1st quarter 2026 vs 1st quarter 2025
+Adjusted net income for the first quarter of 2026 was ﷼ 125,972
+($33,593), compared to ﷼ 99,785 ($26,609) for the same quarter
+in 2025. The increase was mainly driven by the impact of higher
+revenue and other income related to sales, and lower purchases
+and producing and manufacturing expenses, partially offset by 1st quarter 4th quarter 1st quarter
+an increase in selling, administrative and general expenses, and 2026 2025 2025
+income taxes and zakat.
+Saudi Aramco I First quarter interim report 2026 1133
+[TABLE DATA]
+﷼ | 122,008
+$ | 32,536
+﷼ | 1,916
+$ | 511
+﷼ | 2,269
+$ | 605
+﷼ | (221)
+$ | (59)
+﷼ | 125,972
+$ | 33,593
+[Page 14]
+All amounts in millions unless otherwise stated
+Reconciliation of adjusting items
+Adjusted EBIT
+1st quarter 2026
+Upstream Downstream Corporate Eliminations Consolidated
+﷼ 203,209 55,984 (4,821) (30,867) 223,505
+EBIT
+$ 54,189 14,929 (1,286) (8,231) 59,601
+Adjusting Items:
+﷼ ‑ (41,801) ‑ 38,779 (3,022)
+Replacement cost adjustment1
+$ ‑ (11,147) ‑ 10,341 (806)
+Impairment and held for sale ﷼ ‑ 303 ‑ ‑ 303
+remeasurement losses
+$ ‑ 81 ‑ ‑ 81
+Losses for the year from assets classified as ﷼ ‑ 600 ‑ ‑ 600
+held for sale
+$ ‑ 160 ‑ ‑ 160
+(Gains) losses on sales, retirements and ﷼ ‑ 784 ‑ ‑ 784
+disposals
+$ ‑ 209 ‑ ‑ 209
+(Gains) losses on fair value remeasurement ﷼ ‑ 3,405 ‑ ‑ 3,405
+of certain commodity derivatives
+$ ‑ 908 ‑ ‑ 908
+Adjustments related to joint ventures and ﷼ ‑ (465) ‑ 315 (150)
+associates
+$ ‑ (124) ‑ 84 (40)
+﷼ ‑ (4) ‑ ‑ (4)
+Others2
+$ ‑ (1) ‑ ‑ (1)
+﷼ ‑ (37,178) ‑ 39,094 1,916
+Total adjusting items
+$ ‑ (9,914) ‑ 10,425 511
+﷼ 203,209 18,806 (4,821) 8,227 225,421
+Adjusted EBIT
+$ 54,189 5,015 (1,286) 2,194 60,112
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring and redundancy costs, amongst
+others.
+14 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+| ﷼ | 203,209 | 55,984 | (4,821) | (30,867) | 223,505
+| $ | 54,189 | 14,929 | (1,286) | (8,231) | 59,601
+Adjusting Items: |  |  |  |  |  |
+| ﷼ | ‑ | (41,801) | ‑ | 38,779 | (3,022)
+| $ | ‑ | (11,147) | ‑ | 10,341 | (806)
+| ﷼ | ‑ | 303 | ‑ | ‑ | 303
+| $ | ‑ | 81 | ‑ | ‑ | 81
+| ﷼ | ‑ | 600 | ‑ | ‑ | 600
+| $ | ‑ | 160 | ‑ | ‑ | 160
+| ﷼ | ‑ | 784 | ‑ | ‑ | 784
+| $ | ‑ | 209 | ‑ | ‑ | 209
+| ﷼ | ‑ | 3,405 | ‑ | ‑ | 3,405
+| $ | ‑ | 908 | ‑ | ‑ | 908
+| ﷼ | ‑ | (465) | ‑ | 315 | (150)
+| $ | ‑ | (124) | ‑ | 84 | (40)
+| ﷼ | ‑ | (4) | ‑ | ‑ | (4)
+| $ | ‑ | (1) | ‑ | ‑ | (1)
+| ﷼ | ‑ | (37,178) | ‑ | 39,094 | 1,916
+| $ | ‑ | (9,914) | ‑ | 10,425 | 511
+|  |  |  |  |  |
+| ﷼ | 203,209 | 18,806 | (4,821) | 8,227 | 225,421
+| $ | 54,189 | 5,015 | (1,286) | 2,194 | 60,112
+[Page 15]
+All amounts in millions unless otherwise stated
+Adjusted EBIT
+4th quarter 2025
+Upstream Downstream Corporate Eliminations Consolidated
+﷼ 179,555 (18,648) (6,138) (2,226) 152,543
+EBIT
+$ 47,881 (4,973) (1,637) (592) 40,679
+Adjusting Items:
+﷼ - 3,960 - (3,454) 506
+Replacement cost adjustment1
+$ - 1,056 - (921) 135
+Impairment and held for sale ﷼ - 23,539 - - 23,539
+remeasurement losses
+$ - 6,277 - - 6,277
+Losses for the year from assets classified as ﷼ - 772 - - 772
+held for sale
+$ - 206 - - 206
+(Gains) losses on sales, retirements and ﷼ - 514 - - 514
+disposals
+$ - 137 - - 137
+(Gains) losses on fair value remeasurement ﷼ - (150) - - (150)
+of certain commodity derivatives
+$ - (40) - - (40)
+Adjustments related to joint ventures and ﷼ - 893 349 (97) 1,145
+associates
+$ - 238 93 (26) 305
+﷼ - 404 - - 404
+Others2
+$ - 108 - - 108
+﷼ - 29,932 349 (3,551) 26,730
+Total adjusting items
+$ - 7,982 93 (947) 7,128
+﷼ 179,555 11,284 (5,789) (5,777) 179,273
+Adjusted EBIT
+$ 47,881 3,009 (1,544) (1,539) 47,807
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring, and redundancy costs, amongst
+others.
+Saudi Aramco I First quarter interim report 2026 1155
+[Page 16]
+All amounts in millions unless otherwise stated
+AAddjjuusstteedd EEBBIITT
+1st quarter 2025
+Upstream Downstream Corporate Eliminations Consolidated
+﷼ 192,793 1,905 (3,401) (1,769) 189,528
+EBIT
+$ 51,411 508 (907) (471) 50,541
+Adjusting Items:
+﷼ - 161 - (394) (233)
+Replacement cost adjustment1
+$ - 43 - (105) (62)
+Impairment and held for sale ﷼ - 75 - - 75
+remeasurement losses
+$ - 20 - - 20
+Losses for the year from assets classified as ﷼ - 1,050 - - 1,050
+held for sale
+$ - 280 - - 280
+(Gains) losses on sales, retirements and ﷼ - (49) - - (49)
+disposals
+$ - (13) - - (13)
+(Gains) losses on fair value remeasurement ﷼ - (8) - - (8)
+of certain commodity derivatives
+$ - (2) - - (2)
+Adjustments related to joint ventures and ﷼ - 859 - - 859
+associates
+$ - 229 - - 229
+﷼ - 1,230 - - 1,230
+Others2
+$ - 328 - - 328
+﷼ - 3,318 - (394) 2,924
+Total adjusting items3
+$ - 885 - (105) 780
+﷼ 192,793 5,223 (3,401) (2,163) 192,452
+Adjusted EBIT3
+$ 51,411 1,393 (907) (576) 51,321
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring, and redundancy costs, amongst
+others.
+3. Amounts have been amended to reflect revisions made to adjusting items for comparative purposes.
+16 Saudi Aramco I First quarter interim report 2026
+[Page 17]
+All amounts in millions unless otherwise stated
+Adjusted net income
+1st quarter 4th quarter 1st quarter
+2026 2025 2025
+﷼ 122,008 66,630 97,543
+Net income
+$ 32,536 17,768 26,011
+Adjusting Items:
+﷼ (3,022) 506 (233)
+Replacement cost adjustment1
+$ (806) 135 (62)
+﷼ 303 23,539 75
+Impairment and held for sale remeasurement losses
+$ 81 6,277 20
+﷼ 600 772 1,050
+Losses for the year from assets classified as held for sale
+$ 160 206 280
+﷼ 784 514 (49)
+(Gains) losses on sales, retirements and disposals
+$ 209 137 (13)
+(Gains) losses on fair value remeasurement of certain commodity ﷼ 3,405 (150) (8)
+derivatives $ 908 (40) (2)
+﷼ (150) 1,145 859
+Adjustments related to joint ventures and associates
+$ (40) 305 229
+﷼ (4) 404 1,230
+Others2
+$ (1) 108 328
+﷼ 1,916 26,730 2,924
+Total adjusting items3
+$ 511 7,128 780
+﷼ 2,269 34 (11)
+Adjusting items related to finance costs3
+$ 605 9 (3)
+﷼ (221) 585 (671)
+Tax and zakat adjustments3,4
+$ (59) 156 (179)
+﷼ 125,972 93,979 99,785
+Adjusted net income3
+$ 33,593 25,061 26,609
+1. Calculated as the difference between the hydrocarbon and chemical inventory movement on an IFRS basis and the movement using the current cost of supplies.
+2. Includes other non-operating and non-recurring items, which may include insurance claims, costs related to major disasters, restructuring, and redundancy costs, amongst
+others.
+3. Q1 2025 amounts have been amended to reflect revisions made to adjusting items for comparative purposes.
+4. Includes tax and zakat effect of the adjusting items listed and deferred tax impact of certain transactions.
+Saudi Aramco I First quarter interim report 2026 1177
+[TABLE DATA]
+﷼ | 122,008
+$ | 32,536
+| ﷼ | (3,022) |  | (233)
+| $ | (806) |  | (62)
+| ﷼ | 303 | 23,539
+6,277 | 75
+| $ | 81 |  | 20
+| ﷼ | 600 |  |
+| $ | 160 |  |
+| ﷼ | 784 | 514
+137 | (49)
+| $ | 209 |  | (13)
+| ﷼ | 3,405 | (150)
+(40) | (8)
+| $ | 908 |  | (2)
+| ﷼ | (150) | 1,145
+305 | 859
+| $ | (40) |  | 229
+| ﷼ | (4) | 404
+108 | 1,230
+| $ | (1) |  | 328
+| ﷼ | 1,916 | 26,730
+7,128 | 2,924
+| $ | 511 |  | 780
+| ﷼ | 2,269 | 34
+9 | (11)
+| $ | 605 |  | (3)
+| ﷼ | (221) | 585
+156 | (671)
+| $ | (59) |  | (179)
+|  |  |  |
+| ﷼ | 125,972 | 93,979
+25,061 | 99,785
+| $ | 33,593 |  | 26,609
+[Page 18]
+Disclaimer
+This Interim Report may contain certain forward-looking • Legal proceedings, international trade matters, and other
+statements with respect to Aramco’s financial position, results disputes or agreements;
+of operations and business and certain of Aramco’s plans,
+intentions, expectations, assumptions, goals and beliefs regarding For a discussion of our risk factors, please see Aramco’s Annual
+such items. These statements include all matters that are not Report 2025, available through the investors section of Aramco’s
+historical fact and generally, but not always, may be identified website at
+by the use of words such as “believes”, “expects”, “are expected www.aramco.com/en/investors/reports-and-presentations.
+to”, “anticipates”, “intends”, “estimates”, “should”, “strive”,
+“will”, “shall”, “may”, “is likely to”, “plans”, “targets”, “goals”, The forward-looking statements speak as of the date of
+“outlook” or similar expressions, including variations and the this report. We undertake no obligation to update or revise
+negatives thereof or comparable terminology. These statements any forward-looking statement, whether as a result of new
+include, among other things, statements about expectations in information, future events or otherwise. All subsequent written
+connection with Aramco’s environmental, social and governance and oral forward-looking statements attributable to us or to
+(“ESG”) initiatives. persons acting on our behalf are expressly qualified in their
+entirety by the cautionary statements referred to above and
+Investors and prospective investors should be aware that forward- our risk factors in our Annual Report and statements contained
+looking statements are not guarantees of future performance elsewhere in this Interim Report. Undue reliance should not be
+and that Aramco’s actual financial position, results of operations placed on the forward-looking statements.
+and business and the development of the industries in which it
+operates may differ significantly from those made in or suggested Aramco’s financial information herein, with the exception
+by these forward-looking statements. In addition, even if of three-month periods ended December 31, 2025, has been
+Aramco’s financial position, results of operations and business extracted from Aramco’s condensed consolidated interim financial
+and the development of the industries in which it operates are report for the three-month period ended March 31, 2026,
+consistent with these forward-looking statements, those results or prepared and presented in accordance with IAS 34, which are
+developments may not be indicative of results or developments in endorsed in the Kingdom of Saudi Arabia, and other standards
+subsequent periods. and pronouncements issued by SOCPA. Financial information
+contained in this Interim Report is converted at a fixed rate of
+Factors that could cause actual results to differ materially from U.S. dollar 1.00 = SAR 3.75 for convenience only. The numbers
+Aramco’s expectations are contained in cautionary statements presented throughout this Interim Report may not sum precisely to
+in this Interim Report and include, among other things, the the totals provided, and percentages may not precisely reflect the
+following: absolute figures, due to rounding.
+• Global supply, demand and price fluctuations with respect to oil, Financial information for the three-month periods ended
+gas and petrochemicals; December 31, 2025, has not been subject to an interim review
+• Global economic market conditions; in accordance with the International Standard on Review
+Engagements 2410 (Review of Interim Financial Information
+• Competition in the industries in which Aramco operates;
+Performed by the Independent Auditor of the Company).
+• Climate change concerns, weather conditions and related
+impacts on the global demand for hydrocarbons and In addition, this document includes certain “non-IFRS financial
+hydrocarbon-based products; measures”. These measures are not recognized measures under
+• Risks related to Aramco’s ability to successfully achieve its ESG IFRS and do not have standardized meanings prescribed by IFRS.
+ambitions, including a failure to fully meet its GHG emission Rather, these measures are provided as additional information to
+reduction objectives by 2050; complement IFRS measures by providing further understanding
+• Conditions affecting the transportation of products; of Aramco’s results of operations, cash flow and financial position
+from management’s perspective. Accordingly, they should not be
+• Operational risk and hazards common in the oil and gas,
+considered in isolation or as a substitute for analysis of Aramco’s
+refining and petrochemicals industries;
+financial information reported under IFRS.
+• The cyclical nature of the oil and gas, refining and
+petrochemicals industries; A reconciliation of non-IFRS measures is included in the Non-
+• Political and social instability and unrest, and actual or potential IFRS measures reconciliations and definitions section of this
+armed conflicts in the MENA region and other areas, including Interim Report. The Company may revise the definitions of
+disruptions to the Strait of Hormuz; non-IFRS financial measures, introduce new financial measures,
+or discontinue their use altogether in future reporting periods.
+• Natural disasters and public health pandemics or epidemics;
+Furthermore, this report may include non-IFRS financial
+• The management of Aramco’s growth;
+measures not used in prior reports, making it difficult to compare
+• The management of the Company’s subsidiaries, joint performance of such measures with past periods.
+operations, joint ventures, associates and entities in which it
+holds a minority interest;
+• Aramco’s exposure to inflation, interest rate risk and foreign
+exchange risk;
+• Risks related to operating in a regulated industry and changes to
+oil, gas, environmental, health, safety, or other regulations that
+impact the industries in which Aramco operates; and,
+18 Saudi Aramco I First quarter interim report 2026
+[Page 19]
+Terms and abbreviations
+Currencies mmtpa Supply reliability
+﷼/SAR/Saudi Riyal Million metric tons per annum Total products volume shipped/delivered
+Saudi Arabian Riyal, the lawful currency of within 24 hours of the scheduled time,
+the Kingdom mtpa divided by the total products volume
+Million tons per annum committed. Any delays caused by factors
+$/USD/Dollar that are under the Company’s control
+U.S. dollar MWh (e.g. terminal, pipeline, stabilization, or
+Megawatt hour production) negatively affect the score,
+Units of measurement whereas delays caused by conditions that
+Barrel (bbl) per day are beyond the Company’s control, such
+Barrels of crude oil, condensate, or refined Volumes are converted into a daily basis as adverse weather, are not considered.
+products using a calendar year (Gregorian) A score of less than 100% indicates there
+were issues that negatively impacted
+bn scf supply reliability.
+Billion Standard cubic feet
+boe tscf
+Barrels of oil equivalent Trillion standard cubic feet
+bpd Technical terms
+Barrels per day CO
+2
+Carbon dioxide.
+bscf
+Billion standard cubic feet Condensate
+Light hydrocarbon substances produced
+bscfd with raw gas which condense into liquid
+Billion standard cubic feet per day at normal temperatures and pressures
+associated with surface production
+bstb equipment.
+Billion stock tank barrels
+Hydrocarbons
+GW Crude oil and other hydrogen and carbon
+Gigawatt compounds in liquid or gaseous state.
+kgCOe/boe Liquids
+2
+Kilograms of carbon dioxide equivalent per Crude oil, condensate, and NGL.
+barrel of oil equivalent
+MSC
+mboed Maximum Sustainable Capacity – the
+Thousand barrels of oil equivalent per day average maximum number of barrels per
+day of crude oil that can be produced
+mbpd for one year during any future planning
+Thousand barrels per day period, after taking into account all
+planned capital expenditures and
+mmbbl maintenance, repair and operating costs,
+Million barrels and after being given three months to
+make operational adjustments. The MSC
+mmboe excludes AGOC’s crude oil production
+Million barrels of oil equivalent capacity.
+mmboed Natural gas
+Million barrels of oil equivalent per day Methane produced at Aramco’s gas plants
+and sold within the Kingdom as sales gas.
+mmbpd
+Million barrels per day NGL
+Natural gas liquids, which are liquid or
+mmBTU liquefied hydrocarbons produced in the
+Million British thermal units manufacture, purification, and stabilization
+of natural gas. For the reporting of
+mmtCOe reserves, ethane is included in NGL. For the
+2
+Million metric tons of carbon dioxide reporting of production, NGL is included
+equivalent in total liquids, and ethane is reported as a
+component of total gas.
+mmscfd
+Million standard cubic feet per day
+Saudi Aramco I First quarter interim report 2026 1199
+[Page 20]
+Glossary
+Affiliate returns from its involvement with the parity, import parity or a combination of
+Except with respect to financial entity and has the ability to affect those both.
+information, the term affiliate means a returns through its power over the entity.
+person who controls another person or is Replacement cost
+controlled by that other person, or who is EBIT Replacement cost pertains to the current
+under common control with that person Earnings (losses) before interest, income cost of supplies. Under replacement
+by a third person. In any of the preceding, taxes, and zakat. cost accounting, the net movement in
+control could be direct or indirect. inventory is valued using the current cost
+ESG of supplies resulting in a reduced impact
+With respect to financial information, Environmental, social, and governance. of the volatility of the markets in the profit
+the term affiliate means the Company’s and loss.
+subsidiaries, joint arrangements and GHG emissions
+associates, each as defined by IFRS. Greenhouse gas emissions.
+ROACE
+AEQUITA GMTN Return on average capital employed.
+AEQUITA SE & Co. KGaA The Global Medium-Term Note
+Programme, established on April 1, 2019, SABIC
+AGOC pursuant to which the Company may from Saudi Basic Industries Corporation, which
+Aramco Gulf Operations Company Ltd. time to time issue notes. is a publicly traded company listed on the
+Saudi Exchange.
+AI IAS
+Artificial intelligence. International Accounting Standard(s). Saudi Aramco/Aramco/Group
+Saudi Arabian Oil Company, together with
+Associate IFRS its consolidated subsidiaries, and where
+With respect to financial information, International Financial Reporting the context requires, its joint operations,
+the term Associate, as defined by IFRS, Standard(s) that are endorsed in the joint ventures and associates.
+means an entity over which the Company Kingdom and other standards and
+has significant influence but not control, pronouncements endorsed by SOCPA. Any reference to “us”, “we” or “our”
+generally reflected by a shareholding refers to Aramco except where otherwise
+of between 20% and 50% of the voting JMGC stated.
+rights. Significant influence is the power to Jafurah Midstream Gas Company.
+participate in the financial and operating Unless otherwise stated, the text does not
+policy decisions of the investee but is not Joint arrangement distinguish between the activities and
+control or joint control over those policies. The term joint arrangement, as defined by operations of the Company and those of
+IFRS, refers to either a joint operation or a its subsidiaries.
+Auditor joint venture.
+An auditor is a person or entity authorized SATORP
+to review and verify the accuracy Joint operation Saudi Aramco Total Refining and
+of financial records and ensure that The term joint operation, as defined by Petrochemical Company, a venture
+companies comply with applicable laws IFRS, means a type of joint arrangement established by Aramco and Total Refining
+and regulations. Aramco is audited by an whereby the parties that have joint control Saudi Arabia SAS in 2008.
+independent external auditor, of the agreement have rights to the assets
+PricewaterhouseCoopers (PwC) Public and obligations for the liabilities relating Shareholder
+Accountants. to the arrangement. Any holder of shares.
+Board Joint venture SOCPA
+The Board of Directors of the Company. The term joint venture, as defined by Saudi Organization for Chartered and
+IFRS, means a type of joint arrangement Professional Accountants.
+Domestic whereby the parties that have joint control
+Refers to the Kingdom of Saudi Arabia. of the arrangement have rights to the net Subsidiaries
+assets of the joint arrangement. Except with respect to financial
+Company information, the term subsidiaries mean
+Saudi Arabian Oil Company (the Kingdom the companies that Aramco controls
+Company). Kingdom of Saudi Arabia. through its ability to influence the actions
+or decisions of another person through,
+Control MENA whether directly or indirectly, alone or
+Except with respect to financial Middle East and North Africa. with a relative or affiliate (i) holding 30%
+information, the term “Control” means or more of the voting rights in a company
+the ability to influence the actions or Ministry of Energy or (ii) having the right to appoint 30% or
+decisions of another person through, Ministry of Energy of the Kingdom. more of the board of a company.
+whether directly or indirectly, alone or
+with a relative or affiliate (a) holding Mutares With respect to financial information,
+30% or more of the voting rights in Mutares SE & Co KGaA. the term subsidiaries is defined by IFRS,
+a company, or (b) having the right to meaning entities over which the Company
+appoint 30% or more of the Board of a Price equalization has control.
+company; “controller” shall be construed Prices are established separately by the
+accordingly. Ministry of Energy for each relevant
+product using a combination of either
+With respect to financial information, internationally recognized indices or,
+the term “Control” is defined by IFRS: where relevant, the Company’s official
+The Company controls an entity when it selling price and, depending on the
+is exposed to, or has rights to, variable relevant product, on the basis of export
+20 Saudi Aramco I First quarter interim report 2026
+[Page 22]
+Report on review of the condensed consolidated
+interim financial report
+To the shareholders of Saudi Arabian Oil Company
+Introduction
+We have reviewed the accompanying condensed consolidated balance sheet of Saudi Arabian Oil
+Company and its subsidiaries as at March 31, 2026 and the related condensed consolidated
+statements of income, comprehensive income, changes in equity and cash flows for the three-month
+period then ended and other explanatory notes (the “condensed consolidated interim financial
+report”). Management is responsible for the preparation and presentation of this condensed
+consolidated interim financial report in accordance with International Accounting Standard 34,
+‘Interim Financial Reporting’, that is endorsed in the Kingdom of Saudi Arabia. Our responsibility is
+to express a conclusion on this condensed consolidated interim financial report based on our review.
+Scope of review
+We conducted our review in accordance with International Standard on Review Engagements 2410,
+‘Review of interim financial information performed by the independent auditor of the entity’, that is
+endorsed in the Kingdom of Saudi Arabia. A review of interim financial information consists of
+making inquiries, primarily of persons responsible for financial and accounting matters, and applying
+analytical and other review procedures. A review is substantially less in scope than an audit conducted
+in accordance with International Standards on Auditing, that are endorsed in the Kingdom of Saudi
+Arabia, and consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit. Accordingly, we do not express an audit
+opinion.
+Conclusion
+Based on our review, nothing has come to our attention that causes us to believe that the
+accompanying condensed consolidated interim financial report is not prepared, in all material
+respects, in accordance with International Accounting Standard 34, ‘Interim Financial Reporting’, that
+is endorsed in the Kingdom of Saudi Arabia.
+PricewaterhouseCoopers
+Omar M. Al Sagga
+License No. 369
+May 7, 2026
+PricewaterhouseCoopers Public Accountants (professional limited
+liability company), PricewaterhouseCoopers Office at Saudi Aramco,
+P.O. Box 1659 Dhahran 31311, Saudi Arabia
+T: +966 (13) 873-6800, F: +966 (13) 873-8883
+www.pwc.com
+CR. No. 1010371622, UN No. 7000928734, capital of 500,000 SAR.
+[Page 23]
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of income
+SAR USD*
+1st quarter 1st quarter 1st quarter 1st quarter
+Note 2026 2025 2026 2025
+Revenue 10 433,101 405,646 115,493 108,172
+Other income related to sales 34,135 23,966 9,103 6,391
+Revenue and other income related to sales 467,236 429,612 124,596 114,563
+Royalties and other taxes (41,087) (40,799) (10,957) (10,880)
+Purchases (111,692) (120,163) (29,785) (32,043)
+Producing and manufacturing (28,982) (32,389) (7,728) (8,637)
+Selling, administrative and general (35,971) (18,852) (9,592) (5,027)
+Exploration (1,425) (2,008) (380) (535)
+Research and development (1,124) (1,142) (299) (305)
+Depreciation and amortization 5,6 (24,116) (22,823) (6,431) (6,086)
+Impairment and held for sale remeasurement losses 5,16 (303) (75) (81) (20)
+Operating costs (244,700) (238,251) (65,253) (63,533)
+Operating income 222,536 191,361 59,343 51,030
+Share of results of joint ventures and associates 871 (1,962) 232 (523)
+Finance and other income 3,658 3,661 976 976
+Finance costs (4,987) (2,766) (1,330) (738)
+Income before income taxes and zakat 222,078 190,294 59,221 50,745
+Income taxes and zakat 7 (100,070) (92,751) (26,685) (24,734)
+Net income 122,008 97,543 32,536 26,011
+Net income attributable to
+Shareholders’ equity 120,131 95,676 32,035 25,513
+Non-controlling interests 1,877 1,867 501 498
+122,008 97,543 32,536 26,011
+Earnings per share (basic and diluted) 0.50 0.40 0.13 0.11
+* This supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only, and is presented in millions of U.S. dollars.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Executive Vice President Senior Vice President
+President & Chief Executive Officer & Chief Financial Officer & Controller
+Saudi Aramco I First quarter interim report 2026 23
+[TABLE DATA]
+433,101
+34,135
+467,236
+(41,087)
+(111,692)
+(28,982)
+(35,971)
+(1,425)
+(1,124)
+(24,116)
+(303)
+(244,700)
+222,536
+871
+3,658
+(4,987)
+222,078
+(100,070)
+122,008
+120,131
+1,877
+122,008
+0.50
+115,493
+9,103
+124,596
+(10,957)
+(29,785)
+(7,728)
+(9,592)
+(380)
+(299)
+(6,431)
+(81)
+(65,253)
+59,343
+232
+976
+(1,330)
+59,221
+(26,685)
+32,536
+32,035
+501
+32,536
+0.13
+[Page 24]
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of comprehensive income
+SAR USD*
+1st quarter 1st quarter 1st quarter 1st quarter
+Note 2026 2025 2026 2025
+Net income 122,008 97,543 32,536 26,011
+Other comprehensive income (loss), net of tax 8
+Items that will not be reclassified to net income
+Remeasurement of post-employment benefits 229 (1,446) 61 (386)
+Share of post-employment benefits remeasurement from joint
+ventures and associates (69) 114 (18) 30
+Changes in fair value of equity investments classified as fair
+value through other comprehensive income 1,804 (46) 481 (12)
+Items that may be reclassified subsequently to net income
+Cash flow hedges and other 12 (167) 3 (44)
+Changes in fair value of debt securities classified as fair value
+through other comprehensive income (30) 35 (8) 9
+Share of other comprehensive income of joint ventures and
+associates (214) 109 (57) 29
+Currency translation differences (849) 1,108 (227) 296
+883 (293) 235 (78)
+Total comprehensive income 122,891 97,250 32,771 25,933
+Total comprehensive income attributable to
+Shareholders’ equity 121,548 95,114 32,413 25,364
+Non-controlling interests 1,343 2,136 358 569
+122,891 97,250 32,771 25,933
+* This supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only, and is presented in millions of U.S. dollars.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Executive Vice President Senior Vice President
+President & Chief Executive Officer & Chief Financial Officer & Controller
+24 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+122,008
+229
+(69)
+1,804
+12
+(30)
+(214)
+(849)
+883
+122,891
+121,548
+1,343
+122,891
+32,536
+61
+(18)
+481
+3
+(8)
+(57)
+(227)
+235
+32,771
+32,413
+358
+32,771
+[Page 25]
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated balance sheet
+SAR USD*
+At March 31, At December 31, At March 31, At December 31,
+Note 2026 2025 2026 2025
+Assets
+Non-current assets
+Property, plant and equipment 5 1,615,178 1,590,748 430,714 424,200
+Intangible assets 6 164,933 164,825 43,982 43,953
+Investments in joint ventures and associates 70,793 70,254 18,878 18,735
+Deferred income tax assets 15,134 15,885 4,036 4,236
+Post-employment benefits 23,871 24,436 6,365 6,516
+Other assets and receivables 48,356 50,744 12,895 13,531
+Investments in securities 40,934 38,795 10,916 10,345
+1,979,199 1,955,687 527,786 521,516
+Current assets
+Inventories 93,814 70,542 25,017 18,811
+Trade receivables 211,706 165,444 56,455 44,119
+Due from the Government 35,614 29,315 9,497 7,817
+Other assets and receivables 48,932 33,839 13,048 9,024
+Investments in securities 39,560 30,629 10,550 8,168
+Short-term investments 13,374 14,643 3,567 3,905
+Cash and cash equivalents 230,813 243,099 61,550 64,826
+673,813 587,511 179,684 156,670
+Assets classified as held for sale 16 8,947 8,766 2,386 2,338
+682,760 596,277 182,070 159,008
+Total assets 2,661,959 2,551,964 709,856 680,524
+Equity and liabilities
+Shareholders’ equity
+Share capital 90,000 90,000 24,000 24,000
+Additional paid-in capital 26,981 26,981 7,195 7,195
+Treasury shares (2,412) (2,514) (643) (670)
+Retained earnings:
+Unappropriated 1,408,473 1,370,057 375,593 365,349
+Appropriated 6,000 6,000 1,600 1,600
+Other reserves 8 2,680 1,472 714 392
+1,531,722 1,491,996 408,459 397,866
+Non-controlling interests 226,589 229,748 60,424 61,266
+1,758,311 1,721,744 468,883 459,132
+Non-current liabilities
+Borrowings 9 323,341 308,466 86,224 82,258
+Deferred income tax liabilities 158,801 160,664 42,347 42,843
+Post-employment benefits 26,856 25,951 7,161 6,920
+Provisions and other liabilities 38,494 36,790 10,266 9,811
+547,492 531,871 145,998 141,832
+Current liabilities
+Trade payables and other liabilities 184,330 157,708 49,155 42,055
+Obligations to the Government:
+Income taxes and zakat 7 87,632 68,412 23,368 18,244
+Royalties 21,750 10,634 5,800 2,836
+Borrowings 9 56,166 55,151 14,978 14,707
+349,878 291,905 93,301 77,842
+Liabilities directly associated with assets classified as held for sale 16 6,278 6,444 1,674 1,718
+356,156 298,349 94,975 79,560
+Total liabilities 903,648 830,220 240,973 221,392
+Total equity and liabilities 2,661,959 2,551,964 709,856 680,524
+* This supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only, and is presented in millions of U.S. dollars.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Executive Vice President Senior Vice President
+President & Chief Executive Officer & Chief Financial Officer & Controller
+Saudi Aramco I First quarter interim report 2026 25
+[TABLE DATA]
+1,615,178
+164,933
+70,793
+15,134
+23,871
+48,356
+40,934
+1,979,199
+93,814
+211,706
+35,614
+48,932
+39,560
+13,374
+230,813
+673,813
+8,947
+682,760
+2,661,959
+90,000
+26,981
+(2,412)
+1,408,473
+6,000
+2,680
+1,531,722
+226,589
+1,758,311
+323,341
+158,801
+26,856
+38,494
+547,492
+184,330
+87,632
+21,750
+56,166
+349,878
+6,278
+356,156
+903,648
+2,661,959
+430,714
+43,982
+18,878
+4,036
+6,365
+12,895
+10,916
+527,786
+25,017
+56,455
+9,497
+13,048
+10,550
+3,567
+61,550
+179,684
+2,386
+182,070
+709,856
+24,000
+7,195
+(643)
+375,593
+1,600
+714
+408,459
+60,424
+468,883
+86,224
+42,347
+7,161
+10,266
+145,998
+49,155
+23,368
+5,800
+14,978
+93,301
+1,674
+94,975
+240,973
+709,856
+[Page 26]
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of changes in equity
+SAR USD*
+Shareholders’ equity
+Retained earnings
+Additional Other Non-
+Share paid-in Treasury reserves controlling
+Note capital capital shares Unappropriated Appropriated (Note 8) interests Total Total
+Balance at January 1, 2025 90,000 26,981 (3,943) 1,342,442 6,000 (3,251) 193,126 1,651,355 440,361
+Net income – – – 95,676 – – 1,867 97,543 26,011
+Other comprehensive (loss) income – – – – – (562) 269 (293) (78)
+Total comprehensive income (loss) – – – 95,676 – (562) 2,136 97,250 25,933
+Transfer of post-employment benefits
+remeasurement – – – (1,380) – 1,380 – – –
+Transfer of share of post-employment
+benefits remeasurement from
+joint ventures and associates – – – 114 – (114) – – –
+Treasury shares issued to employees – – 415 (159) – (48) – 208 55
+Share-based compensation – – – (6) – 157 – 151 41
+Dividends 17 – – – (80,104) – – – (80,104) (21,361)
+Dividends to non-controlling interests
+and other – – – 20 – – (1,752) (1,732) (461)
+Balance at March 31, 2025 90,000 26,981 (3,528) 1,356,603 6,000 (2,438) 193,510 1,667,128 444,568
+Balance at January 1, 2026 90,000 26,981 (2,514) 1,370,057 6,000 1,472 229,748 1,721,744 459,132
+Net income – – – 120,131 – – 1,877 122,008 32,536
+Other comprehensive income (loss) – – – – – 1,417 (534) 883 235
+Total comprehensive income – – – 120,131 – 1,417 1,343 122,891 32,771
+Transfer of post-employment benefits
+remeasurement 8 – – – 366 – (366) – – –
+Transfer of share of post-employment
+benefits remeasurement from
+joint ventures and associates 8 – – – (69) – 69 – – –
+Acquisition of treasury shares – – (266) – – – – (266) (71)
+Treasury shares issued to employees – – 368 (72) – (78) – 218 58
+Share-based compensation – – – (8) – 166 – 158 42
+Dividends 17 – – – (82,080) – – – (82,080) (21,888)
+Dividends to non-controlling interests
+and other – – – 148 – – (4,502) (4,354) (1,161)
+Balance at March 31, 2026 90,000 26,981 (2,412) 1,408,473 6,000 2,680 226,589 1,758,311 468,883
+* This supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only, and is presented in millions of U.S. dollars.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Executive Vice President Senior Vice President
+President & Chief Executive Officer & Chief Financial Officer & Controller
+26 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+90,000 | 26,981 | (2,514) | 1,370,057 | 6,000 | 1,472 | 229,748 | 1,721,744
+– | – | – | 120,131 | – | – | 1,877 | 122,008
+– | – | – | – | – | 1,417 | (534) | 883
+– | – | – | 120,131 | – | 1,417 | 1,343 | 122,891
+– | – | – | 366 | – | (366) | – | –
+– | – | – | (69) | – | 69 | – | –
+– | – | (266) | – | – | – | – | (266)
+– | – | 368 | (72) | – | (78) | – | 218
+– | – | – | (8) | – | 166 | – | 158
+– | – | – | (82,080) | – | – | – | (82,080)
+– | – | – | 148 | – | – | (4,502) | (4,354)
+90,000 | 26,981 | (2,412) | 1,408,473 | 6,000 | 2,680 | 226,589 | 1,758,311
+459,132
+32,536
+235
+32,771
+–
+–
+(71)
+58
+42
+(21,888)
+(1,161)
+468,883
+[Page 27]
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of cash flows
+SAR USD*
+1st quarter 1st quarter 1st quarter 1st quarter
+Note 2026 2025 2026 2025
+Income before income taxes and zakat 222,078 190,294 59,221 50,745
+Adjustments to reconcile income before income taxes and zakat to
+net cash provided by operating activities
+Depreciation and amortization 5,6 24,116 22,823 6,431 6,086
+Impairment and held for sale remeasurement losses 5,16 303 75 81 20
+Exploration and evaluation costs written off 177 354 47 94
+Loss on retirements and disposal of property, plant and equipment 1,088 345 290 92
+Gain on disposal of assets classified as held for sale – (342) – (92)
+Inventory movement 829 1,206 221 321
+Share of results of joint ventures and associates (871) 1,962 (232) 523
+Finance and other income (3,658) (3,661) (976) (976)
+Finance costs 4,987 2,766 1,330 738
+Change in fair value of investments through profit or loss (116) (3) (31) (1)
+Change in joint ventures and associates inventory profit elimination 268 (131) 71 (34)
+Other 1,311 592 349 158
+Change in working capital
+Inventories (24,101) (267) (6,427) (71)
+Trade receivables (46,262) (11,923) (12,336) (3,179)
+Due from the Government (6,299) 10,884 (1,680) 2,902
+Other assets and receivables (15,873) 4,169 (4,232) 1,112
+Trade payables and other liabilities 22,351 (10,742) 5,961 (2,864)
+Royalties payable 11,116 68 2,964 18
+Other changes
+Other assets and receivables 2,335 (2,155) 622 (574)
+Provisions and other liabilities (205) 238 (54) 63
+Post-employment benefits 2,120 103 565 27
+Settlement of income, zakat and other taxes (80,452) (87,747) (21,454) (23,399)
+Net cash provided by operating activities 115,242 118,908 30,731 31,709
+Capital expenditures 4 (45,354) (47,059) (12,094) (12,549)
+Acquisition of affiliates, net of cash acquired – (113) – (30)
+Additional investments in joint ventures and associates (383) (1,360) (103) (363)
+Proceeds from sale of affiliates – 3,779 – 1,008
+Distributions from joint ventures and associates 544 822 145 220
+Dividends from investments in securities 10 9 3 2
+Interest received 3,556 3,539 948 944
+Investments in securities - net (9,074) (483) (2,419) (129)
+Net maturities (purchases) of short-term investments 1,269 (6,141) 338 (1,638)
+Net cash used in investing activities (49,432) (47,007) (13,182) (12,535)
+Dividends paid to shareholders of the Company 17 (82,080) (80,104) (21,888) (21,361)
+Dividends paid to non-controlling interests in subsidiaries (4,205) (4,313) (1,122) (1,150)
+Acquisition of treasury shares (266) – (71) –
+Proceeds from issuance of treasury shares 217 208 58 55
+Net (repayments of) proceeds from short-term borrowings (965) 158 (257) 42
+Proceeds from long-term borrowings 17,012 13,001 4,537 3,468
+Repayments of long-term borrowings (723) (8,507) (193) (2,269)
+Principal portion of lease payments (3,567) (3,274) (951) (873)
+Interest paid (3,519) (3,014) (938) (804)
+Net cash used in financing activities (78,096) (85,845) (20,825) (22,892)
+Net decrease in cash and cash equivalents (12,286) (13,944) (3,276) (3,718)
+Cash and cash equivalents at beginning of the period 243,099 216,642 64,826 57,771
+Cash and cash equivalents at end of the period 230,813 202,698 61,550 54,053
+* This supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only, and is presented in millions of U.S. dollars.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Executive Vice President Senior Vice President
+President & Chief Executive Officer & Chief Financial Officer & Controller
+Saudi Aramco I First quarter interim report 2026 27
+[TABLE DATA]
+222,078
+24,116
+303
+177
+1,088
+–
+829
+(871)
+(3,658)
+4,987
+(116)
+268
+1,311
+(24,101)
+(46,262)
+(6,299)
+(15,873)
+22,351
+11,116
+2,335
+(205)
+2,120
+(80,452)
+115,242
+(45,354)
+–
+(383)
+–
+544
+10
+3,556
+(9,074)
+1,269
+(49,432)
+(82,080)
+(4,205)
+(266)
+217
+(965)
+17,012
+(723)
+(3,567)
+(3,519)
+(78,096)
+(12,286)
+243,099
+230,813
+59,221
+6,431
+81
+47
+290
+–
+221
+(232)
+(976)
+1,330
+(31)
+71
+349
+(6,427)
+(12,336)
+(1,680)
+(4,232)
+5,961
+2,964
+622
+(54)
+565
+(21,454)
+30,731
+(12,094)
+–
+(103)
+–
+145
+3
+948
+(2,419)
+338
+(13,182)
+(21,888)
+(1,122)
+(71)
+58
+(257)
+4,537
+(193)
+(951)
+(938)
+(20,825)
+(3,276)
+64,826
+61,550
+[Page 28]
+All amounts in millions of Saudi Riyals unless otherwise stated
+Notes to the condensed consolidated interim financial report
+1. General information
+The Saudi Arabian Oil Company (the “Company”), with headquarters located in Dhahran, Kingdom of Saudi Arabia (the “Kingdom”), is
+engaged in prospecting, exploring, drilling and extracting hydrocarbon substances (“Upstream”) and processing, manufacturing, refining
+and marketing these hydrocarbon substances (“Downstream”). The Company was formed on November 13, 1988, by Royal Decree No. M/8;
+however, its history dates back to May 29, 1933, when the Saudi Arabian Government (the “Government”) granted a concession to the
+Company’s predecessor for the right to, among other things, explore the Kingdom for hydrocarbons. Effective January 1, 2018, the Council of
+Ministers Resolution No. 180, dated 1/4/1439H (December 19, 2017), converted the Company to a Saudi Joint Stock Company with new
+Bylaws.
+On December 11, 2019, the Company completed its Initial Public Offering (“IPO”) and its ordinary shares were listed on the Saudi
+Exchange. In connection with the IPO, the Government, being the sole owner of the Company’s shares at such time, sold an aggregate
+of 3.45 billion ordinary shares, or 1.73% of the Company’s share capital.
+On February 13, 2022, the Government transferred 4% of the Company’s issued shares to the Public Investment Fund (“PIF”), the
+sovereign wealth fund of the Kingdom, followed by another transfer of 4% on April 16, 2023, to Saudi Arabian Investment Company
+(“Sanabil Investments”), a wholly-owned company of PIF. Further, on March 7, 2024, the Government transferred an additional 8% of
+the Company’s issued shares to PIF’s wholly-owned companies.
+On June 11, 2024, the Government completed a secondary public offering of the Company’s ordinary shares. In connection with this
+secondary offering, the Government sold an aggregate of approximately 1.7 billion shares, representing 0.7% of the Company’s issued
+shares. This included 137.6 million ordinary shares acquired by the Company from the Government for a cash payment of ﷼ 3,750,
+which have been classified as treasury shares. These treasury shares are being used by the Company for its employee share plans. As at
+March 31, 2026, the Government remains the Company’s largest shareholder, retaining an 81.48% direct shareholding.
+On March 9, 2026, the Board of Directors approved the repurchase of up to 350 million of the Company’s ordinary shares from the
+market over a period of 18 months from the approval date, up to a maximum total spend of ﷼ 11,250. The shares repurchased will be
+classified as treasury shares, and the Company may retain them for a maximum period of 10 years from the date of purchase without
+sale or allocation. The shares repurchased will primarily be used by the Company for its employee share plans. As of March 31, 2026,
+the Company had repurchased an aggregate of 9.9 million shares from the market for a cash payment of ﷼ 266.
+The condensed consolidated interim financial report of the Company and its subsidiaries (together “Saudi Aramco”) was approved by
+the Board of Directors on May 7, 2026.
+2. Basis of preparation and material accounting policy information
+The condensed consolidated interim financial report has been prepared in accordance with International Accounting Standard 34
+(“IAS 34”), Interim Financial Reporting, that is endorsed in the Kingdom, and other standards and pronouncements issued by the Saudi
+Organization for Chartered and Professional Accountants (“SOCPA”). The accounting policies used in the preparation of this
+condensed consolidated interim financial report are consistent with those set out in Saudi Aramco’s consolidated financial statements
+for the year ended December 31, 2025.
+The results for the interim periods are unaudited and include all adjustments necessary for a fair presentation of the results for the
+periods presented. This condensed consolidated interim financial report should be read in conjunction with the consolidated financial
+statements and related notes for the year ended December 31, 2025, which have been prepared in accordance with International
+Financial Reporting Standards (“IFRS”) that are endorsed in the Kingdom, and other standards and pronouncements issued by SOCPA.
+The consolidated financial statements for the year ended December 31, 2025 are also in compliance with IFRS as issued by the
+International Accounting Standards Board (“IASB”).
+Translations from Saudi Riyals (“SAR” or “﷼”) to U.S. dollar (“USD” or “$”) presented as supplementary information in the condensed
+consolidated statement of income, condensed consolidated statement of comprehensive income, condensed consolidated balance sheet,
+condensed consolidated statement of changes in equity, and condensed consolidated statement of cash flows at March 31, 2026 and
+December 31, 2025 and for the three-month periods ended March 31, 2026 and 2025, are for convenience and were calculated at the
+rate of USD 1.00 = SAR 3.75 representing the exchange rate at the balance sheet dates.
+Geopolitical developments in the Middle East
+Recent geopolitical developments in the Middle East have contributed to regional instability and volatility in global energy markets. Key
+shipping routes have been affected, leading to supply chain disruptions and increased volatility in oil prices. In response, Saudi Aramco
+has implemented measures to maintain ongoing supplies of oil and other products to global markets, including rerouting oil and
+product flows through its East-West pipeline and utilizing alternative export routes. These factors contributed to the changes in the
+financial position and performance of the current period. In addition, during the quarter and subsequently in April 2026, certain
+facilities of the Company and its affiliates in the Kingdom were targeted in attacks.
+Management concluded that, as of March 31, 2026, the impact of these events was not material to Saudi Aramco’s financial position,
+results of operations, or cash flows. Management continues to assess these events for any potential material impact on Saudi Aramco’s
+operations and financial performance.
+28 Saudi Aramco I First quarter interim report 2026
+[Page 29]
+All amounts in millions of Saudi Riyals unless otherwise stated
+2. Basis of preparation and material accounting policy information continued
+New or amended standards
+(i) There are no new standards, amendments or interpretations that are effective for annual periods beginning on or after January 1, 2026
+that have a material impact on the condensed consolidated interim financial report.
+(ii) Saudi Aramco has not early adopted any new accounting standards, interpretations or amendments that are issued but not yet
+effective.
+3. Fair value estimation
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market
+participants at the measurement date. The fair value measurement is based on the presumption that the transaction to sell the asset or
+transfer the liability takes place either in the principal market for the asset or liability or, in the absence of a principal market, in the
+most advantageous market for the asset or liability. Management believes that the fair values of Saudi Aramco’s financial assets and
+liabilities that are measured and recognized at amortized cost are not materially different from their carrying amounts at the end of the
+reporting period.
+The following table presents Saudi Aramco’s financial assets and financial liabilities measured and recognized at fair value at March 31, 2026
+and December 31, 2025, based on the prescribed fair value measurement hierarchy on a recurring basis. Saudi Aramco did not measure any
+financial assets or financial liabilities at fair value on a non-recurring basis at March 31, 2026 and December 31, 2025. There were no
+changes made to any of the valuation techniques and valuation processes applied as of December 31, 2025 and changes in unobservable
+inputs are not expected to materially impact the fair values.
+Assets Level 1i Level 2ii Level 3iii Total
+At March 31, 2026
+Investments in securities:
+Equity securities at Fair Value Through Other Comprehensive Income
+(“FVOCI”) 15,658 45 5,052 20,755
+Debt securities at FVOCI – 9,317 – 9,317
+Equity securities at Fair Value Through Profit or Loss (“FVPL”) 1,688 – 11,533 13,221
+Debt securities at FVPL 21 35,971 786 36,778
+17,367 45,333 17,371 80,071
+Other assets and receivables:
+Interest rate swaps – 462 – 462
+Commodity derivative contracts – 8,239 – 8,239
+Currency forward contracts – 658 – 658
+Financial assets - option rights – 188 2,422 2,610
+– 9,547 2,422 11,969
+Trade receivables related to contracts with provisional pricing arrangements – – 160,939 160,939
+Total assets 17,367 54,880 180,732 252,979
+At December 31, 2025
+Investments in securities:
+Equity securities at FVOCI 13,690 43 4,996 18,729
+Debt securities at FVOCI – 9,398 – 9,398
+Equity securities at FVPL 1,669 2 11,660 13,331
+Debt securities at FVPL 18 26,742 776 27,536
+15,377 36,185 17,432 68,994
+Other assets and receivables:
+Interest rate swaps – 403 – 403
+Commodity derivative contracts – 2,459 – 2,459
+Currency forward contracts – 195 – 195
+Financial assets - option rights – 188 2,422 2,610
+– 3,245 2,422 5,667
+Trade receivables related to contracts with provisional pricing arrangements – – 118,404 118,404
+Total assets 15,377 39,430 138,258 193,065
+Saudi Aramco I First quarter interim report 2026 29
+[TABLE DATA]
+20,755
+9,317
+13,221
+36,778
+80,071
+462
+8,239
+658
+2,610
+11,969
+160,939
+252,979
+[Page 30]
+All amounts in millions of Saudi Riyals unless otherwise stated
+3. Fair value estimation continued
+Liabilities Level 1i Level 2ii Level 3iii Total
+At March 31, 2026
+Trade payables and other liabilities:
+Commodity derivative contracts – 12,593 – 12,593
+Currency forward contracts – 136 – 136
+Trade payables related to contracts with provisional pricing
+arrangements – – 41,565 41,565
+– 12,729 41,565 54,294
+Provisions and other liabilities:
+Interest rate swaps – 18 – 18
+Financial liabilities - options and forward contracts – – 1,871 1,871
+Total liabilities – 12,747 43,436 56,183
+At December 31, 2025
+Trade payables and other liabilities:
+Commodity derivative contracts – 1,289 – 1,289
+Currency forward contracts – 102 – 102
+Trade payables related to contracts with provisional pricing
+arrangements – – 34,808 34,808
+– 1,391 34,808 36,199
+Provisions and other liabilities:
+Interest rate swaps – 28 – 28
+Financial liabilities - options and forward contracts – – 1,811 1,811
+Total liabilities – 1,419 36,619 38,038
+i. Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+ii. Valuation techniques for which the lowest level input that is significant to the fair value measurement is directly or indirectly observable.
+iii. Valuation techniques for which the lowest level input that is significant to the fair value measurement is unobservable.
+The changes in Level 3 investments in securities for the three-month period ended March 31, 2026, and the year ended December 31, 2025,
+are as follows:
+March 31, December 31,
+2026 2025
+Beginning 17,432 15,093
+Net (disposals) additions (180) 1,034
+Net unrealized fair value gain 140 1,167
+Realized (loss) gain (21) 138
+Ending 17,371 17,432
+The movement in trade receivables and trade payables related to contracts with provisional pricing arrangements comprises sales and
+purchase transactions made during the period, net of settlements, as well as unrealized fair value movements.
+The movements in financial assets – option rights, and financial liabilities – options and forward contracts, being put, call and forward
+contracts on equity instruments of certain non-wholly-owned subsidiaries, are mainly due to changes in the unrealized fair values of
+those contracts during the period.
+30 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+12,593
+136
+41,565
+54,294
+18
+1,871
+56,183
+17,432
+(180)
+140
+(21)
+17,371
+[Page 31]
+All amounts in millions of Saudi Riyals unless otherwise stated
+4. Operating segments
+Saudi Aramco is engaged in prospecting, exploring, drilling, extracting, processing, manufacturing, refining and marketing hydrocarbon
+substances within the Kingdom and has interests in refining, petrochemical, distribution, marketing and storage facilities outside the
+Kingdom.
+Saudi Aramco’s operating segments are established on the basis of those components that are evaluated regularly by the President &
+CEO, considered to be the Chief Operating Decision Maker. The Chief Operating Decision Maker monitors the operating results of Saudi
+Aramco’s operating segments separately for the purpose of making decisions about resource allocation and performance assessment.
+Segment performance is evaluated based on revenues, costs and a broad range of key performance indicators in addition to segment
+profitability.
+For management purposes, Saudi Aramco is organized into business units based on the main types of activities. At March 31, 2026,
+Saudi Aramco had two reportable segments, Upstream and Downstream, with all other supporting functions aggregated into a
+Corporate segment. Upstream activities include crude oil, natural gas and natural gas liquids exploration, field development and
+production. Downstream activities consist primarily of refining and petrochemical manufacturing, supply and trading, base oils and
+lubricants, retail, distribution and power generation, logistics, and marketing of crude oil and related services to international and
+domestic customers. Corporate activities include primarily supporting services, including Human Resources, Finance and IT, that are not
+allocated to Upstream and Downstream. Transfer prices between operating segments are on an arm’s length basis in a manner similar to
+transactions with third parties.
+There are no differences from the consolidated financial statements for the year ended December 31, 2025 in the basis of segmentation
+or in the basis of measurement of segment earnings before interest, income taxes and zakat, except for certain changes in the pricing
+basis of inter-segment transactions.
+Information by segments for the three-month period ended March 31, 2026 is as follows:
+Upstream Downstream Corporate Eliminations Consolidated
+External revenue 196,418 236,125 558 – 433,101
+Other income related to sales 8,833 25,302 – – 34,135
+Inter-segment revenue 78,667 11,859 136 (90,662) –
+Earnings (losses) before interest, income taxes and zakat1 203,209 55,984 (4,821) (30,867) 223,505
+Finance income 3,560
+Finance costs (4,987)
+Income before income taxes and zakat 222,078
+Capital expenditures - cash basis 36,927 7,489 938 – 45,354
+Information by segments for the three-month period ended March 31, 2025 is as follows:
+Upstream Downstream Corporate Eliminations Consolidated
+External revenue 176,497 228,407 742 – 405,646
+Other income related to sales 7,881 16,085 – – 23,966
+Inter-segment revenue 85,129 8,519 88 (93,736) –
+Earnings (losses) before interest, income taxes and zakat1 192,793 1,905 (3,401) (1,769) 189,528
+Finance income 3,532
+Finance costs (2,766)
+Income before income taxes and zakat 190,294
+Capital expenditures - cash basis 37,217 8,607 1,235 - 47,059
+1. Downstream EBIT includes an amount of ﷼ 776 (March 31, 2025: ﷼ 1,050) relating to assets held for sale (Note 16), comprising fair value remeasurement losses of ﷼ 176 (March 31, 2025:
+nil) and other operational losses of ﷼ 600 (March 31, 2025: ﷼ 1,050).
+Saudi Aramco I First quarter interim report 2026 31
+[TABLE DATA]
+196,418 | 236,125 | 558 | –
+8,833 | 25,302 | – | –
+78,667 | 11,859 | 136 | (90,662)
+203,209 | 55,984 | (4,821) | (30,867)
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+36,927 | 7,489 | 938 | –
+433,101
+34,135
+–
+223,505
+3,560
+(4,987)
+222,078
+45,354
+[Page 32]
+All amounts in millions of Saudi Riyals unless otherwise stated
+5. Property, plant and equipment
+Plant,
+machinery Depots, Fixtures, IT
+Land and land Oil and gas and storage tanks and office Construction-
+improvements Buildings properties equipment and pipelines equipment in-progress Total
+Cost
+January 1, 2026 53,469 97,323 811,164 1,116,736 129,907 24,315 404,970 2,637,884
+Additions1 79 138 98 2,468 24 128 51,328 54,263
+Construction completed 165 788 20,380 13,950 679 36 (35,998) –
+Currency translation
+differences (330) (146) – (2,113) (305) (44) (1,237) (4,175)
+Transfers and adjustments – 106 (3,802) 1,941 – (34) 399 (1,390)
+Transfer of exploration and
+evaluation assets – – – – – – 268 268
+Retirements and sales – (38) – (706) (24) (52) (236) (1,056)
+March 31, 2026 53,383 98,171 827,840 1,132,276 130,281 24,349 419,494 2,685,794
+Accumulated depreciation
+January 1, 2026 (24,605) (48,797) (316,425) (584,709) (55,268) (17,332) – (1,047,136)
+Charge for the period (402) (824) (7,080) (14,049) (897) (386) – (23,638)
+Impairment – (4) – (120) – (3) – (127)
+Currency translation
+differences 21 149 – 1,217 161 36 – 1,584
+Transfers and adjustments (24) (214) 23 (1,701) (32) 7 – (1,941)
+Retirements and sales – 16 – 563 16 47 – 642
+March 31, 2026 (25,010) (49,674) (323,482) (598,799) (56,020) (17,631) – (1,070,616)
+Property, plant and equipment
+- net, March 31, 2026 28,373 48,497 504,358 533,477 74,261 6,718 419,494 1,615,178
+1. Additions include borrowing costs capitalized during the three-month period ended March 31, 2026, amounting to ﷼ 2,614, which were calculated using an average annualized
+capitalization rate of 5.7%.
+Additions to right-of-use assets during the three-month period ended March 31, 2026 were ﷼ 2,887. Acquisition of right-of-use assets
+during the three-month period ended March 31, 2026 were nil. The following table presents depreciation expense and net carrying
+amounts of right-of-use assets by class of assets.
+Depreciation
+expense for the
+three-month Net carrying
+period ended amount at
+March 31, 2026 March 31, 2026
+Land and land improvements 87 6,003
+Buildings 192 3,486
+Plant, machinery and equipment 2,017 59,798
+Depots, storage tanks and pipelines 71 2,080
+Fixtures, IT and office equipment 30 213
+2,397 71,580
+32 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+53,383 | 98,171 | 827,840 | 1,132,276 | 130,281 | 24,349 | 419,494
+(25,010) | (49,674) | (323,482) | (598,799) | (56,020) | (17,631) | –
+28,373 | 48,497 | 504,358 | 533,477 | 74,261 | 6,718 | 419,494
+(1,070,616)
+1,615,178
+87 | 6,003
+192 | 3,486
+2,017 | 59,798
+71 | 2,080
+30 | 213
+2,397 | 71,580
+[Page 33]
+All amounts in millions of Saudi Riyals unless otherwise stated
+6. Intangible assets
+Exploration Franchise/
+and Brands and customer Computer
+Goodwill evaluation trademarks relationships software Other1 Total
+Cost
+January 1, 2026 101,229 21,462 24,778 21,649 4,557 5,443 179,118
+Additions – 967 – – 48 78 1,093
+Currency translation differences (7) – (96) (51) (3) (95) (252)
+Transfers and adjustments – – – – (23) 48 25
+Transfer of exploration and evaluation assets – (268) – – – – (268)
+Retirements and write-offs – (177) – – – (20) (197)
+March 31, 2026 101,222 21,984 24,682 21,598 4,579 5,454 179,519
+Accumulated amortization
+January 1, 2026 – – (3,000) (6,609) (2,416) (2,268) (14,293)
+Charge for the period – – (38) (273) (93) (74) (478)
+Currency translation differences – – 74 52 2 36 164
+Transfers and adjustments – – – (3) 31 (12) 16
+Retirements and write-offs – – – – – 5 5
+March 31, 2026 – – (2,964) (6,833) (2,476) (2,313) (14,586)
+Intangible assets - net, March 31, 2026 101,222 21,984 21,718 14,765 2,103 3,141 164,933
+1. Other intangible assets with a net book value of ﷼ 3,141 as at March 31, 2026, comprise processing and offtake agreements, licenses, technology, usage rights, patents and intellectual
+property.
+7. Income taxes and zakat
+(a) Kingdom income tax rates
+The Company is subject to an income tax rate of 20% on its Downstream activities and on the activities of exploration and production of
+non-associated natural gas, including gas condensates, as well as the collection, treatment, processing, fractionation and transportation
+of associated and non-associated natural gas and their liquids, gas condensates and other associated elements. All other activities are
+subject to an income tax rate of 50%, in accordance with the Saudi Arabian Income Tax Law of 2004 and its amendments (the “Tax
+Law”). The 20% income tax rate applicable to the Company’s Downstream activities came into effect on January 1, 2020. This was
+conditional on the Company separating its Downstream activities under the control of one or more separate wholly-owned subsidiaries
+before the due date of December 31, 2024, which has been extended to December 31, 2030, otherwise the Company’s Downstream
+activities will be retroactively taxed at 50%. The Company expects to transfer its Downstream activities in line with the applicable
+requirements within the specified period.
+Additionally, according to the Tax Law, shares held directly or indirectly in listed companies on the Saudi Exchange by taxpayers
+engaged in oil and hydrocarbon activities are exempt from the application of corporate income tax. As a result, the Company’s
+ownership interests in such companies are subject to zakat.
+The reconciliation of tax charge at the Kingdom’s statutory rates to consolidated income tax and zakat expense is as follows:
+1st quarter 1st quarter
+2026 2025
+Income before income taxes and zakat 222,078 190,294
+Income subject to zakat (932) (699)
+Income subject to income tax 221,146 189,595
+Income taxes at the Kingdom’s statutory tax rates 104,595 91,695
+Tax effect of:
+(Income) loss not subject to tax at statutory rates and other (4,789) 639
+Income tax expense 99,806 92,334
+Zakat expense 264 417
+Total income tax and zakat expense 100,070 92,751
+Saudi Aramco I First quarter interim report 2026 33
+[TABLE DATA]
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+101,222 | 21,984 | 24,682 | 21,598 | 4,579 | 5,454 |  | 179,519
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+– | – | (2,964) | (6,833) | (2,476) | (2,313) |  | (14,586)
+101,222 | 21,984 | 21,718 | 14,765 | 2,103 | 3,141 |  | 164,933
+222,078
+(932)
+221,146
+104,595
+(4,789)
+99,806
+264
+100,070
+[Page 34]
+All amounts in millions of Saudi Riyals unless otherwise stated
+7. Income taxes and zakat continued
+(b) Income tax and zakat expense
+1st quarter 1st quarter
+2026 2025
+Current income tax - Kingdom 99,117 90,739
+Current income tax - Foreign 2,614 836
+Deferred income tax - Kingdom (2,196) 1,028
+Deferred income tax - Foreign 271 (269)
+Zakat - Kingdom 264 417
+100,070 92,751
+(c) Income tax and zakat obligation to the Government
+2026 2025
+January 1 68,412 71,951
+Provided during the period 99,381 91,156
+Payments during the period by the Company (Note 14) (43,892) (43,782)
+Payments during the period by subsidiaries and joint operations (2,460) (1,305)
+Settlements of due from the Government (30,736) (39,293)
+Other settlements (3,073) (3,254)
+March 31 87,632 75,473
+8. Other reserves
+Share of other comprehensive
+income (loss) of joint ventures and
+associates
+Share-based Foreign
+Currency Investments Post- compensation Cash flow currency Cash flow
+translation in securities at employment reserve and hedges and translation hedges and
+differences FVOCI benefits other other gains (losses) other Total
+January 1, 2026 (4,858) 5,062 – 751 (999) 1,144 372 1,472
+Current period change (849) 1,941 – 166 12 22 (236) 1,056
+Remeasurement gain (loss)1 – – 672 – – – (69) 603
+Transfer to retained earnings – – (366) (78) – – 69 (375)
+Tax effect – (167) (443) – – – – (610)
+Less: Amounts related to
+non-controlling interests 388 6 137 – 1 2 – 534
+March 31, 2026 (5,319) 6,842 – 839 (986) 1,168 136 2,680
+1. The remeasurement gain (loss) is primarily due to the net impact arising from changes in discount rates used to determine the present value of the post-employment benefit obligations
+and changes in the fair value of post-employment benefit plan assets.
+9. Borrowings
+At March 31, 2026 At December 31, 2025
+Note Non-current Current Total Non-current Current Total
+Conventional:
+Debentures a 134,396 3,140 137,536 120,855 1,861 122,716
+Bank borrowings 24,573 3,820 28,393 23,664 3,514 27,178
+Short-term borrowings – 26,564 26,564 – 27,500 27,500
+Export credit agencies b 3,843 440 4,283 2,598 424 3,022
+Other financing arrangements 37,251 758 38,009 37,663 739 38,402
+200,063 34,722 234,785 184,780 34,038 218,818
+Non-conventional:
+Sukuk 45,109 7,800 52,909 44,986 7,643 52,629
+Murabaha 16,085 847 16,932 16,094 812 16,906
+Saudi Industrial Development Fund 4,846 473 5,319 5,145 345 5,490
+Ijarah/Procurement 3,360 269 3,629 3,358 251 3,609
+Wakala 1,795 76 1,871 1,795 76 1,871
+71,195 9,465 80,660 71,378 9,127 80,505
+Borrowings – other than leases 271,258 44,187 315,445 256,158 43,165 299,323
+Lease liabilities 52,083 11,979 64,062 52,308 11,986 64,294
+Total borrowings 323,341 56,166 379,507 308,466 55,151 363,617
+34 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+99,117
+2,614
+(2,196)
+271
+264
+100,070
+68,412
+99,381
+(43,892)
+(2,460)
+(30,736)
+(3,073)
+87,632
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+(5,319) | 6,842 | – | 839 | (986) | 1,168 | 136 |  | 2,680
+|  |
+134,396 | 3,140 | 137,536
+24,573 | 3,820 | 28,393
+– | 26,564 | 26,564
+3,843 | 440 | 4,283
+37,251 | 758 | 38,009
+200,063 | 34,722 | 234,785
+|  |
+|  |
+45,109 | 7,800 | 52,909
+16,085 | 847 | 16,932
+4,846 | 473 | 5,319
+3,360 | 269 | 3,629
+1,795 | 76 | 1,871
+71,195 | 9,465 | 80,660
+271,258 | 44,187 | 315,445
+|  |
+52,083 | 11,979 | 64,062
+323,341 | 56,166 | 379,507
+[Page 35]
+All amounts in millions of Saudi Riyals unless otherwise stated
+9. Borrowings continued
+(a) Debentures
+On February 2, 2026, the Company issued four tranches of USD denominated senior unsecured notes, aggregating to an equivalent
+of ﷼ 15,000 ($4,000), under its Global Medium Term Note Programme. These tranches consist of notes with three-year maturities of
+﷼ 1,875 ($500) with a coupon rate of 4%, five-year maturities of ﷼ 5,625 ($1,500) with a coupon rate of 4.375%, 10-year maturities
+of ﷼ 4,687 ($1,250) with a coupon rate of 5% and 30-year maturities of ﷼ 2,813 ($750) with a coupon rate of 6%. Interest is payable
+semi-annually in arrears on February 2 and August 2. The notes were issued and sold in accordance with Rule 144A/Regulation S
+under the U.S. Securities Act of 1933, as amended, and are listed on the London Stock Exchange’s Main Market. The proceeds are for
+general corporate purposes. At initial recognition, the Company recorded an amount of ﷼ 14,774 ($3,940) for the issuance proceeds,
+net of discounts and transaction costs.
+(b) Saudi Aramco Total Refining and Petrochemical Company (“SATORP”)
+During the three-month period ended March 31, 2026, SATORP, a joint operation of the Company, made a drawdown of ﷼ 1,991 under
+export credit agencies facilities. This facility is part of SATORP’s external long-term debt financing arrangements in relation to a
+petrochemicals facility expansion at its refinery in Jubail, Saudi Arabia. Saudi Aramco’s share of the amount drawn was ﷼ 1,245.
+10. Revenue
+1st quarter 1st quarter
+2026 2025
+Revenue from contracts with customers 423,218 401,582
+Movement between provisional and final prices 7,354 1,025
+Other revenue 2,529 3,039
+433,101 405,646
+Disaggregation of revenue from contracts with customers
+Saudi Aramco’s revenue from contracts with customers according to product type and source is as follows:
+1st quarter 2026
+Upstream Downstream Corporate Total
+Crude oil 177,292 22,154 – 199,446
+Refined and chemical products – 205,794 – 205,794
+Natural gas and NGLs 12,691 5,287 – 17,978
+Revenue from contracts with customers 189,983 233,235 – 423,218
+Movement between provisional and final prices 6,361 993 – 7,354
+Other revenue 74 1,897 558 2,529
+External revenue 196,418 236,125 558 433,101
+1st quarter 2025
+Upstream Downstream Corporate Total
+Crude oil 162,836 34,967 – 197,803
+Refined and chemical products – 189,964 – 189,964
+Natural gas and NGLs 12,414 1,401 – 13,815
+Revenue from contracts with customers 175,250 226,332 – 401,582
+Movement between provisional and final prices 1,136 (111) – 1,025
+Other revenue 111 2,186 742 3,039
+External revenue 176,497 228,407 742 405,646
+11. Non-cash investing and financing activities
+Investing and financing activities for the three-month period ended March 31, 2026 include: (a) additions to right-of-use assets of ﷼ 2,887
+(March 31, 2025: ﷼ 3,674); (b) additions of ﷼ 1,227 related to payable for the construction of property, plant and equipment (March 31, 2025:
+﷼ 2,653); (c) asset retirement provisions of ﷼ 98 (March 31, 2025: ﷼ 79); and (d) equity awards issued to employees of ﷼ 151 (March 31, 2025:
+﷼ 207). In addition, investing activities for the three-month period ended March 31, 2025 included an increase in the carrying amount of the
+investment in Rabigh Refining and Petrochemical Company (Petro Rabigh) due to the waiver of a non-current shareholder loan receivable of
+﷼ 938.
+12. Commitments
+Capital commitments
+Capital expenditures contracted for but not yet incurred were ﷼ 164,686 and ﷼ 174,551 at March 31, 2026 and December 31, 2025,
+respectively. In addition, leases contracted for but not yet commenced were ﷼ 25,105 and ﷼ 25,357 at March 31, 2026 and December 31, 2025,
+respectively.
+Saudi Aramco I First quarter interim report 2026 35
+[TABLE DATA]
+423,218
+7,354
+2,529
+433,101
+|  |  |  |
+177,292 | 22,154 | – |  | 199,446
+– | 205,794 | – |  | 205,794
+12,691 | 5,287 | – |  | 17,978
+189,983 | 233,235 | – |  | 423,218
+|  |  |  |
+6,361 | 993 | – |  | 7,354
+74 | 1,897 | 558 |  | 2,529
+196,418 | 236,125 | 558 |  | 433,101
+[Page 36]
+All amounts in millions of Saudi Riyals unless otherwise stated
+13. Contingencies
+Saudi Aramco has contingent assets and liabilities with respect to certain disputed matters, including claims by and against contractors
+and lawsuits and arbitrations involving a variety of issues. These contingencies arise in the ordinary course of business. It is not
+anticipated that any material adjustments will result from these contingencies.
+14. Payments to the Government by Saudi Arabian Oil Company
+1st quarter 1st quarter
+2026 2025
+Income taxes (Note 7(c)) 43,892 43,782
+Royalties 32,505 39,200
+Dividends 66,907 65,310
+15. Related party transactions and balances
+(a) Transactions
+1st quarter 1st quarter
+2026 2025
+Joint ventures:
+Revenue from sales 6,330 6,150
+Other revenue 15 19
+Interest income 64 45
+Purchases 4,995 6,521
+Service expenses – 4
+Associates:
+Revenue from sales 25,883 23,434
+Other revenue 41 34
+Interest income 60 49
+Purchases 23,411 15,435
+Service expenses 30 34
+Government, semi-Government and other entities with Government ownership or control:
+Revenue from sales 9,739 8,175
+Other income related to sales 34,135 23,966
+Other revenue 567 237
+Purchases 1,913 2,355
+Service expenses 180 131
+(b) Balances
+At March 31, At December 31,
+2026 2025
+Joint ventures:
+Other assets and receivables 1,871 1,941
+Trade receivables 7,099 7,024
+Trade payables and other liabilities 3,960 4,245
+Borrowings 919 926
+Associates:
+Other assets and receivables 4,860 3,830
+Trade receivables 24,101 20,201
+Trade payables and other liabilities 7,241 4,823
+Government, semi-Government and other entities with Government ownership or control:
+Other assets and receivables 3,578 3,218
+Trade receivables 6,731 4,864
+Due from the Government 35,614 29,315
+Short-term investments with banks 9,750 4,928
+Cash and cash equivalents held with banks 40,714 42,236
+Trade payables and other liabilities 1,279 1,140
+Borrowings 30,829 28,523
+(c) Compensation of key management personnel
+Compensation policies for and composition of key management personnel remain consistent with 2025.
+36 Saudi Aramco I First quarter interim report 2026
+[TABLE DATA]
+43,892
+32,505
+66,907
+6,330
+15
+64
+4,995
+–
+25,883
+41
+60
+23,411
+30
+9,739
+34,135
+567
+1,913
+180
+1,871
+7,099
+3,960
+919
+4,860
+24,101
+7,241
+3,578
+6,731
+35,614
+9,750
+40,714
+1,279
+30,829
+[Page 37]
+All amounts in millions of Saudi Riyals unless otherwise stated
+16. Assets classified as held for sale
+Divestment of SABIC Europe B.V. and Engineering Thermoplastics Business
+(i) SABIC Europe B.V.
+On January 8, 2026, SABIC, a subsidiary of Saudi Aramco, announced the signing of an agreement with AEQH38 GmbH, an affiliate of
+AEQUITA SE & Co. KGaA (“AEQUITA”), to sell its entire shareholding in SABIC Europe B.V. (“EP”), which owns SABIC’s European
+petrochemicals business. The sale will enable SABIC, which is part of the Downstream segment, to optimize its portfolio and focus on
+higher-growth markets. The sale consideration is based on an enterprise value of ﷼ 1,875, and includes deferred and contingent
+proceeds in the form of two vendor loan notes with a combined principal amount of ﷼ 1,875. The repayment of these notes is linked to
+the post-disposal free cash flow of the business and other defined European Olefins and Polyolefins assets of AEQUITA. Completion of
+the transaction remains contingent upon the fulfilment of standard conditions and receipt of necessary approvals, and is expected in the
+fourth quarter of 2026.
+The signing of the agreement follows the authorization by SABIC’s board on December 16, 2025 to divest its entire European
+petrochemicals business. Following the board’s decision, the assets and liabilities of EP were classified as held for sale and presented
+separately on the consolidated balance sheet as at December 31, 2025. A remeasurement loss of ﷼ 8,640, to reduce the carrying amount
+of the assets to their fair value less costs to sell, was recognized in the 2025 consolidated financial statements within impairment and
+held for sale remeasurement losses.
+As at March 31, 2026, the net carrying value of EP’s assets classified as held for sale amounted to ﷼ 3,772, comprising inventories of ﷼ 1,621,
+trade receivables of ﷼ 1,755 and other assets of ﷼ 396. Liabilities directly associated with assets classified as held for sale amounted to ﷼ 3,805,
+comprising post-employment benefit obligations of ﷼ 331, trade payables of ﷼ 834 and other liabilities of ﷼ 2,640.
+(ii) Engineering Thermoplastics business
+On January 8, 2026, SABIC announced the signing of an agreement to sell its entire Engineering Thermoplastics business (“ETP”) in the
+Americas and Europe, held through Plastics US Holdings LLC and Jadeed Holding B.V., to subsidiaries of Mutares SE & Co KGaA
+(“Mutares”). The sale will enable SABIC to optimize its portfolio and focus on higher-growth markets. The sale consideration is based on
+an enterprise value of ﷼ 1,688, and includes upfront cash proceeds and subsequent contingent proceeds. The contingent consideration
+comprises an earnout arrangement entitling the recipient to 30% of the business’s free cash flows for a period of four years,
+commencing from the year after the second anniversary of the transaction’s closing. In addition, it includes 30% of the net proceeds
+realized upon exit by Mutares, should such a monetization event occur, with a minimum guaranteed amount of ﷼ 263 at the earlier of
+four years after the second anniversary or exit. Completion of the transaction remains contingent upon the fulfilment of standard
+conditions and receipt of requisite regulatory approvals, and is expected in the third quarter of 2026.
+The signing of the agreement follows the authorization by SABIC’s board on December 16, 2025 to divest its entire ETP business in the
+Americas and Europe, including major production sites and related activities. Following the board’s decision, the assets and liabilities of
+Plastics US Holdings LLC and Jadeed Holding B.V. were classified as held for sale and presented separately on the consolidated balance
+sheet as at December 31, 2025. A remeasurement loss of ﷼ 4,755, to reduce the carrying amount of the assets to their fair value less
+costs to sell, was recognized in the 2025 consolidated financial statements within impairment and held for sale remeasurement losses.
+A further remeasurement loss of ﷼ 176 was recognized during the first quarter of 2026. As at March 31, 2026, the net carrying value of
+ETP’s assets classified as held for sale amounted to ﷼ 5,175, comprising property, plant and equipment, and intangible assets of ﷼ 1,464
+and other assets of ﷼ 3,711, including inventories and trade receivables. Liabilities directly associated with assets classified as held for
+sale amounted to ﷼ 2,473, comprising post-employment benefit obligations of ﷼ 659, trade payables of ﷼ 872 and other liabilities of ﷼ 942.
+17. Dividends
+Dividends declared and paid on ordinary shares are as follows:
+SAR per share
+1st quarter 1st quarter 1st quarter 1st quarter
+2026 2025 2026 2025
+Dividends declared and paid in the quarter:
+March 82,080 80,104 0.3393 0.3312
+Total 82,080 80,104 0.3393 0.3312
+Dividends declared on May 7, 2026 and May 9, 20251 82,087 80,112 0.3393 0.3312
+1. Dividend of ﷼ 82,087 (﷼ 0.3393 per share) represents a base dividend declared on May 7, 2026, which is not reflected in the condensed consolidated interim financial report and will be
+deducted from unappropriated retained earnings in the second quarter of 2026.
+Saudi Aramco I First quarter interim report 2026 37
+[TABLE DATA]
+82,080
+82,080
+82,087
+0.3393
+0.3393
+0.3393

@@ -1,0 +1,136 @@
+SOURCE: Saudi Aramco — Non IFRS 2021 Q3
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2021/q3/saudi-aramco-q3-2021-non-ifrs-english.pdf
+============================================================
+
+[Page 1]
+Saudi Aramco
+Third quarter and nine months 2021
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and
+definitions
+Aramco uses certain non-IFRS financial measures, including ROACE, free cash flow and gearing, to make informed decisions about its financial
+position and operating performance or liquidity. These non-IFRS financial measures have been included below to facilitate a better understanding
+of Aramco’s historical trends of operation and financial position.
+Aramco uses non-IFRS financial measures as supplementary information to its IFRS based operating performance and financial position. The
+non-IFRS financial measures are not defined by, or presented in accordance with, IFRS. The non-IFRS financial measures are not measurements
+of Aramco’s operating performance or liquidity under IFRS and should not be used instead of, or considered as alternatives to, any measures of
+performance or liquidity under IFRS. The non-IFRS financial measures relate to the reporting periods and are not intended to be predictive of
+future results. In addition, other companies, including those in Aramco’s industry, may calculate similarly titled non-IFRS financial measures
+differently from Aramco. Because companies do not necessarily calculate these non-IFRS financial measures in the same manner, Aramco’s
+presentation of such non-IFRS financial measures may not be comparable to other similarly titled non-IFRS financial measures used by other
+companies.
+ROACE
+ROACE measures the efficiency of Aramco’s utilization of capital. Aramco defines ROACE as net income before finance costs, net of income
+taxes and zakat, for a period, as a percentage of average capital employed, during that period. Average capital employed is the average of total
+borrowings plus total equity at the beginning and end of the applicable period. Aramco utilizes ROACE to evaluate management’s performance
+and demonstrate to its shareholders that capital has been used effectively.
+ROACE for the third quarter and nine months ended September 30, 2021, calculated on a 12-month rolling basis, was 20.6%, compared to 14.8%
+for the same periods in 2020. The increase in ROACE was driven by higher earnings, mainly reflecting stronger crude oil prices, improved refining
+and chemicals margins and the consolidation of SABIC’s full year results, partially offset by higher average capital employed during the period,
+mainly resulting from the acquisition of SABIC in June 2020.
+Twelve months ended September 30
+SAR USD*
+All amounts in millions unless otherwise stated 2021 2020 2021 2020
+Net income 343,453 206,291 91,588 55,010
+Finance costs, net of income taxes and zakat 6,330 4,265 1,688 1,137
+Net income before finance costs, net of income taxes and zakat 349,783 210,556 93,276 56,147
+As at period start:
+Non-current borrowings 411,552 133,288 109,747 35,543
+Current borrowings 96,770 40,006 25,805 10,668
+Total equity 1,113,737 1,049,446 296,997 279,852
+Capital employed 1,622,059 1,222,740 432,549 326,063
+As at period end:
+Non-current borrowings 421,998 411,552 112,533 109,747
+Current borrowings 115,287 96,770 30,743 25,805
+Total equity 1,231,404 1,113,737 328,375 296,997
+Capital employed 1,768,689 1,622,059 471,651 432,549
+Average capital employed 1,695,374 1,422,400 452,100 379,306
+ROACE 20.6% 14.8% 20.6% 14.8%
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+343,453
+6,330
+349,783
+411,552
+96,770
+1,113,737
+1,622,059
+421,998
+115,287
+1,231,404
+1,768,689
+1,695,374
+20.6%
+91,588
+1,688
+93,276
+109,747
+25,805
+296,997
+432,549
+112,533
+30,743
+328,375
+471,651
+452,100
+20.6%
+[Page 2]
+Saudi Aramco
+Third quarter and nine months 2021
+All amounts in millions unless otherwise stated
+Free cash flow
+Aramco uses free cash flow to evaluate its cash available for financing activities, including dividend payments. Aramco defines free cash flow as
+net cash provided by operating activities less capital expenditures.
+Free cash flow for the third quarter of 2021 was SAR 107,738 ($28,730), compared to SAR 46,547 ($12,411) for the same quarter in 2020, an
+increase of SAR 61,191 ($16,319). This was principally due to stronger earnings, partly offset by an increase in cash paid for the settlement of
+income, zakat and other taxes and an increase in capital expenditures.
+Free cash flow for the first nine months of 2021 was SAR 260,944 ($69,585), compared to SAR 125,752 ($33,533) for the same period in 2020.
+This increase of SAR 135,192 ($36,052) was mainly due to higher operating cash flow, principally reflecting stronger crude oil prices and improved
+refining and chemicals margins, partially offset by negative working capital movements, higher cash paid for the settlement of income, zakat and
+other taxes and an increase in capital expenditures.
+Third quarter Nine months
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2021 2020 2021 2020 2021 2020 2021 2020
+Net cash provided by operating activities 136,204 70,481 36,321 18,794 348,236 200,858 92,863 53,561
+Capital expenditures (28,466) (23,934) (7,591) (6,383) (87,292) (75,106) (23,278) (20,028)
+Free cash flow 107,738 46,547 28,730 12,411 260,944 125,752 69,585 33,533
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Gearing
+Gearing is a measure of the degree to which Aramco’s operations are financed by debt. Aramco defines gearing as the ratio of net debt (total
+borrowings less cash and cash equivalents) to net debt plus total equity. Management believes that gearing is widely used by analysts and
+investors in the oil and gas industry to indicate a company’s financial health and flexibility.
+Aramco's gearing ratio as at September 30, 2021 was 17.2%, compared to 23.0% as at December 31, 2020. The decrease in gearing was mainly
+due to higher cash and cash equivalents as at September 30, 2021. This was primarily due to higher operating cash flows, reflecting the impact of
+stronger crude oil prices, improved refining and chemicals margins and consolidation of SABIC’s results, as well as cash proceeds in relation to
+Aramco’s stabilized crude oil pipelines transaction that completed in the second quarter of 2021.
+SAR USD*
+September 30, December 31, September 30, December 31,
+All amounts in millions unless otherwise stated 2021 2020 2021 2020
+Total borrowings (current and non-current) 537,285 536,077 143,276 142,954
+Cash & cash equivalents (282,239) (207,232) (75,264) (55,262)
+Net debt 255,046 328,845 68,012 87,692
+Total equity 1,231,404 1,101,094 328,375 293,625
+Total equity and net debt 1,486,450 1,429,939 396,387 381,317
+Gearing 17.2% 23.0% 17.2% 23.0%
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+136,204 | 70,481
+(23,934) | 36,321
+(28,466) |  | (7,591)
+107,738 | 46,547 | 28,730
+348,236 | 200,858 | 92,863
+(87,292) | (75,106) | (23,278)
+260,944 | 125,752 | 69,585
+537,285
+(282,239)
+255,046
+1,231,404
+1,486,450
+17.2%
+143,276
+(75,264)
+68,012
+328,375
+396,387
+17.2%

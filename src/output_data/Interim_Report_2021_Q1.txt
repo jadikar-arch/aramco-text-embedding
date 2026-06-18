@@ -1,0 +1,1790 @@
+SOURCE: Saudi Aramco — Interim Report 2021 Q1
+TYPE: Interim Report
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2021/q1/saudi-aramco-q1-2021-interim-report-english.pdf
+============================================================
+
+[Page 2]
+Saudi Aramco 1
+First quarter interim report 2021
+Aramco at a glance
+First quarter 2021
+Financial highlights
+Net income EBIT* Free cash flow* Net cash provided by
+(billion) (billion) (billion) operating activities
+(billion)
+SAR 81.4 SAR 153.7 SAR 68.5 SAR 99.3
+$21.7 $41.0 $18.3 $26.5
+Capital expenditures Dividends paid Dividends paid ROACE*
+(billion) (billion) per share (%)
+SAR 30.8 SAR 70.33 SAR 0.35 14.2
+$8.2 $18.75 $0.09
+Gearing* Earnings per share Average realized
+(%) (basic and diluted) crude oil price
+($/barrel)
+23.0 SAR 0.39 60.2
+$0.10
+* Non-IFRS measure: refer to Non-IFRS measures reconciliations and definitions section for further details.
+[Page 3]
+2 Saudi Aramco
+First quarter interim report 2021
+Key results CEO’s statement
+Financial results President and CEO
+Amin H. Nasser
+First quarter ended March 31
+The momentum provided by the global economic recovery has
+SAR USD* strengthened energy markets, and Aramco’s operational
+All amounts in millions unless flexibility, financial agility and the resilience of our employees
+otherwise stated 2021 2020 2021 2020 have contributed to a strong first quarter performance. For our
+Net income 81,440 62,478 21,717 16,661 customers we remain a supplier of choice, and for our
+EBIT 153,680 128,258 40,982 34,202 shareholders we continue to deliver an exceptional quarterly
+Capital expenditures 30,750 27,740 8,200 7,397 dividend.
+Free cash flow 68,549 56,327 18,279 15,021
+We made further progress towards our strategic objectives
+Dividends paid 70,325 50,226 18,753 13,394 during the quarter and our portfolio optimization program
+ROACE1 14.2% 26.3% 14.2% 26.3% continues to identify value creation opportunities, such as the
+Average realized crude oil recent announcement of our landmark $12.4 billion pipeline
+price ($/barrel) n/a n/a 60.2 51.8 infrastructure deal. We also expect Saudi Arabia’s newly-
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for launched Shareek program to present growth opportunities,
+convenience only.
+1. Calculated on a 12-month rolling basis. through incentives which encourage partnerships and
+investment.
+Given the positive signs for energy demand in 2021, there are
+more reasons to be optimistic that better days are coming.
+And while some headwinds still remain, we are well-positioned
+to meet the world’s growing energy needs as economies start
+to recover.
+[TABLE DATA]
+81,440
+153,680
+30,750
+68,549
+70,325
+14.2%
+n/a
+21,717
+40,982
+8,200
+18,279
+18,753
+14.2%
+60.2
+[Page 4]
+Saudi Aramco 3
+First quarter interim report 2021
+First quarter highlights
+The energy markets saw a strong recovery in the first quarter of 2021 In the first quarter of 2021, Aramco’s Downstream segment, one of the
+due to the ongoing rebalancing of supply and demand fundamentals, in world’s largest refining and petrochemicals businesses, consumed
+addition to improved sentiment for an increase in global demand 43.8% (Q1 2020: 35.5%) of Aramco’s crude oil production.
+spurred by ongoing vaccination programs. This led to a steady
+Downstream developments in the first quarter of 2021 include:
+increase in crude oil prices, while discipline from refiners and
+petrochemicals producers helped improve margins. Capitalizing on  Aramco safely and successfully started-up the Jazan refinery in
+these increasingly encouraging market conditions, Aramco delivered January and work is progressing well to reach the 400 mbpd
+strong quarterly earnings and cash flows, while maintaining its low design capacity;
+Upstream production cost and high level of operational agility.
+ Aramco and the Dow Chemical Company (Dow), partners in the
+To unlock value from its asset base and maximize shareholder return, Sadara Chemical Company (Sadara) joint venture, entered into
+Aramco continues progressing with its ongoing portfolio optimization agreements to provide additional feedstock by increasing the
+program. In April 2021, Aramco signed a share sale and purchase quantity of ethane and natural gasoline supplied by Aramco.
+agreement to sell a 49% equity interest in Aramco Oil Pipelines These also include a gradual increase in Aramco’s rights to
+Company, a newly-formed Aramco subsidiary, to a consortium of market, through SABIC, the finished products produced by
+investors led by EIG Global Energy Partners for cash consideration of Sadara over the next five years through an executive sales and
+SAR 46.5 billion ($12.4 billion). As part of this infrastructure deal, operations planning committee. Additionally, Aramco and Dow
+Aramco Oil Pipelines Company will lease and leaseback usage rights agreed to guarantee up to an aggregate of SAR 13.9 billion ($3.7
+in Aramco’s stabilized crude oil pipelines network for a 25-year period, billion) of senior debt principal in proportion to their ownership
+and in return, will receive a tariff from Aramco. Aramco will continue to interests in Sadara, an amount that is significantly lower than the
+retain full ownership and operational control of its stabilized crude oil $10.0 billion shareholder completion guarantees that were
+pipelines network. The cash proceeds will be used for general released when Sadara achieved project completion in November
+corporate purposes. 2020. The terms of the restructuring also include beneficial terms
+such as a principal repayment grace period until June 15, 2026
+Aramco continues to maintain its highly disciplined approach to capital
+and an extension of the final maturity date from 2029 to 2038, in
+allocation and expects 2021 capital expenditures to be approximately
+connection with all of the facilities. Sadara will also benefit from
+$35 billion, compared to the original guidance of $40 – $45 billion.
+longer-term structural operating and feedstock improvements,
+A dividend of SAR 70.33 billion ($18.76 billion) was declared for the further enhancing its cracker’s flexibility and improving Sadara’s
+first quarter of 2021. position on the global manufacturing cost curve; and
+ The Company achieved 100.0% (Q1 2020: 99.7%) supply
+Upstream
+reliability in the first quarter through continued demonstration of its
+operational agility and logistics optimization.
+Upstream continues to enhance Aramco’s position as one of the
+world’s top energy producers with an average total hydrocarbon
+production of 11.5 mmboed in the first quarter. This includes an Working safely, responsibly and sustainably
+average crude oil production of 8.6 mmbpd.
+The rollout of vaccination programs around the world to combat
+Upstream continues to invest in developing cutting-edge technologies COVID-19 is an encouraging development but the pandemic is far from
+and digital transformation programs. In January, Aramco and Saudi over. Aramco is proactively maintaining its safety and prevention
+Telecom Company (stc) commissioned the Dammam 7 programs to minimize the risks related to the COVID-19 pandemic on
+supercomputer. Named after the first successful oil well discovered in its operations and ensuring the continuity of a vital and reliable energy
+Saudi Arabia, the Dammam 7 supercomputer is among the ten most supply to its customers around the world.
+powerful supercomputers in the world with a processing capacity of
+On the sustainability front, the Company successfully completed its
+55.4 petaflops. The supercomputer is capable of running detailed 3D
+program to plant one million trees following the planting of more than
+earth models with the intent of improving exploration and development
+500,000 trees during the first quarter of 2021. The program’s main
+successes while reducing associated risks.
+objective was to combat desertification, enhance native biodiversity
+and create shaded areas.
+Downstream
+The Downstream business is keeping pace with its long-term strategy
+through further strategic integration and diversification of its operations.
+In the first quarter of 2021, Downstream enhanced its operating model
+to further support integration across the hydrocarbon value chain that
+will better position Aramco to strengthen its financial performance,
+value creation and global growth.
+[Page 5]
+4 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions unless otherwise stated
+Financial performance
+Summary of financial performance
+First quarter ended March 31
+SAR USD*
+All amounts in millions unless otherwise stated 2021 2020 2021 2020 % change
+Income before income taxes and zakat 151,380 127,735 40,368 34,063 18.5%
+Income taxes and zakat (69,940) (65,257) (18,651) (17,402) 7.2%
+Net income 81,440 62,478 21,717 16,661 30.3%
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Financial results
+Following the unprecedented conditions brought on by the COVID-19 Net income
+pandemic, global energy markets bounced back strongly in the first
+Net income for the first quarter of 2021 increased to SAR 81,440
+quarter of 2021, resulting in improved demand and higher prices.
+($21,717), from SAR 62,478 ($16,661) for the same period in 2020,
+Aramco’s financial agility, unique operational flexibility and its cash
+primarily driven by higher crude oil prices, improved downstream
+generation ability once again enabled it to benefit from these improved
+margins and the consolidation of SABIC’s results, partly offset by lower
+market conditions to deliver strong earnings and cash flows for the first
+crude oil volumes sold.
+quarter of 2021.
+Income taxes and zakat
+Key factors affecting Aramco’s financial results
+The charge for income taxes and zakat for the first quarter of 2021 was
+ Aramco’s results of operations and cash flows are primarily driven SAR 69,940 ($18,651), compared to SAR 65,257 ($17,402) for the first
+by market prices and the volumes sold of hydrocarbons, and quarter of 2020. This increase in 2021 was mainly due to higher
+refined and chemicals products. Global demand for petroleum earnings.
+products continued to recover from the lows of 2020, though still
+For non-IFRS measures, refer to Non-IFRS measures reconciliations
+remains below pre-pandemic levels. The prices for hydrocarbons,
+and definitions section.
+and refined and chemicals products improved in the first quarter
+of 2021, compared to the same period in 2020.
+ Aramco's consolidated statement of income for the first quarter of
+2021 includes SABIC’s results, following its acquisition of a 70%
+equity interest in June 2020.
+[TABLE DATA]
+151,380
+(69,940)
+81,440
+40,368 | 34,063
+(17,402) | 18.5%
+(18,651) |  | 7.2%
+21,717 | 16,661 | 30.3%
+[Page 6]
+Saudi Aramco 5
+First quarter interim report 2021
+All amounts in millions unless otherwise stated
+Upstream financial performance
+First quarter ended March 31
+SAR USD*
+All amounts in millions unless otherwise stated 2021 2020 2021 2020 % change
+Earnings before interest, income taxes and zakat 150,130 141,111 40,035 37,630 6.4%
+Capital expenditures - cash basis 24,355 20,533 6,495 5,475 18.6%
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Earnings before interest, income taxes and zakat (EBIT) for the first Capital expenditures for the first quarter of 2021 increased by 18.6%,
+quarter of 2021 was SAR 150,130 ($40,035), compared to SAR compared to same period in 2020, from SAR 20,533 ($5,475) to SAR
+141,111 ($37,630) for the same period in 2020, reflecting the positive 24,355 ($6,495). This increase was primarily attributable to the
+signs in the global energy markets and Upstream’s continued focus on commencement of the initial phases of the construction and
+fiscal discipline. The increase in EBIT was mainly driven by favorable procurement activities relating to ongoing increment projects.
+movements in average realized crude oil prices which was partially
+offset by lower volumes sold. EBIT also benefited from lower crude oil
+production royalties as a result of lower sales volumes.
+Downstream financial performance
+First quarter ended March 31
+SAR USD*
+All amounts in millions unless otherwise stated 2021 2020 2021 2020 % change
+Earnings (losses) before interest, income taxes and zakat 16,660 (19,006) 4,443 (5,068) 187.7%
+Capital expenditures - cash basis 5,864 6,900 1,564 1,840 (15.0)%
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only
+Earnings (losses) before interest, income taxes and zakat (EBIT) Capital expenditures for the first quarter of 2021 decreased by
+for the first quarter of 2021 was a profit of SAR 16,660 ($4,443), 15.0%, compared to the same period in 2020, from SAR 6,900
+compared to a loss of SAR 19,006 ($5,068) for the same period in ($1,840) to SAR 5,864 ($1,564). This decrease was primarily due to
+2020. These strong financial results stem from the continued recovery projects nearing their completion and portfolio-wide optimization
+in global economic conditions leading to higher margins and also efforts, partly offset by the consolidation of SABIC’s capital
+inventory re-valuation gains. The consolidation of SABIC’s results expenditures.
+further enhanced the segment’s EBIT.
+[TABLE DATA]
+150,130
+24,355
+| 37,630
+5,475 |
+40,035 |  | 6.4%
+|  |
+6,495 |  | 18.6%
+16,660
+5,864
+| (5,068)
+1,840 |
+4,443 |  | 187.7%
+|  |
+1,564 |  | (15.0)%
+[Page 10]
+Saudi Aramco 9
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of income
+SAR USD*
+1st quarter 1st quarter 1st quarter 1st quarter
+Note 2021 2020 2021 2020
+Revenue 11 272,072 225,567 72,553 60,151
+Other income related to sales 28,085 24,778 7,489 6,608
+Revenue and other income related to sales 300,157 250,345 80,042 66,759
+Royalties and other taxes (24,055) (29,045) (6,415) (7,745)
+Purchases (73,910) (50,649) (19,709) (13,506)
+Producing and manufacturing (15,707) (17,530) (4,189) (4,675)
+Selling, administrative and general (12,403) (6,302) (3,307) (1,680)
+Exploration (1,053) (1,685) (281) (449)
+Research and development (878) (415) (234) (111)
+Depreciation and amortization 6,7 (20,264) (14,987) (5,404) (3,997)
+Operating costs (148,270) (120,613) (39,539) (32,163)
+Operating income 151,887 129,732 40,503 34,596
+Share of results of joint ventures and associates 1,787 (1,585) 477 (423)
+Finance and other income 329 1,171 88 312
+Finance costs (2,623) (1,583) (700) (422)
+Income before income taxes and zakat 151,380 127,735 40,368 34,063
+Income taxes and zakat 8 (69,940) (65,257) (18,651) (17,402)
+Net income 81,440 62,478 21,717 16,661
+Net income (loss) attributable to
+Shareholders' equity 78,590 63,532 20,957 16,942
+Non-controlling interests 2,850 (1,054) 760 (281)
+81,440 62,478 21,717 16,661
+Earnings per share (basic and diluted) 0.39 0.32 0.10 0.08
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Khalid H. Al-Dabbagh Salah M. Al-Hareky
+Director, Senior Vice President, Controller
+President & Chief Executive Officer Finance, Strategy & Development
+[TABLE DATA]
+272,072
+28,085
+300,157
+(24,055)
+(73,910)
+(15,707)
+(12,403)
+(1,053)
+(878)
+(20,264)
+(148,270)
+151,887
+1,787
+329
+(2,623)
+151,380
+(69,940)
+81,440
+78,590
+2,850
+81,440
+0.39
+72,553
+7,489
+80,042
+(6,415)
+(19,709)
+(4,189)
+(3,307)
+(281)
+(234)
+(5,404)
+(39,539)
+40,503
+477
+88
+(700)
+40,368
+(18,651)
+21,717
+20,957
+760
+21,717
+0.10
+[Page 11]
+10 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of comprehensive income
+SAR USD*
+1st quarter 1st quarter 1st quarter 1st quarter
+Note 2021 2020 2021 2020
+Net income 81,440 62,478 21,717 16,661
+Other comprehensive income (loss), net of tax 9
+Items that will not be reclassified to net income
+Remeasurement of post-employment benefit obligations 12,996 (10,695) 3,466 (2,852)
+Changes in fair value of equity investments classified as fair
+value through other comprehensive income 843 (1,046) 225 (279)
+Items that may be reclassified subsequently to net income
+Cash flow hedges and other (176) (619) (47) (165)
+Changes in fair value of debt securities classified as fair value
+through other comprehensive income (512) (56) (136) (15)
+Share of other comprehensive loss of joint ventures and
+associates (715) (664) (191) (177)
+Currency translation differences (746) (1,468) (199) (392)
+11,690 (14,548) 3,118 (3,880)
+Total comprehensive income 93,130 47,930 24,835 12,781
+Total comprehensive income (loss) attributable to
+Shareholders' equity 90,402 49,477 24,108 13,194
+Non-controlling interests 2,728 (1,547) 727 (413)
+93,130 47,930 24,835 12,781
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Khalid H. Al-Dabbagh Salah M. Al-Hareky
+Director, Senior Vice President, Controller
+President & Chief Executive Officer Finance, Strategy & Development
+[TABLE DATA]
+81,440
+12,996
+843
+(176)
+(512)
+(715)
+(746)
+11,690
+93,130
+90,402
+2,728
+93,130
+21,717
+3,466
+225
+(47)
+(136)
+(191)
+(199)
+3,118
+24,835
+24,108
+727
+24,835
+[Page 12]
+Saudi Aramco 11
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated balance sheet
+SAR USD*
+March 31, December 31, March 31, December 31,
+Note 2021 2020 2021 2020
+Assets
+Non-current assets
+Property, plant and equipment 6 1,215,284 1,209,460 324,076 322,523
+Intangible assets 7 164,588 164,547 43,890 43,879
+Investments in joint ventures and associates 66,665 65,976 17,777 17,594
+Deferred income tax assets 15,520 15,280 4,139 4,075
+Other assets and receivables 38,255 37,258 10,201 9,935
+Investments in securities 23,992 22,861 6,398 6,096
+1,524,304 1,515,382 406,481 404,102
+Current assets
+Inventories 58,874 51,999 15,700 13,867
+Trade receivables 108,660 85,183 28,976 22,715
+Due from the Government 30,910 28,895 8,243 7,705
+Other assets and receivables 19,626 18,769 5,233 5,005
+Short-term investments 6,108 6,801 1,629 1,814
+Cash and cash equivalents 203,010 207,232 54,136 55,262
+427,188 398,879 113,917 106,368
+Total assets 1,951,492 1,914,261 520,398 510,470
+Equity and liabilities
+Shareholders' equity
+Share capital 60,000 60,000 16,000 16,000
+Additional paid-in capital 26,981 26,981 7,195 7,195
+Treasury shares (3,123) (3,264) (833) (870)
+Retained earnings:
+Unappropriated 915,077 895,273 244,021 238,739
+Appropriated 6,000 6,000 1,600 1,600
+Other reserves 9 5,474 5,858 1,460 1,562
+1,010,409 990,848 269,443 264,226
+Non-controlling interests 113,100 110,246 30,160 29,399
+1,123,509 1,101,094 299,603 293,625
+Non-current liabilities
+Borrowings 10 472,308 436,920 125,949 116,512
+Deferred income tax liabilities 65,541 53,621 17,478 14,299
+Post-employment benefit obligations 32,843 54,207 8,758 14,455
+Provisions and other liabilities 25,393 25,208 6,771 6,722
+596,085 569,956 158,956 151,988
+Current liabilities
+Trade and other payables 97,286 93,740 25,943 24,998
+Obligations to the Government:
+Income taxes and zakat 8 58,562 42,059 15,617 11,216
+Royalties 9,522 8,255 2,539 2,201
+Borrowings 10 66,528 99,157 17,740 26,442
+231,898 243,211 61,839 64,857
+Total liabilities 827,983 813,167 220,795 216,845
+Total equity and liabilities 1,951,492 1,914,261 520,398 510,470
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Khalid H. Al-Dabbagh Salah M. Al-Hareky
+Director, Senior Vice President, Controller
+President & Chief Executive Officer Finance, Strategy & Development
+[TABLE DATA]
+1,215,284
+164,588
+66,665
+15,520
+38,255
+23,992
+1,524,304
+58,874
+108,660
+30,910
+19,626
+6,108
+203,010
+427,188
+1,951,492
+60,000
+26,981
+(3,123)
+915,077
+6,000
+5,474
+1,010,409
+113,100
+1,123,509
+472,308
+65,541
+32,843
+25,393
+596,085
+97,286
+58,562
+9,522
+66,528
+231,898
+827,983
+1,951,492
+324,076
+43,890
+17,777
+4,139
+10,201
+6,398
+406,481
+15,700
+28,976
+8,243
+5,233
+1,629
+54,136
+113,917
+520,398
+16,000
+7,195
+(833)
+244,021
+1,600
+1,460
+269,443
+30,160
+299,603
+125,949
+17,478
+8,758
+6,771
+158,956
+25,943
+15,617
+2,539
+17,740
+61,839
+220,795
+520,398
+[Page 13]
+12 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of changes in equity
+SAR USD*
+Shareholders' equity
+Retained earnings
+Additional Other Non-
+paid-in Treasury reserves controlling
+Share capital capital shares Unappropriated Appropriated (Note 9) interests Total Total
+Balance at January 1, 2020 60,000 26,981 (3,750) 943,758 6,000 2,076 11,170 1,046,235 278,996
+Net income (loss) ‑ ‑ ‑ 63,532 ‑ ‑ (1,054) 62,478 16,661
+Other comprehensive loss ‑ ‑ ‑ ‑ ‑ (14,055) (493) (14,548) (3,880)
+Total comprehensive income
+(loss) ‑ ‑ ‑ 63,532 ‑ (14,055) (1,547) 47,930 12,781
+Transfer of post-employment
+benefit obligations
+remeasurement ‑ ‑ ‑ (10,695) ‑ 10,695 ‑ ‑ ‑
+Share-based compensation ‑ ‑ ‑ ‑ ‑ 139 ‑ 139 37
+Dividends (Note 18) ‑ ‑ ‑ (14,751) ‑ ‑ ‑ (14,751) (3,933)
+Dividends to non-controlling
+interests ‑ ‑ ‑ ‑ ‑ ‑ (14) (14) (4)
+Balance at March 31, 2020 60,000 26,981 (3,750) 981,844 6,000 (1,145) 9,609 1,079,539 287,877
+Balance at January 1, 2021 60,000 26,981 (3,264) 895,273 6,000 5,858 110,246 1,101,094 293,625
+Net income ‑ ‑ ‑ 78,590 ‑ ‑ 2,850 81,440 21,717
+Other comprehensive income
+(loss) ‑ ‑ ‑ ‑ ‑ 11,812 (122) 11,690 3,118
+Total comprehensive income ‑ ‑ ‑ 78,590 ‑ 11,812 2,728 93,130 24,835
+Transfer of post-employment
+benefit obligations
+remeasurement ‑ ‑ ‑ 12,218 ‑ (12,218) ‑ ‑ ‑
+Treasury shares issued to
+employees ‑ ‑ 141 ‑ ‑ ‑ ‑ 141 38
+Share-based compensation ‑ ‑ ‑ ‑ ‑ 22 ‑ 22 5
+Dividends (Note 18) ‑ ‑ ‑ (70,325) ‑ ‑ ‑ (70,325) (18,753)
+Change in ownership interest
+of subsidiary (Note 17) ‑ ‑ ‑ (679) ‑ ‑ 679 ‑ ‑
+Dividends to non-controlling
+interests and other ‑ ‑ ‑ ‑ ‑ ‑ (553) (553) (147)
+Balance at March 31, 2021 60,000 26,981 (3,123) 915,077 6,000 5,474 113,100 1,123,509 299,603
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Khalid H. Al-Dabbagh Salah M. Al-Hareky
+Director, Senior Vice President, Controller
+President & Chief Executive Officer Finance, Strategy & Development
+[TABLE DATA]
+60,000 | 26,981 | (3,264) | 895,273 | 6,000 | 5,858 | 110,246 | 1,101,094
+‑ | ‑ | ‑ | 78,590 | ‑ | ‑ | 2,850 | 81,440
+|  |  |  |  |  |  |
+‑ | ‑ | ‑ | ‑ | ‑ | 11,812 | (122) | 11,690
+‑ | ‑ | ‑ | 78,590 | ‑ | 11,812 | 2,728 | 93,130
+|  |  |  |  |  |  |
+‑ | ‑ | ‑ | 12,218 | ‑ | (12,218) | ‑ | ‑
+|  |  |  |  |  |  |
+‑ | ‑ | 141 | ‑ | ‑ | ‑ | ‑ | 141
+‑ | ‑ | ‑ | ‑ | ‑ | 22 | ‑ | 22
+‑ | ‑ | ‑ | (70,325) | ‑ | ‑ | ‑ | (70,325)
+|  |  |  |  |  |  |
+‑ | ‑ | ‑ | (679) | ‑ | ‑ | 679 | ‑
+|  |  |  |  |  |  |
+‑ | ‑ | ‑ | ‑ | ‑ | ‑ | (553) | (553)
+|  |  |  |  |  |  |
+60,000 | 26,981 | (3,123) | 915,077 | 6,000 | 5,474 | 113,100 | 1,123,509
+293,625
+21,717
+3,118
+24,835
+‑
+38
+5
+(18,753)
+‑
+(147)
+299,603
+[Page 14]
+Saudi Aramco 13
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of cash flows
+SAR USD*
+1st quarter 1st quarter 1st quarter 1st quarter
+Note 2021 2020 2021 2020
+Income before income taxes and zakat 151,380 127,735 40,368 34,063
+Adjustments to reconcile income before income taxes and zakat
+to net cash provided by operating activities
+Depreciation and amortization 6,7 20,264 14,987 5,404 3,997
+Exploration and evaluation costs written off 316 739 84 197
+Share of results of joint ventures and associates (1,787) 1,585 (477) 423
+Finance income (323) (1,060) (86) (283)
+Finance costs 2,623 1,583 700 422
+Dividends from investments in securities (3) (109) (1) (29)
+Change in fair value of investments through profit or loss 632 865 169 231
+Change in joint ventures and associates inventory profit elimination 121 (367) 33 (98)
+Other 721 (1,116) 193 (298)
+Change in working capital
+Inventories (6,875) 9,717 (1,833) 2,591
+Trade receivables (23,477) 33,546 (6,261) 8,946
+Due from the Government (2,015) 7,797 (538) 2,079
+Other assets and receivables (778) (5,312) (208) (1,417)
+Trade and other payables 8,032 (13,194) 2,141 (3,518)
+Royalties payable 1,267 (8,755) 338 (2,335)
+Other changes
+Other assets and receivables (997) (2,039) (266) (544)
+Provisions and other liabilities 117 394 31 105
+Post-employment benefit obligations 1,239 592 330 158
+Settlement of income, zakat and other taxes 8(c) (51,158) (83,521) (13,642) (22,272)
+Net cash provided by operating activities 99,299 84,067 26,479 22,418
+Capital expenditures 5 (30,750) (27,740) (8,200) (7,397)
+Distributions from joint ventures and associates 513 25 136 7
+Additional investments in joint ventures and associates (136) (6) (36) (2)
+Dividends from investments in securities 3 109 1 29
+Interest received 244 2,010 66 536
+Net investments in securities (1,024) (64) (274) (17)
+Net maturities of short-term investments 693 45,239 185 12,064
+Net cash (used in) provided by investing activities (30,457) 19,573 (8,122) 5,220
+Dividends paid to shareholders of the Company (70,325) (50,226) (18,753) (13,394)
+Dividends paid to non-controlling interests in subsidiaries (542) (14) (144) (4)
+Proceeds from issue of treasury shares 98 26
+Proceeds from borrowings 2,394 8,459 638 2,256
+Repayments of borrowings (393) (1,550)‑ (105) (413)‑
+Principal portion of lease payments (2,809) (1,448) (749) (386)
+Interest paid (1,487) (1,132) (396) (302)
+Net cash used in financing activities (73,064) (45,911) (19,483) (12,243)
+Net (decrease) increase in cash and cash equivalents (4,222) 57,729 (1,126) 15,395
+Cash and cash equivalents at beginning of the period 207,232 177,706 55,262 47,388
+Cash and cash equivalents at end of the period 203,010 235,435 54,136 62,783
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Khalid H. Al-Dabbagh Salah M. Al-Hareky
+Director, Senior Vice President, Controller
+President & Chief Executive Officer Finance, Strategy & Development
+[TABLE DATA]
+151,380
+20,264
+316
+(1,787)
+(323)
+2,623
+(3)
+632
+121
+721
+(6,875)
+(23,477)
+(2,015)
+(778)
+8,032
+1,267
+(997)
+117
+1,239
+(51,158)
+99,299
+(30,750)
+513
+(136)
+3
+244
+(1,024)
+693
+(30,457)
+(70,325)
+(542)
+98
+2,394
+(393)
+(2,809)
+(1,487)
+(73,064)
+(4,222)
+207,232
+203,010
+40,368
+5,404
+84
+(477)
+(86)
+700
+(1)
+169
+33
+193
+(1,833)
+(6,261)
+(538)
+(208)
+2,141
+338
+(266)
+31
+330
+(13,642)
+26,479
+(8,200)
+136
+(36)
+1
+66
+(274)
+185
+(8,122)
+(18,753)
+(144)
+26
+638
+(105)
+(749)
+(396)
+(19,483)
+(1,126)
+55,262
+54,136
+[Page 15]
+14 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+Notes to the condensed consolidated interim financial report
+1.General information
+The Saudi Arabian Oil Company (the “Company”), with headquarters located in Dhahran, Kingdom of Saudi Arabia (the “Kingdom”), is engaged in
+prospecting, exploring, drilling and extracting hydrocarbon substances (“Upstream”) and processing, manufacturing, refining and marketing these
+hydrocarbon substances (“Downstream”). The Company was formed on November 13, 1988 by Royal Decree No. M/8; however, its history dates
+back to May 29, 1933 when the Saudi Arabian Government (the “Government”) granted a concession to the Company’s predecessor the right to,
+among other things, explore the Kingdom for hydrocarbons. Effective January 1, 2018, Council of Minister’s Resolution No. 180, dated 1/4/1439H
+(December 19, 2017), converted the Company to a Saudi Joint Stock Company with new Bylaws.
+On December 11, 2019, the Company completed its Initial Public Offering (“IPO”) and its ordinary shares were listed on the Saudi Stock Exchange
+(“Tadawul”). In connection with the IPO, the Government, being the sole owner of the Company’s shares at such time, sold an aggregate of
+3.45 billion ordinary shares, or 1.73% of the Company’s share capital.
+The condensed consolidated interim financial report of the Company and its subsidiaries (together “Saudi Aramco”) was approved by the Board of
+Directors on May 3, 2021.
+2.Basis of preparation and other significant accounting policies
+The condensed consolidated interim financial report has been prepared in accordance with International Accounting Standard 34 (“IAS 34”),
+Interim Financial Reporting, that is endorsed in the Kingdom, and other standards and pronouncements issued by the Saudi Organization for
+Chartered and Professional Accountants (“SOCPA”). This condensed consolidated interim financial report is consistent with the accounting
+policies and methods of computation and presentation set out in Saudi Aramco’s December 31, 2020 consolidated financial statements, except for
+new and amended standards disclosed below.
+The results for the interim periods are unaudited and include all adjustments necessary for a fair presentation of the results for the periods
+presented. This condensed consolidated interim financial report should be read in conjunction with the consolidated financial statements and
+related notes for the year ended December 31, 2020, which have been prepared in accordance with International Financial Reporting Standards
+(“IFRS”) that are endorsed in the Kingdom, and other standards and pronouncements issued by SOCPA. The consolidated financial statements
+for the year ended December 31, 2020 are also in compliance with IFRS as issued by the International Accounting Standards Board (“IASB”).
+Translations from SAR to USD presented as supplementary information in the Condensed Consolidated Statement of Income, Condensed
+Consolidated Statement of Comprehensive Income, Condensed Consolidated Balance Sheet, Condensed Consolidated Statement of Changes in
+Equity, and Condensed Consolidated Statement of Cash Flows at March 31, 2021 and December 31, 2020 and for the three-month periods ended
+March 31, 2021 and 2020, are for convenience and were calculated at the rate of USD 1.00 = SAR 3.75 representing the exchange rate at the
+balance sheet dates.
+In response to novel Coronavirus (“COVID-19”), which has caused global economic disruption, Saudi Aramco has implemented active prevention
+programs at its sites and contingency plans in order to minimize the risks related to COVID-19 and to safeguard the continuity of business
+operations. Crude oil sales account for a substantial portion of the Company's revenue. Crude oil is also a fundamental feedstock to the
+Company’s Downstream operations. The energy markets saw a sharp recovery in the first quarter of 2021 as countries around the world started to
+rollout vaccination programs. This resulted in a steady increase in crude oil prices. The increased prices have positively impacted Saudi Aramco’s
+financial performance during this period. Saudi Aramco continues to rationalize its capital spending in response to current market conditions.
+Management continues to monitor the situation, including the impact on both results of operations and cash flows and will take further actions as
+necessary. Additionally, management has considered the potential impact of the COVID-19 pandemic on Saudi Aramco’s significant accounting
+judgements and estimates and there are no changes to the significant judgements and estimates disclosed in the December 31, 2020
+consolidated financial statements, other than those disclosed in this condensed consolidated interim financial report.
+New or amended standards
+(i) Saudi Aramco adopted the following IASB pronouncement, as endorsed in the Kingdom, effective for annual periods beginning on or after
+January 1, 2021:
+Interbank Offered Rate (“IBOR”) reform
+IBOR reform represents the reform and replacement of interest rate benchmarks such as the London Interbank Offered Rate (“LIBOR”) by global
+regulators. On March 5, 2021, the UK’s Financial Conduct Authority announced the future cessation and loss of representativeness of the LIBOR
+benchmarks. Saudi Aramco has a number of contracts, primarily referenced to USD LIBOR, of which most applicable tenors will cease to be
+published on June 30, 2023.
+[Page 16]
+Saudi Aramco 15
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+2. Basis of preparation and other significant accounting policies continued
+In this regard, the IASB issued amendments to IAS 39, Financial Instruments: Recognition and Measurement, IFRS 4, Insurance Contracts, IFRS
+7, Financial Instruments: Disclosures, IFRS 9, Financial Instruments, and IFRS 16, Leases, as part of phase 2 of a two-phase project for IBOR
+reform, which address issues that arise from the implementation of the reforms. These amendments, issued on August 27, 2020 and effective
+January 1, 2021, include: (1) providing practical expedients in relation to accounting for instruments to which the amortized cost measurement
+applies by updating the effective interest rate to account for a change in the basis for determining the contractual cash flows without adjusting the
+carrying amount; (2) additional temporary exceptions from applying specific hedge accounting requirements, including permitted changes to hedge
+designation without the hedging relationship being discontinued when Phase 1 reliefs cease; and (3) additional disclosures related to IBOR reform,
+including managing the transition to alternative benchmark rates, its progress and the risks arising from the transition, quantitative information
+about financial instruments that have yet to transition to new benchmarks and changes in the entity’s risk management strategy where this arises.
+Saudi Aramco has established an IBOR Transition Project, the scope of which includes analyzing the exposure to IBOR benchmarks, evaluating
+the impact of the transition and providing support and guidance to all impacted internal stakeholders. As per the initial transition plan, all contracts
+and agreements that reference USD LIBOR and expire after the cessation dates will be renegotiated with counterparties to reflect the alternative
+benchmark.
+The following table contains details of all financial instruments of Saudi Aramco referencing USD LIBOR at March 31, 2021, which expire after the
+cessation dates, and which have not yet transitioned to an alternative benchmark:
+Financial
+instruments yet
+to transition to
+alternative
+benchmarks:
+As at March 31, 2021 USD LIBOR
+Non-derivative financial assets 10,459
+Non-derivative financial liabilities 41,614
+Derivative financial liabilities1 563
+1. Amounts represent hedging instruments with a nominal value of SAR 11,801.
+(ii) Saudi Aramco has not early adopted any new accounting standards, interpretations or amendments that are issued but not yet effective.
+3. Fair value estimation
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at
+the measurement date. The fair value measurement is based on the presumption that the transaction to sell the asset or transfer the liability takes
+place either in the principal market for the asset or liability or, in the absence of a principal market, in the most advantageous market for the asset
+or liability. Management believes that the fair values of Saudi Aramco’s financial assets and liabilities that are measured and recognized at
+amortized cost are not materially different from their carrying amounts at the end of the reporting period.
+The following table presents Saudi Aramco’s assets and liabilities measured and recognized at fair value at March 31, 2021 and December 31,
+2020, based on the prescribed fair value measurement hierarchy on a recurring basis. Saudi Aramco did not measure any financial assets or
+financial liabilities at fair value on a non-recurring basis at March 31, 2021 and December 31, 2020. There were no changes made to any of the
+valuation techniques and valuation processes applied as of December 31, 2020 and changes in unobservable inputs are not expected to
+materially impact the fair value.
+Assets Level 1i Level 2ii Level 3iii Total
+March 31, 2021
+Investments in securities:
+Equity securities at Fair Value Through Other Comprehensive Income
+("FVOCI") 9,028 158 1,472 10,658
+Debt securities at FVOCI 30 6,985 ‑ 7,015
+Equity securities at Fair Value Through Profit Or Loss ("FVPL") 883 2,032 2,817 5,732
+Debt securities at FVPL 53 ‑ ‑ 53
+Trade receivables related to contracts with provisional pricing arrangements ‑ ‑ 83,398 83,398
+9,994 9,175 87,687 106,856
+Other assets and receivables:
+Commodity swaps ‑ 1,952 17 1,969
+Currency forward contracts ‑ 246 ‑ 246
+Financial assets against options ‑ ‑ 2,543 2,543
+‑ 2,198 2,560 4,758
+Total assets 9,994 11,373 90,247 111,614
+[TABLE DATA]
+10,459
+41,614
+563
+10,658
+7,015
+5,732
+53
+83,398
+106,856
+1,969
+246
+2,543
+4,758
+111,614
+[Page 17]
+16 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+3. Fair value estimation continued
+Assets Level 1i Level 2ii Level 3iii Total
+December 31, 2020
+Investments in securities:
+Equity securities at FVOCI 8,051 174 1,475 9,700
+Debt securities at FVOCI 21 6,948 ‑ 6,969
+Equity securities at FVPL 870 1,219 3,495 5,584
+Debt securities at FVPL 53 ‑ ‑ 53
+Trade receivables related to contracts with provisional pricing arrangements ‑ ‑ 54,402 54,402
+8,995 8,341 59,372 76,708
+Other assets and receivables:
+Commodity swaps ‑ 291 17 308
+Currency forward contracts ‑ 275 ‑ 275
+Financial assets against options ‑ ‑ 1,863 1,863
+‑ 566 1,880 2,446
+Total assets 8,995 8,907 61,252 79,154
+Liabilities Level 1i Level 2ii Level 3iii Total
+March 31, 2021
+Trade and other payables:
+Interest rate swaps ‑ 570 ‑ 570
+Commodity swaps ‑ 3,373 17 3,390
+Currency forward contracts ‑ 105 ‑ 105
+Provisions and other liabilities:
+Financial liability against options ‑ ‑ 3,100 3,100
+Total liabilities ‑ 4,048 3,117 7,165
+December 31, 2020
+Trade and other payables:
+Interest rate swaps ‑ 874 ‑ 874
+Commodity swaps 78 159 28 265
+Currency forward contracts ‑ 212 ‑ 212
+Provisions and other liabilities:
+Financial liability against options ‑ ‑ 1,995 1,995
+Total liabilities 78 1,245 2,023 3,346
+i. Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+ii. Valuation techniques for which the lowest level input that is significant to the fair value measurement is directly or indirectly observable.
+iii. Valuation techniques for which the lowest level input that is significant to the fair value measurement is unobservable.
+The changes in Level 3 investments in securities for the three-month period ended March 31, 2021 and the year ended December 31, 2020 are as
+follows:
+March 31, December 31,
+2021 2020
+Beginning 4,970 6,162
+Acquisition ‑ 262
+Net disposals (712) (1,681)
+Net movement in unrealized fair value (210) (299)
+Realized gain 241 526
+Ending 4,289 4,970
+The movement in trade receivables related to contracts with provisional pricing arrangements mainly relates to sales transactions, net of
+settlements, made during the period, resulting from contracts with customers (Note 11). Unrealized fair value movements on these trade
+receivables are not significant.
+The change in commodity swaps primarily relate to purchase and sales derivative contracts including recognition of a gain or loss that results from
+adjusting a derivative to fair value. Fair value movements on these commodity swaps are not significant.
+The movement in the financial asset and liability against options, which are related to put, call and forward contracts on Saudi Aramco’s own
+equity instruments in certain subsidiaries, is due to the change in the unrealized fair value during the period.
+[TABLE DATA]
+570
+3,390
+105
+3,100
+7,165
+4,970
+‑
+(712)
+(210)
+241
+4,289
+[Page 18]
+Saudi Aramco 17
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+4. Acquisition of subsidiary - Saudi Basic Industries Corporation (“SABIC”)
+On June 16, 2020, the Company acquired a 70% equity interest in SABIC from the Public Investment Fund ("PIF"), for SAR 259,125 ($69,100).
+Details of this acquisition were disclosed in Note 4 of Saudi Aramco’s annual consolidated financial statements for the year ended December 31,
+2020. There were no changes during the current quarter to the preliminary fair values of the assets and liabilities acquired on acquisition of SABIC.
+5. Operating segments
+Saudi Aramco is engaged in prospecting, exploring, drilling, extracting, processing, manufacturing, refining and marketing hydrocarbon
+substances within the Kingdom and has interests in refining, petrochemical, distribution, marketing and storage facilities outside the Kingdom.
+Saudi Aramco’s operating segments are established on the basis of those components that are evaluated regularly by the CEO, considered to be
+the Chief Operating Decision Maker. The Chief Operating Decision Maker monitors the operating results of Saudi Aramco’s operating segments
+separately for the purpose of making decisions about resource allocation and performance assessment. Segment performance is evaluated based
+on revenues, costs and a broad range of key performance indicators in addition to segment profitability.
+For management purposes, Saudi Aramco is organized into business units based on the main types of activities. At March 31, 2021, Saudi
+Aramco had two reportable segments, Upstream and Downstream, with all other supporting functions aggregated into a Corporate segment.
+Upstream activities include crude oil, natural gas and natural gas liquids exploration, field development and production. Downstream activities,
+which now include SABIC’s operations from the date of acquisition, consist primarily of refining and petrochemical manufacturing, supply and
+trading, distribution and power generation, logistics, and marketing of crude oil and related services to international and domestic customers.
+Corporate activities include primarily supporting services including Human Resources, Finance and IT not allocated to Upstream and Downstream.
+Transfer prices between operating segments are on an arm’s length basis in a manner similar to transactions with third parties.
+There are no differences from the 2020 consolidated financial statements in the basis of segmentation or in the basis of measurement of segment
+earnings before interest, income taxes and zakat.
+Information by segments for the three-month period ended March 31, 2021 is as follows:
+Upstream Downstream Corporate Eliminations Consolidated
+External revenue 130,836 140,949 287 ‑ 272,072
+Other income related to sales 10,031 18,054 ‑ ‑ 28,085
+Inter-segment revenue 60,521 7,118 78 (67,717) ‑
+Earnings (losses) before interest, income taxes and
+zakat 150,130 16,660 (3,536) (9,574) 153,680
+Finance income 323
+Finance costs (2,623)
+Income before income taxes and zakat 151,380
+Capital expenditures - cash basis 24,355 5,864 531 - 30,750
+Information by segments for the three-month period ended March 31, 2020 is as follows:
+Upstream Downstream Corporate Eliminations Consolidated
+External revenue 136,305 88,866 396 ‑ 225,567
+Other income related to sales 8,814 15,964 ‑ ‑ 24,778
+Inter-segment revenue 47,618 7,453 88 (55,159) ‑
+Earnings (losses) before interest, income taxes and
+zakat 141,111 (19,006) (4,499) 10,652 128,258
+Finance income 1,060
+Finance costs (1,583)
+Income before income taxes and zakat 127,735
+Capital expenditures - cash basis 20,533 6,900 307 ‑ 27,740
+[TABLE DATA]
+272,072
+28,085
+‑
+153,680
+323
+(2,623)
+151,380
+30,750
+[Page 19]
+18 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+6. Property, plant and equipment
+Refinery and Gas and General
+Crude oil petrochemical NGL service Construction-
+facilities facilities facilities plant in-progress Total
+Cost
+January 1, 2021 611,863 413,939 454,794 139,428 242,450 1,862,474
+Additions1 64 756 147 2,053 25,577 28,597
+Construction completed 7,066 4,341 4,885 902 (17,194) ‑
+Currency translation differences ‑ (3,765) ‑ (1) (230) (3,996)
+Transfers and adjustments (14) (315) ‑ 6 (45) (368)
+Transfer of exploration and evaluation assets ‑ ‑ ‑ ‑ 35 35
+Retirements and sales (341) (1,511) (3) (772) (187) (2,814)
+March 31, 2021 618,638 413,445 459,823 141,616 250,406 1,883,928
+Accumulated depreciation
+January 1, 2021 (294,307) (101,433) (191,399) (65,875) ‑ (653,014)
+Charge for the period (5,779) (7,422) (4,536) (1,978) ‑ (19,715)
+Currency translation differences ‑ 1,805 ‑ 33 ‑ 1,838
+Transfers and adjustments ‑ 13 ‑ (2) ‑ 11
+Retirements and sales 93 1,377 3 763 ‑ 2,236
+March 31, 2021 (299,993) (105,660) (195,932) (67,059) ‑ (668,644)
+Property, plant and equipment - net, March
+31, 2021 318,645 307,785 263,891 74,557 250,406 1,215,284
+1. Borrowing cost capitalized during the three-month period ended March 31, 2021, amounted to SAR 1,058, calculated using an average capitalization rate of 2.52%.
+Additions to right-of-use assets during the three-month period ended March 31, 2021 were SAR 2,852. The following table presents depreciation
+charges and net carrying amounts of right-of-use assets by class of assets.
+Depreciation
+expense for
+the three-
+month period Net carrying
+ended March amount at
+31, 2021 March 31, 2021
+Crude oil facilities 890 10,342
+Refinery and petrochemical facilities 825 16,598
+Gas and NGL facilities 60 567
+General service plant 1,005 25,895
+2,780 53,402
+7. Intangible assets
+Exploration Franchise/
+and Brands and customer Computer
+Goodwill evaluation trademarks relationships software Other1 Total
+Cost
+January 1, 2021 100,204 21,160 23,077 19,827 5,065 2,849 172,182
+Additions ‑ 983 ‑ ‑ 5 19 1,007
+Currency translation differences (8) ‑ (58) (11) (21) (75) (173)
+Transfers and adjustments 8 ‑ (41) (41) 2 37 (35)
+Transfer of exploration and evaluation
+assets ‑ (35) ‑ ‑ ‑ ‑ (35)
+Retirements and write offs ‑ (316) ‑ ‑ (1) (37) (354)
+March 31, 2021 100,204 21,792 22,978 19,775 5,050 2,793 172,592
+Accumulated amortization
+January 1, 2021 ‑ ‑ (1,915) (1,501) (3,270) (949) (7,635)
+Charge for the period ‑ ‑ (103) (238) (124) (84) (549)
+Currency translation differences ‑ ‑ 1 ‑ 14 43 58
+Transfers and adjustments ‑ ‑ 41 41 ‑ ‑ 82
+Retirements and write offs ‑ ‑ ‑ ‑ 1 39 40
+March 31, 2021 ‑ ‑ (1,976) (1,698) (3,379) (951) (8,004)
+Intangible assets - net, March 31, 2021 100,204 21,792 21,002 18,077 1,671 1,842 164,588
+1 . Other intangible assets include patents and intellectu al property of SAR 1,225 and licenses and usage rights of SAR 617.
+[TABLE DATA]
+618,638 | 413,445 | 459,823 | 141,616 | 250,406
+(299,993) | (105,660) | (195,932) | (67,059) | ‑
+|  |  |  |
+318,645 | 307,785 | 263,891 | 74,557 | 250,406
+(668,644)
+1,215,284
+890 | 10,342
+825 | 16,598
+60 | 567
+1,005 | 25,895
+2,780 | 53,402
+100,204 |  | 21,792 |  | 22,978 | 19,775 | 5,050 | 2,793
+‑ |  | ‑ |  | (1,976) | (1,698) | (3,379) | (951)
+100,204 |  | 21,792 |  | 21,002 | 18,077 | 1,671 | 1,842
+(8,004)
+164,588
+[Page 20]
+Saudi Aramco 19
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+8. Income taxes and zakat
+(a) Kingdom income tax rates
+The Company is subject to an income tax rate of 20% on its Downstream activities and on the activities of exploration and production of non-
+associated natural gas, including gas condensates, as well as the collection, treatment, processing, fractionation and transportation of associated
+and non-associated natural gas and their liquids, gas condensates and other associated elements. All other activities are subject to an income tax
+rate of 50%, in accordance with the Tax Law. The 20% income tax rate applicable to the Downstream activities is conditional on the Company
+separating its Downstream activities under the control of one or more separate wholly owned subsidiaries before December 31, 2024, otherwise
+the Company’s Downstream activities will be retroactively taxed at 50%. The Company expects to transfer all its Downstream activities into a
+separate legal entity or entities within the period specified.
+During 2020, the Tax Law was amended, effective January 1, 2020, whereby shares held directly or indirectly in listed companies on the Tadawul
+by taxpayers engaged in oil and hydrocarbon activities are exempt from the application of corporate income tax. As a result, the Company’s
+ownership interests in SABIC, Petro Rabigh, Bahri and SEC are now subject to zakat.
+The reconciliation of tax charge at the Kingdom statutory rates to consolidated tax and zakat expense is as follows:
+1st quarter 1st quarter
+2021 2020
+Income before income taxes and zakat 151,380 127,735
+Less: Income subject to zakat (6,548) ‑
+Income subject to income tax 144,832 127,735
+Income taxes at the Kingdom’s statutory tax rates 69,045 62,745
+Tax effect of:
+Income not subject to tax at statutory rates and other 392 2,512
+Income tax expense 69,437 65,257
+Zakat expense 503 ‑
+Total income tax and zakat expense 69,940 65,257
+(b) Income tax and zakat expense
+1st quarter 1st quarter
+2021 2020
+Current income tax - Kingdom 66,951 63,801
+Current income tax - Foreign 193 50
+Deferred income tax - Kingdom 2,043 3,212
+Deferred income tax - Foreign 250 (1,806)
+Zakat - Kingdom 503 ‑
+69,940 65,257
+(c) Income tax and zakat obligation to the Government
+2021 2020
+January 1 42,059 62,243
+Provided during the period 67,454 63,801
+Payments during the period by the Company (Note 15) (22,387) (45,418)
+Payments during the period by subsidiaries and joint operations (81) (243)
+Settlements of due from the Government (27,256) (35,859)
+Other settlements (1,227) (1,931)
+March 31 58,562 42,593
+[TABLE DATA]
+151,380
+(6,548)
+144,832
+69,045
+392
+69,437
+503
+69,940
+66,951
+193
+2,043
+250
+503
+69,940
+42,059
+67,454
+(22,387)
+(81)
+(27,256)
+(1,227)
+58,562
+[Page 21]
+20 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+9. Other reserves
+Share of other
+comprehensive income
+(loss) of joint ventures
+and associates
+Foreign
+Investments Post- currency
+Currency in employment Share-based Cash flow translation Cash flow
+translation securities benefit compensation hedges and gains hedges and
+differences at FVOCI obligations reserve other (losses) other Total
+January 1, 2021 1,192 5,356 ‑ 57 (727) 1,022 (1,042) 5,858
+Current period change (746) 343 ‑ 22 (176) (990) 275 (1,272)
+Remeasurement gain1 ‑ ‑ 22,603 ‑ ‑ ‑ ‑ 22,603
+Transfer to retained earnings ‑ ‑ (12,218) ‑ ‑ ‑ ‑ (12,218)
+Tax effect ‑ (12) (9,607) ‑ ‑ ‑ ‑ (9,619)
+Less: amounts related to non-controlling
+interests 474 130 (778) ‑ 5 291 ‑ 122
+March 31, 2021 920 5,817 ‑ 79 (898) 323 (767) 5,474
+1. The remeasurement gain is primarily due to changes in discount rates used to determine the present value of the obligations.
+10. Borrowings
+March 31, December 31,
+2021 2020
+Non-current:
+Deferred consideration 218,419 217,231
+Borrowings 91,022 55,954
+Debentures 103,322 104,425
+Sukuk 12,420 12,420
+Lease liabilities 43,979 43,567
+Other1 3,146 3,323
+472,308 436,920
+Current:
+Deferred consideration 18,738 18,636
+Short-term bank financing 24,655 60,085
+Borrowings 13,410 10,197
+Sukuk 231 231
+Lease liabilities 9,494 10,008
+66,528 99,157
+1. Other borrowings comprise loans from non-financial institutions under commercial terms.
+On May 7, 2020, the Company entered into a SAR 37,500 ($10,000) one-year term loan facility with various financial institutions for general
+corporate purposes. The Company exercised its option to extend the facility maturity date by 364 days to May 5, 2022. As of March 31, 2021, the
+facility was fully utilized with the outstanding loan balance of SAR 37,500 ($10,000).
+11. Revenue
+1st quarter 1st quarter
+2021 2020
+Revenue from contracts with customers 269,833 231,126
+Movement between provisional and final prices 1,335 (6,439)
+Other revenue 904 880
+272,072 225,567
+Revenue from contracts with customers is measured at a transaction price agreed under the contract and the payment is due within 10 to 120
+days from the invoice date depending on specific terms of the contract.
+Transaction prices are not adjusted for the time value of money as Saudi Aramco does not have any contracts where the period between the
+t ransfer of product to the customer and p ayment by the customer exceeds one year.
+[TABLE DATA]
+920 |  | 5,817 | ‑ | 79 | (898) | 323 | (767)
+218,419
+91,022
+103,322
+12,420
+43,979
+3,146
+472,308
+18,738
+24,655
+13,410
+231
+9,494
+66,528
+269,833
+1,335
+904
+272,072
+[Page 22]
+Saudi Aramco 21
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+11. Revenue continued
+Disaggregation of revenue from contracts with customers
+Saudi Aramco’s revenue from contracts with customers according to product type and source is as follows:
+1st quarter 2021
+Upstream Downstream Corporate Total
+Crude oil 119,368 11,443 ‑ 130,811
+Refined and chemical products ‑ 125,442 ‑ 125,442
+Natural gas and NGLs 10,067 532 ‑ 10,599
+Metal products ‑ 2,981 ‑ 2,981
+Revenue from contracts with customers 129,435 140,398 ‑ 269,833
+Movement between provisional and final prices 1,308 27 ‑ 1,335
+Other revenue 93 524 287 904
+External revenue 130,836 140,949 287 272,072
+1st quarter 2020
+Upstream Downstream Corporate Total
+Crude oil 128,873 10,388 ‑ 139,261
+Refined and chemical products ‑ 77,925 ‑ 77,925
+Natural gas and NGLs 13,462 478 ‑ 13,940
+Revenue from contracts with customers 142,335 88,791 ‑ 231,126
+Movement between provisional and final prices (6,170) (269) ‑ (6,439)
+Other revenue 140 344 396 880
+External revenue 136,305 88,866 396 225,567
+Revenue from contracts with customers includes local sales at Kingdom regulated prices as follows:
+1st quarter 1st quarter
+2021 2020
+Crude oil 483 479
+Refined and chemical products 13,215 13,634
+Natural gas and NGLs 1,368 3,350
+15,066 17,463
+12. Non-cash investing and financing activities
+Investing and financing activities for the three-month period ended March 31, 2021 include additions to right-of-use assets of SAR 2,852
+(March 31, 2020: SAR 5,592), asset retirement provisions of SAR 68 (March 31, 2020: SAR 79) and equity awards issued to employees of
+SAR 43 (March 31, 2020: nil).
+13. Commitments
+Capital commitments
+Capital expenditures contracted for but not yet incurred were SAR 145,701 and SAR 153,326 at March 31, 2021 and December 31, 2020,
+respectively. In addition, leases contracted for but not yet commenced were SAR 4,590 and SAR 7,990 at March 31, 2021 and December 31,
+2020, respectively.
+[TABLE DATA]
+119,368 | 11,443 | ‑
+‑ | 125,442 | ‑
+10,067 | 532 | ‑
+‑ | 2,981 | ‑
+129,435 | 140,398 | ‑
+|  |
+1,308 | 27 | ‑
+93 | 524 | 287
+130,836 | 140,949 | 287
+130,811
+125,442
+10,599
+2,981
+269,833
+1,335
+904
+272,072
+483
+13,215
+1,368
+15,066
+[Page 23]
+22 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+14. Contingencies
+Saudi Aramco has contingent assets and liabilities with respect to certain disputed matters, including claims by and against contractors and
+lawsuits and arbitrations involving a variety of issues. These contingencies arise in the ordinary course of business. It is not anticipated that any
+material adjustments will result from these contingencies.
+Saudi Aramco also has bank guarantees with respect to the acquisition of a subsidiary (Note 4) amounting to SAR 2,522 as of March 31, 2021
+arising in the ordinary course of business.
+(a) Sadara
+On March 25, 2021, Sadara entered into various agreements to restructure its senior project financing debt amounting to SAR 37,280. Terms of
+the restructuring include principal repayment grace period until June 2026 and an extension of the final maturity date from 2029 to 2038. In
+connection with the restructuring, the Company and The Dow Chemical Company (Dow) have agreed to guarantee up to an aggregate of
+SAR 13,875 of senior debt principal and its associated interest in proportion to their ownership interests in Sadara. Further, the Company and Dow
+have agreed to provide guarantees and support, in proportion to their ownership interest in Sadara, for interest payment shortfalls on all
+outstanding senior debt until June 2026, working capital shortfall support up to SAR 1,875 in 2030 as well as an undertaking to provide acceptable
+credit support to cover the required Debt Service Reserve Account balance which needs to be funded prior to June 2026.
+In addition to the senior debt restructuring, effective March 25, 2021 the Company, Dow (and/or their affiliates) and Sadara have also entered into
+agreements to (1) provide additional feedstock by increasing the quantity of ethane and natural gasoline supplied by Saudi Aramco, and (2)
+gradually increase Saudi Aramco’s rights to market, through SABIC, its equity share of finished products produced by Sadara (subject to certain
+agreed terms) over the next five to ten years. The Company has provided a guarantee for the payment and performance obligations of SABIC
+under the Product Marketing and Lifting Agreement.
+(b) Rabigh Refining and Petrochemical Company (“Petro Rabigh”)
+In March 2015, the two founding shareholders of Petro Rabigh, the Company and Sumitomo Chemical Co. Ltd., concluded external long-term debt
+financing arrangements with lenders on behalf of Petro Rabigh for the Rabigh II Project (“the Project”) in the amount of SAR 19,380 for which the
+two shareholders provided guarantees for their equal share of the debt financing (the “Completion Guarantees”). On September 30, 2020, Petro
+Rabigh achieved project completion under its senior finance agreements and, as a result, the founding shareholders were released from their
+obligations under the Completion Guarantees. As part of project completion, the founding shareholders entered into a debt service undertaking
+with the Rabigh II lenders, whereby each founding shareholder, on a several basis, undertakes to pay fifty percent of any shortfalls in Rabigh II
+debt service on each Rabigh II payment date until the final repayment date in June 2032, on a scheduled and not accelerated basis. The semi-
+annual scheduled principal debt service under the Rabigh II financing is approximately SAR 712.
+The founding shareholders also arranged equity bridge loans (the EBLs”) in an aggregate amount of SAR 11,250 which the founding shareholders
+guarantee on a several and equal basis, to meet the equity financing requirements under the senior finance agreements. The final maturity date of
+the EBLs is October 1, 2022. Petro Rabigh has drawn down SAR 11,250 under the EBLs as of March 31, 2021.
+On September 30, 2020, Petro Rabigh entered into revolving loan facilities in an aggregate amount of SAR 5,625 with Saudi Aramco and Sumika
+Finance Company Limited, a wholly owned subsidiary of Sumitomo Chemical. Unless extended, these facilities will mature in December 2023. As
+of March 31, 2021, the SAR 5,625 facilities were fully utilized. Petro Rabigh also entered into another revolving loan facility for SAR 1,875 with
+Saudi Aramco, unless extended, matures in December 2023. As of March 31, 2021, SAR 1,125 was utilized under this facility.
+15. Payments to the Government by the Company
+1st quarter 1st quarter
+2021 2020
+Income taxes (Note 8(c)) 22,387 45,418
+Royalties 24,480 33,372
+Dividends 69,084 49,973
+[TABLE DATA]
+22,387
+24,480
+69,084
+[Page 24]
+Saudi Aramco 23
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+16. Related party transactions and balances
+(a) Transactions
+1st quarter 1st quarter
+2021 2020
+Joint ventures:
+Revenue from sales 5,993 1,845
+Other revenue 19 19
+Interest income 19 15
+Purchases 4,579 23
+Service expenses 4 4
+Associates:
+Revenue from sales 13,215 4,028
+Other revenue 225 71
+Interest income 23 45
+Purchases 12,589 3,893
+Service expenses 30 30
+Government, semi-Government and other entities with Government ownership or control:
+Revenue from sales 3,000 9,743
+Other income related to sales 28,085 24,778
+Other revenue 233 158
+Purchases 2,490 2,355
+Service expenses 308 98
+(b) Balances
+March 31, December 31,
+2021 2020
+Joint ventures:
+Other assets and receivables 6,371 6,368
+Trade receivables 3,626 3,210
+Interest receivable 146 128
+Trade and other payables 2,400 3,986
+Associates:
+Other assets and receivables 7,350 7,395
+Trade receivables 10,125 8,415
+Trade and other payables 5,276 3,784
+Government, semi-Government and other entities with Government ownership or control:
+Other assets and receivables 533 540
+Trade receivables 1,808 1,429
+Due from the Government 30,910 28,895
+Trade and other payables 1,943 1,770
+Borrowings 244,477 243,378
+(c) Compensation of key management personnel
+Compensation policies for and composition of key management personnel remain consistent with 2020.
+[TABLE DATA]
+5,993
+19
+19
+4,579
+4
+13,215
+225
+23
+12,589
+30
+3,000
+28,085
+233
+2,490
+308
+6,371
+3,626
+146
+2,400
+7,350
+10,125
+5,276
+533
+1,808
+30,910
+1,943
+244,477
+[Page 25]
+24 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions of Saudi Riyals unless otherwise stated
+17. Investment in affiliates
+(a) SABIC Agri-Nutrients Investment Company (“SANIC”)
+On January 4, 2021, SABIC Agri-Nutrients Company (“SABIC AGRI-NUTRIENTS”), formerly Saudi Arabian Fertilizer Company (“SAFCO”),
+acquired 100% of the issued share capital of SANIC from SABIC. The total value of shares in SANIC is set at SAR 4,592, the consideration for
+which was paid by issuing 59,368,738 ordinary new shares in SAFCO to SABIC valued at SAR 77.35 per share, thereby increasing the ownership
+by SABIC of SAFCO from 43% to 50.1%. Under the terms of the transaction, the final consideration will be adjusted depending upon the levels of
+working capital and cash at SANIC. A net loss of SAR 679 arising from this transaction has been recognized in retained earnings, which
+represents Saudi Aramco’s share of the loss recorded by SABIC.
+(b) Middle East Information Technology Solutions (“MEITS”)
+On February 7, 2021, SADCO and Raytheon Saudi Arabia (Raytheon) established an affiliate to engage in the marketing and provision of
+cybersecurity integrated software and hardware along with related training and managed professional services. The affiliate, MEITS, is a limited
+liability company formed and existing under the laws of the Kingdom of Saudi Arabia, and is owned 51% by Raytheon and 49% by SADCO. The
+total investment in MEITS will be up to SAR 229, of which SADCO’s share will be up to SAR 113 and will be recorded as an investment in joint
+venture.
+(c) Port Neches Link LLC (“PNL”)
+On March 8, 2021, Motiva Enterprises LLC (“Motiva”), a wholly owned subsidiary of the Company and TransCanada Keystone Pipeline, LP
+(“Keystone”) established an affiliate to construct and operate a pipeline in the state of Texas, USA. The affiliate, PNL is a limited liability company
+owned 5% by Motiva and 95% by Keystone. The total investment in PNL is currently estimated as SAR 458, of which Motiva’s share will be up to
+SAR 23 and will be recorded as an investment in joint venture.
+18. Dividends
+Dividends declared and paid on ordinary shares are as follows:
+SAR per share
+1st quarter 1st quarter 1st quarter 1st quarter
+2021 2020 2021 2020
+Quarter:
+March 70,325 50,226 0.35 0.25
+Total dividends paid1 70,325 50,226 0.35 0.25
+Declared in December 2019, paid in January 2020 ‑ (35,475) ‑ (0.18)
+Total dividends declared 70,325 14,751 0.35 0.07
+Dividends declared on May 3, 2021 and May 11, 20202 70,331 70,319 0.35 0.35
+1. Dividends of SAR 70,325 paid in 2021 relate to 2020 results. Dividends of SAR 50,226 paid in 2020 relate to 2019 results.
+2. The condensed consolidated interim financial report does not reflect a dividend to shareholders of approximately SAR 70,331, which was approved in May 2021 (May 2020: SAR 70,319). This
+dividend will be deducted from unappropriated retained earnings in the year ending December 31, 2021 and relates to results for the three-month period ended March 31, 2021.
+19. Events after the reporting period
+On April 9, 2021, the Company signed a share sale and purchase agreement with EIG Pearl Holdings S.a.r.l (an entity controlled by EIG Global
+Energy Partners) to sell a 49% equity interest in Aramco Oil Pipelines Company (“AOPC”), a recently formed wholly-owned subsidiary of the
+Company. Upon closing of the transaction, the Company will receive upfront sale proceeds of SAR 46,547 ($12,412) in cash.
+Immediately prior to completion of the transaction, the Company will lease for a 25-year period the usage rights to its stabilized crude oil pipelines
+network to AOPC. Concurrently, AOPC will grant the Company the exclusive right to use, operate and maintain the pipeline network during the 25-
+year period in exchange for a quarterly, volume-based tariff payable by the Company. The tariff will be backed by minimum volume commitments.
+The Company will at all times retain title to, and operational control of, the pipelines.
+The transaction is expected to close as soon as practicable, subject to customary closing conditions, including any required merger control and
+related regulatory approvals.
+[TABLE DATA]
+| 50,226 |
+70,325 |  | 0.35
+70,325 | 50,226
+(35,475) | 0.35
+‑ |  | ‑
+70,325 | 14,751 | 0.35
+| 70,319 |
+70,331 |  | 0.35
+[Page 27]
+26 Saudi Aramco
+First quarter interim report 2021
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and
+definitions
+This Interim Report includes certain non-IFRS financial measures — ROACE, free cash flow, gearing and EBIT — which Aramco uses to make
+informed decisions about its financial position and operating performance or liquidity. These non-IFRS financial measures have been included in
+this Interim Report to facilitate a better understanding of Aramco’s historical trends of operation and financial position.
+Aramco uses non-IFRS financial measures as supplementary information to its IFRS based operating performance and financial position. The
+non-IFRS financial measures are not defined by, or presented in accordance with, IFRS. The non-IFRS financial measures are not measurements
+of Aramco’s operating performance or liquidity under IFRS and should not be used instead of, or considered as alternatives to, any measures of
+performance or liquidity under IFRS. The non-IFRS financial measures relate to the reporting periods described in this Interim Report and are not
+intended to be predictive of future results. In addition, other companies, including those in Aramco’s industry, may calculate similarly titled non-
+IFRS financial measures differently from Aramco. Because companies do not necessarily calculate these non-IFRS financial measures in the
+same manner, Aramco’s presentation of such non-IFRS financial measures may not be comparable to other similarly titled non-IFRS financial
+measures used by other companies.
+ROACE
+ROACE measures the efficiency of Aramco’s utilization of capital. Aramco defines ROACE as net income before finance costs, net of income
+taxes and zakat, for a period, as a percentage of average capital employed during that period. Average capital employed is the average of total
+borrowings plus total equity at the beginning and end of the applicable period. Aramco utilizes ROACE to evaluate management’s performance
+and demonstrate to its shareholders that capital has been used effectively.
+ROACE for the first quarter ended March 31, 2021, calculated on a 12-month rolling basis, was 14.2%, compared to 26.3% for the same period in
+2020. This decrease was mainly due to lower net income over the 12-month period ended March 31, 2021, and to a lesser extent, higher
+borrowings as at the end of the first quarter of 2021 following the SABIC acquisition in June 2020.
+Twelve months ended March 31
+SAR USD*
+All amounts in millions unless otherwise stated 2021 2020 2021 2020
+Net income 202,725 309,885 54,059 82,636
+Finance costs, net of income taxes and zakat 5,802 3,174 1,548 847
+Net income before finance costs, net of income taxes and zakat 208,527 313,059 55,607 83,483
+As at period start:
+Non-current borrowings 154,466 90,146 41,191 24,039
+Current borrowings 30,783 36,213 8,209 9,657
+Total equity 1,079,539 985,630 287,877 262,834
+Capital employed 1,264,788 1,111,989 337,277 296,530
+As at period end:
+Non-current borrowings 472,308 154,466 125,949 41,191
+Current borrowings 66,528 30,783 17,740 8,209
+Total equity 1,123,509 1,079,539 299,603 287,877
+Capital employed 1,662,345 1,264,788 443,292 337,277
+Average capital employed 1,463,567 1,188,389 390,285 316,904
+ROACE 14.2% 26.3% 14.2% 26.3%
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+202,725
+5,802
+208,527
+154,466
+30,783
+1,079,539
+1,264,788
+472,308
+66,528
+1,123,509
+1,662,345
+1,463,567
+14.2%
+54,059
+1,548
+55,607
+41,191
+8,209
+287,877
+337,277
+125,949
+17,740
+299,603
+443,292
+390,285
+14.2%
+[Page 28]
+Saudi Aramco 27
+First quarter interim report 2021
+All amounts in millions unless otherwise stated
+Free cash flow
+Aramco uses free cash flow to evaluate its cash available for financing activities, including dividend payments. Aramco defines free cash flow as
+net cash provided by operating activities less capital expenditures.
+Free cash flow for the first quarter of 2021 was SAR 68,549 ($18,279), compared to SAR 56,327 ($15,021) for the same quarter in 2020, an
+increase of SAR 12,222 ($3,258). This increase was primarily due to higher operating cash flow, mainly driven by improved earnings and lower
+cash paid for the settlement of income, zakat and other taxes, partially offset by unfavorable movements in working capital. Capital expenditures
+increased by SAR 3,010 ($803) in the first quarter of 2021, compared to the same period in 2020, principally due to higher capital expenditures
+relating to Upstream increment projects, partially offset by lower Downstream capital spending.
+First quarter ended March 31
+SAR USD*
+All amounts in millions unless otherwise stated 2021 2020 2021 2020
+Net cash provided by operating activities 99,299 84,067 26,479 22,418
+Capital expenditures (30,750) (27,740) (8,200) (7,397)
+Free cash flow 68,549 56,327 18,279 15,021
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Gearing
+Gearing is a measure of the degree to which Aramco’s operations are financed by debt. Aramco defines gearing as the ratio of net debt (total
+borrowings less cash and cash equivalents) to net debt plus total equity. Management believes that gearing is widely used by analysts and
+investors in the oil and gas industry to indicate a company’s financial health and flexibility.
+Aramco's gearing ratio as at March 31, 2021 remained unchanged at 23.0% when compared to December 31, 2020.
+SAR USD*
+March 31, December 31, March 31, December 31,
+All amounts in millions unless otherwise stated 2021 2020 2021 2020
+Total borrowings (current and non-current) 538,836 536,077 143,689 142,954
+Cash & cash equivalents (203,010) (207,232) (54,136) (55,262)
+Net debt 335,826 328,845 89,553 87,692
+Total equity 1,123,509 1,101,094 299,603 293,625
+Total equity and net debt 1,459,335 1,429,939 389,156 381,317
+Gearing 23.0% 23.0% 23.0% 23.0%
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Earnings before interest, income taxes and zakat (EBIT)
+Aramco defines EBIT as net income plus finance costs and income taxes and zakat, less finance income. Aramco believes EBIT provides useful
+information regarding its financial performance to analysts and investors.
+EBIT for the first quarter ended March 31, 2021 was SAR 153,680 ($40,982), compared to SAR 128,258 ($34,202) during the same quarter in
+2020. This increase of SAR 25,422 ($6,780) primarily reflects the impact of higher crude oil prices, improved downstream margins and the
+consolidation of SABIC’s results, partly offset by lower crude oil volumes sold.
+First quarter ended March 31
+SAR USD*
+All amounts in millions unless otherwise stated 2021 2020 2021 2020
+Net income 81,440 62,478 21,717 16,661
+Finance income (323) (1,060) (86) (283)
+Finance costs 2,623 1,583 700 422
+Income taxes and zakat 69,940 65,257 18,651 17,402
+Earnings before interest, income taxes and zakat 153,680 128,258 40,982 34,202
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+99,299
+(30,750)
+68,549
+26,479
+(8,200)
+18,279
+538,836
+(203,010)
+335,826
+1,123,509
+1,459,335
+23.0%
+143,689
+(54,136)
+89,553
+299,603
+389,156
+23.0%
+81,440
+(323)
+2,623
+69,940
+153,680
+21,717
+(86)
+700
+18,651
+40,982
+[Page 29]
+28 Saudi Aramco
+First quarter interim report 2021
+Terms and abbreviations
+Currencies mmtpa NGL
+Million metric tonnes per annum Natural gas liquids, which are liquid or
+SAR/Saudi Riyal liquefied hydrocarbons produced in the
+Saudi Arabian riyal, the lawful currency of the per day manufacture, purification and stabilization of
+Kingdom Volumes are converted into a daily basis natural gas. For purposes of reserves, ethane
+using a calendar year (Gregorian) is included in NGL. For purposes of
+$/USD/US$/Dollar production, ethane is reported separately and
+U.S. dollar scf excluded from NGL.
+Standard cubic feet
+Units of measurement Reliability
+Technical terms Total products volume shipped/delivered
+Barrel (bbl)
+within 24 hours of the scheduled time, divided
+Barrels of crude oil, condensate or refined Condensate by the total products volume committed. Any
+products Light hydrocarbon substances produced delays caused by factors that are under the
+with raw gas which condenses into liquid Company’s control (e.g. terminal, pipeline,
+boe at normal temperatures and pressures stabilization, or production) negatively affect
+Barrels of oil equivalent associated with surface production the score, whereas delays caused by
+equipment. conditions that are beyond the Company’s
+bpd
+control, such as adverse weather, are not
+Barrels per day Gross refining capacity considered. A score of less than 100 percent
+The total combined refining capacity of indicates there were issues that negatively
+bscf Aramco and the joint ventures and other impacted reliability.
+Billion standard cubic feet entities in which Aramco owns an equity
+interest.
+bscfd
+Billion standard cubic feet per day Hydrocarbons
+Crude oil and other hydrogen and carbon
+mboed compounds in liquid or gaseous state.
+Thousand barrels of oil equivalent per day
+Liquids
+mbpd Crude oil, condensate and NGL.
+Thousand barrels per day
+MSC
+mmbbl Maximum Sustainable Capacity – the average
+Million barrels maximum number of barrels per day of crude
+oil that can be produced for one year during
+mmboe any future planning period, after taking into
+Million barrels of oil equivalent account all planned capital expenditures and
+maintenance, repair and operating costs, and
+mmboed after being given three months to make
+Million barrels of oil equivalent per day operational adjustments.
+mmbpd The MSC excludes AGOC’s crude oil
+Million barrels per day production capacity.
+mmscf Natural gas
+Million standard cubic feet Dry gas produced at Aramco’s gas plants and
+sold within the Kingdom.
+mmscfd
+Million standard cubic feet per day
+[Page 30]
+Saudi Aramco 29
+First quarter interim report 2021
+Glossary
+Bylaws Income Tax Law/Tax Law Shareholder
+The Bylaws of the Company, approved by Income Tax Law issued under Royal Decree Any holder of shares.
+Council of Ministers Resolution No. 180 dated No. M/1 dated 15/1/1425H (corresponding to
+1/4/1439H (corresponding to December 19, March 6, 2004) and its Implementing SOCPA
+2017), which came into effect on January 1, Regulations issued under Ministerial Saudi Organization for Chartered and
+2018. Resolution No. 1535 dated 11/6/1425H Professional Accountants.
+(corresponding to August 11, 2004), as
+Company amended from time to time. Tadawul/Exchange
+Saudi Arabian Oil Company. The Saudi Stock Exchange, the sole entity
+Kingdom authorized in the Kingdom to act as a
+Council of Ministers Kingdom of Saudi Arabia. securities exchange.
+The cabinet of the Kingdom, which is led by
+the Custodian of the Two Holy Mosques, the PIF U.S. / United States / USA
+King, and includes HRH the Crown Prince Public Investment Fund of Saudi Arabia. United States of America.
+and other cabinet ministers.
+ROACE
+COVID-19 Return on average capital employed.
+The coronavirus disease 2019.
+SABIC
+Domestic Saudi Basic Industries Corporation.
+Refers to the Kingdom of Saudi Arabia.
+Saudi Aramco / Aramco
+EBIT Saudi Arabian Oil Company, together with its
+Earnings (losses) before interest, income consolidated subsidiaries, and where the
+taxes and zakat. context requires, its joint operations, joint
+ventures and associates.
+Government
+The Government of the Kingdom (and Any reference to “us”, “we” or “our” refers to
+“Governmental” shall be interpreted Saudi Aramco / Aramco except where
+accordingly). otherwise stated.
+H Unless otherwise stated, the text does
+Hijri calendar. not distinguish between the activities and
+operations of the Company and those of
+IAS its subsidiaries.
+International Accounting Standard.
+Shareek program
+IASB A cooperative government program that is
+International Accounting Standards Board. designed to provide support via various pillars
+including financial, monetary, operational and
+IFRS regulatory cooperation and asset investment,
+International Financial Reporting Standards. aiming to enhance the development and
+resilience of the Saudi economy by increasing
+the gross domestic product, providing job
+opportunities, diversifying the economy and
+strengthening cooperation between public
+and private sectors.
+[Page 31]
+30 Saudi Aramco
+First quarter interim report 2021
+Disclaimer
+This Interim Report contains, and  Aramco’s ability to deliver on current and  political and social instability and unrest
+management may make, certain forward- future projects; and actual or potential armed conflicts in
+looking statements. All statements other than the regions in which Aramco operates
+ comparability amongst periods;
+statements of historical fact included in the and other areas;
+Interim Report are forward-looking
+statements. Forward-looking statements give  Aramco’s ability to realize benefits from  risks arising should the Government
+Aramco’s current expectations and recent and future acquisitions, including eliminate or change the pegging of SAR
+projections relating to our capital expenditures with respect to SABIC; to the U.S. dollar; and
+and investments, major projects, and  risks related to operating in several  other risks and uncertainties that could
+Upstream and Downstream performance, countries; cause actual results to differ from the
+including relative to peers. These statements forward-looking statements, as set forth
+may include, without limitation, any  Aramco’s dependence on its senior in Aramco’s Annual Report 2020 and
+statements preceded by, followed by or management and key personnel; other reports or statements available on
+including words such as “target,” “believe,” our website at
+ the reliability and security of Aramco’s IT
+“expect,” “aim,” “intend,” “may,” “anticipate,” www.aramco.com/en/investors/
+systems;
+“estimate,” “plan,” “project,” “can have,” investors/reports-and-presentations
+“likely,” “should,” “could” and other words and  litigation to which Aramco is or may be and/or filed with the Tadawul.
+terms of similar meaning or the negative subject;
+thereof. Such forward-looking statements
+Such forward-looking statements are based
+involve known and unknown risks,  risks related to oil, gas, environmental,
+on numerous assumptions regarding
+uncertainties and other important factors health and safety and other regulations
+Aramco’s present and future business
+beyond Aramco’s control that could cause that impact the industries in which
+strategies and the environment in which it will
+Aramco’s actual results, performance or Aramco operates;
+operate in the future. The information
+achievements to be materially different from
+ risks related to international operations, included in this Interim Report, including but
+the expected results, performance, or
+including sanctions and trade not limited to forward-looking statements,
+achievements expressed or implied by such
+restrictions, anti-bribery and anti- applies only as of the date of this document
+forward-looking statements, including the
+corruption laws and other laws and and is not intended to give any assurances as
+following factors:
+regulations; to future results. Aramco expressly disclaims
+ international crude oil supply and any obligation or undertaking to disseminate
+ risks stemming from requirements to
+demand, and the price at which it sells any updates or revisions to such information,
+obtain, maintain, and renew
+crude oil; including any financial data or forward-looking
+governmental licenses, permits, and
+statements, whether as a result of new
+ the impact of COVID-19 on business approvals; information, future events or otherwise,
+and economic conditions and on supply  risks stemming from existing and unless required by applicable law or
+and demand for crude oil, gas and potential laws, regulations, and other regulation.
+refined and petrochemical products;
+requirements or expectations relating to
+Disclaimer – Risk Factors
+ competitive pressures; environmental protection, health and
+safety laws and regulations, and sale For a discussion of our risk factors, please
+ climate change concerns and impacts; and use of chemicals and plastics; see Aramco’s Annual Report 2020, available
+through the investor relations section of
+ terrorism and armed conflict;  potential changes in equalization
+Aramco’s website at
+compensation received in connection
+ adverse economic or political www.aramco.com/en/investors/investors/repo
+with domestic sales of hydrocarbons;
+developments in Asia; rts-and-presentations.
+ potential impact on tax rates if Aramco
+ operational risks and hazards in the oil Aramco’s financial information herein has
+does not separate its downstream
+and gas, refining and petrochemical been extracted from Aramco’s condensed
+business in a timeframe set by the
+industries; consolidated interim financial report for the
+Government of Saudi Arabia;
+three month period ended March 31, 2021,
+ any significant deviation or changes in
+ risks related to Government-directed which is prepared and presented in
+existing economic and operating
+projects and other Government accordance with IAS 34, that is endorsed in
+conditions that could affect the estimated
+requirements, including those related to the Kingdom of Saudi Arabia and other
+quantity and value of Aramco’s proved
+Government-set maximum level of crude standards and pronouncements issued by the
+reserves;
+oil production and target MSC, as well Saudi Organization for Chartered and
+ losses from risks related to insufficient as the importance of the hydrocarbon Professional Accountants (“SOCPA”).
+insurance; industry;
+[Page 32]
+Saudi Aramco 31
+First quarter interim report 2021
+In addition, this document includes certain About Aramco
+“non-IFRS financial measures.” These
+measures are not recognized measures Aramco, headquartered in the city of
+under IFRS and do not have standardized Dhahran, is one of the world’s largest
+meanings prescribed by IFRS. Rather, these integrated energy and chemicals companies;
+measures are provided as additional its Upstream operations are primarily based in
+information to complement IFRS measures by the Kingdom of Saudi Arabia while the
+providing further understanding of Aramco’s Downstream business is global.
+results of operations, cash flow and financial
+position from management’s perspective.
+www.aramco.com/investors
+Accordingly, they should not be considered in
+isolation or as a substitute for analysis of
+International media:
+Aramco’s financial information reported under
+international.media@aramco.com
+IFRS.
+A reconciliation of non-IFRS measures is Domestic media:
+included in Non-IFRS measures domestic.media@aramco.com
+reconciliations and definitions section of this
+Interim Report. Investor relations:
+investor.relations@aramco.com

@@ -1,0 +1,349 @@
+SOURCE: Saudi Aramco — saudi-aramco-9m-2019-summary-financials
+TYPE: Other
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2019/q3/saudi-aramco-9m-2019-summary-financials.pdf
+============================================================
+
+[Page 2]
+2 Saudi Arabian Oil Company | nine months 2019 All amounts in millions unless otherwise stated
+condensed consolidated statement of income
+SAR USD*
+Nine Nine Nine Nine
+months months months months
+2019 2018 2019 2018
+Revenue 814,108 874,708 217,096 233,256
+Other income related to sales 102,444 117,452 27,318 31,320
+Revenue and other income related to sales 916,552 992,160 244,414 264,576
+Royalties and other taxes (137,983) (153,747) (36,796) (40,999)
+Purchases (155,150) (143,023) (41,373) (38,140)
+Producing and manufacturing (42,173) (37,561) (11,246) (10,016)
+Selling, administrative and general (24,061) (23,385) (6,416) (6,236)
+Exploration (5,389) (5,682) (1,437) (1,515)
+Research and development (1,449) (1,566) (386) (418)
+Depreciation and amortization (37,274) (30,281) (9,940) (8,075)
+Operating costs (403,479) (395,245) (107,594) (105,399)
+Operating income 513,073 596,915 136,820 159,177
+Share of results of joint ventures and associates (2,443) (249) (651) (66)
+Finance and other income 5,873 1,879 1,566 501
+Finance costs (4,402) (2,145) (1,174) (572)
+Income before income taxes 512,101 596,400 136,561 159,040
+Income taxes (256,391) (283,943) (68,371) (75,718)
+Net income 255,710 312,457 68,190 83,322
+Net income attributable to
+Shareholder’s equity 255,805 311,736 68,215 83,130
+Non-controlling interests (95) 721 (25) 192
+255,710 312,457 68,190 83,322
+The above figures have been extracted from the condensed consolidated interim financial statements of Saudi Aramco (the “condensed consolidated interim financial
+report”) on which PricewaterhouseCoopers - Certified Public Accountants issued an unmodified review conclusion. Certain comparative amounts have been
+reclassified to conform to the current period presentation.
+*Supplementary information is converted at a fixed rate of U.S. Dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+Nine
+months
+2019 | Nine
+months
+2018 | Nine
+months
+2019
+814,108 | 874,708
+117,452 | 217,096
+102,444 |  | 27,318
+916,552 | 992,160 | 244,414
+(137,983) | (153,747)
+(143,023)
+(37,561)
+(23,385)
+(5,682)
+(1,566)
+(30,281) | (36,796)
+(155,150) |  | (41,373)
+(42,173) |  | (11,246)
+(24,061) |  | (6,416)
+(5,389) |  | (1,437)
+(1,449) |  | (386)
+(37,274) |  | (9,940)
+(403,479) | (395,245) | (107,594)
+513,073 | 596,915
+(249)
+1,879
+(2,145) | 136,820
+(2,443) |  | (651)
+5,873 |  | 1,566
+(4,402) |  | (1,174)
+512,101 | 596,400
+(283,943) | 136,561
+(256,391) |  | (68,371)
+255,710 | 312,457 | 68,190
+| 311,736
+721 |
+255,805 |  | 68,215
+(95) |  | (25)
+255,710 | 312,457 | 68,190
+[Page 3]
+Saudi Arabian Oil Company | nine months 2019 All amounts in millions unless otherwise stated 3
+condensed consolidated balance sheet
+SAR USD*
+September 30, December 31, September 30, December 31,
+2019 2018 2019 2018
+Assets
+Non-current assets
+Property, plant and equipment 948,486 873,827 252,929 233,021
+Intangible assets 28,369 26,896 7,565 7,172
+Investments in joint ventures and associates 22,301 22,579 5,947 6,021
+Deferred income tax assets 11,192 9,866 2,985 2,631
+Other assets and receivables 19,048 13,127 5,079 3,501
+Investments in securities 19,762 17,214 5,270 4,590
+1,049,158 963,509 279,775 256,936
+Current assets
+Inventories 42,296 43,580 11,279 11,621
+Trade receivables 88,993 93,818 23,731 25,018
+Due from the Government 48,548 48,864 12,946 13,030
+Other assets and receivables 10,399 13,775 2,773 3,673
+Short-term investments 46,176 194 12,314 52
+Cash and cash equivalents 171,842 183,152 45,824 48,841
+408,254 383,383 108,867 102,235
+Total assets 1,457,412 1,346,892 388,642 359,171
+Equity and liabilities
+Shareholder’s equity
+Share capital 60,000 60,000 16,000 16,000
+Additional paid-in capital 26,981 26,981 7,195 7,195
+Retained earnings:
+Unappropriated 944,734 920,625 251,929 245,500
+Appropriated 6,000 6,000 1,600 1,600
+Other reserves 874 3,176 233 847
+1,038,589 1,016,782 276,957 271,142
+Non-controlling interests 10,857 11,653 2,895 3,107
+1,049,446 1,028,435 279,852 274,249
+Non-current liabilities
+Borrowings 133,288 71,329 35,543 19,021
+Deferred income tax liabilities 33,210 23,877 8,856 6,367
+Post-employment benefit obligations 38,370 23,209 10,232 6,189
+Provisions 16,371 15,606 4,366 4,162
+221,239 134,021 58,997 35,739
+Current liabilities
+Trade and other payables 72,355 72,286 19,294 19,276
+Obligations to the Government:
+Income taxes 61,939 70,299 16,517 18,746
+Royalties 12,427 11,862 3,314 3,164
+Borrowings 40,006 29,989 10,668 7,997
+186,727 184,436 49,793 49,183
+407,966 318,457 108,790 84,922
+Total equity and liabilities 1,457,412 1,346,892 388,642 359,171
+The above figures have been extracted from the condensed consolidated interim financial statements of Saudi Aramco (the “condensed consolidated interim financial
+report”) on which PricewaterhouseCoopers - Certified Public Accountants issued an unmodified review conclusion. Certain comparative amounts have been
+reclassified to conform to the current period presentation.
+*Supplementary information is converted at a fixed rate of U.S. Dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+September 30, | December 31,
+2018 | September 30,
+2019 |  | 2019
+| 873,827
+26,896
+22,579
+9,866
+13,127
+17,214 |
+|  |
+948,486 |  | 252,929
+28,369 |  | 7,565
+22,301 |  | 5,947
+11,192 |  | 2,985
+19,048 |  | 5,079
+19,762 |  | 5,270
+1,049,158 | 963,509 | 279,775
+| 43,580
+93,818
+48,864
+13,775
+194
+183,152 |
+42,296 |  | 11,279
+88,993 |  | 23,731
+48,548 |  | 12,946
+10,399 |  | 2,773
+46,176 |  | 12,314
+171,842 |  | 45,824
+408,254 | 383,383 | 108,867
+1,457,412 | 1,346,892 | 388,642
+| 60,000
+26,981
+920,625
+6,000
+3,176 |
+|  |
+|  |
+60,000 |  | 16,000
+26,981 |  | 7,195
+|  |
+944,734 |  | 251,929
+6,000 |  | 1,600
+874 |  | 233
+1,038,589 | 1,016,782
+11,653 | 276,957
+10,857 |  | 2,895
+1,049,446 | 1,028,435 | 279,852
+| 71,329
+23,877
+23,209
+15,606 |
+133,288 |  | 35,543
+33,210 |  | 8,856
+38,370 |  | 10,232
+16,371 |  | 4,366
+221,239 | 134,021 | 58,997
+| 72,286
+70,299
+11,862
+29,989 |
+72,355 |  | 19,294
+|  |
+61,939 |  | 16,517
+12,427 |  | 3,314
+40,006 |  | 10,668
+186,727 | 184,436 | 49,793
+407,966 | 318,457 | 108,790
+1,457,412 | 1,346,892 | 388,642
+[Page 4]
+4 Saudi Arabian Oil Company | nine months 2019 All amounts in millions unless otherwise stated
+condensed consolidated statement of cash flows
+SAR USD*
+Nine Nine Nine Nine
+months months months months
+2019 2018 2019 2018
+Income before income taxes 512,101 596,400 136,561 159,040
+Adjustments to reconcile income before income taxes
+to net cash provided by operating activities
+Depreciation and amortization 37,274 30,281 9,940 8,075
+Exploration and evaluation costs written off 2,374 1,865 633 497
+Gain on remeasurement of existing interest in Saudi (1,278) (341)
+- -
+Aramco Shell Refinery Company (“SASREF”)
+Share of results of joint ventures and associates 2,443 249 651 66
+Finance income (4,125) (1,730) (1,100) (461)
+Finance costs 4,402 2,145 1,174 572
+Dividends from investments in securities (439) (143) (117) (38)
+Change in fair value of investments through profit or loss (339) (882) (90) (235)
+Change in joint ventures and associates inventory profit 84 22 92
+344
+elimination
+Other (124) (859) (33) (228)
+Change in working capital
+Inventories 1,901 (11,320) 507 (3,019)
+Trade receivables 5,034 (41,428) 1,343 (11,048)
+Due from the Government 316 (12,117) 84 (3,231)
+Other assets and receivables 4,639 (5,680) 1,237 (1,514)
+Trade and other payables (3,221) 12,714 (859) 3,390
+Royalties payable 565 (5) 150 (2)
+Other changes
+Other assets and receivables (7,627) (1,336) (2,034) (356)
+Provisions 487 461 130 123
+Post-employment benefit obligations 1,254 (2,305) 334 (615)
+Settlement of income and other taxes (251,390) (251,342) (67,037) (67,024)
+Net cash provided by operating activities 304,331 315,312 81,155 84,084
+Capital expenditures (84,615) (93,696) (22,564) (24,986)
+Acquisition of affiliates, net of cash acquired (1,517) (2,662) (405) (710)
+Distributions from joint ventures and associates 700 1,080 187 288
+Additional investment in joint ventures and associates (346) (390) (92) (104)
+Dividends from investments in securities 439 143 117 38
+Interest received 3,489 1,629 930 434
+Net investments in securities (583) (568) (155) (151)
+Net (purchases) maturities of short-term investments (45,982) 6,041 (12,262) 1,611
+Net cash used in investing activities (128,415) (88,423) (34,244) (23,580)
+Dividends (224,175) (168,750) (59,780) (45,000)
+Dividends paid to non-controlling interests (36) (902) (10) (240)
+Interest paid (3,329) (1,683) (888) (449)
+Proceeds from borrowings 49,174 11,269 13,113 3,004
+Repayments of borrowings (8,860) (8,764) (2,363) (2,337)
+Net cash used in financing activities (187,226) (168,830) (49,928) (45,022)
+Net (decrease) increase in cash and cash equivalents (11,310) 58,059 (3,017) 15,482
+Cash and cash equivalents at beginning of the period 183,152 81,242 48,841 21,665
+Cash and cash equivalents at end of the period 171,842 139,301 45,824 37,147
+The above figures have been extracted from the condensed consolidated interim financial statements of Saudi Aramco (the “condensed consolidated interim financial
+report”) on which PricewaterhouseCoopers - Certified Public Accountants issued an unmodified review conclusion. Certain comparative amounts have been
+reclassified to conform to the current period presentation.
+*Supplementary information is converted at a fixed rate of U.S. Dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+Nine
+months
+2019 | Nine
+months
+2018 | Nine
+months
+2019
+512,101 | 596,400
+30,281
+1,865
+-
+249
+(1,730)
+2,145
+(143)
+(882)
+344
+(859)
+(11,320)
+(41,428)
+(12,117)
+(5,680)
+12,714
+(5)
+(1,336)
+461
+(2,305)
+(251,342) | 136,561
+|  |
+37,274 |  | 9,940
+2,374 |  | 633
+(1,278) |  | (341)
+2,443 |  | 651
+(4,125) |  | (1,100)
+4,402 |  | 1,174
+(439) |  | (117)
+(339) |  | (90)
+84 |  | 22
+(124) |  | (33)
+|  |
+1,901 |  | 507
+5,034 |  | 1,343
+316 |  | 84
+4,639 |  | 1,237
+(3,221) |  | (859)
+565 |  | 150
+|  |
+(7,627) |  | (2,034)
+487 |  | 130
+1,254 |  | 334
+(251,390) |  | (67,037)
+304,331 | 315,312 | 81,155
+| (93,696)
+(2,662)
+1,080
+(390)
+143
+1,629
+(568)
+6,041 |
+(84,615) |  | (22,564)
+(1,517) |  | (405)
+700 |  | 187
+(346) |  | (92)
+439 |  | 117
+3,489 |  | 930
+(583) |  | (155)
+(45,982) |  | (12,262)
+(128,415) | (88,423) | (34,244)
+| (168,750)
+(902)
+(1,683)
+11,269
+(8,764) |
+(224,175) |  | (59,780)
+(36) |  | (10)
+(3,329) |  | (888)
+49,174 |  | 13,113
+(8,860) |  | (2,363)
+(187,226) | (168,830) | (49,928)
+| 58,059
+81,242 |
+(11,310) |  | (3,017)
+183,152 |  | 48,841
+171,842 | 139,301 | 45,824

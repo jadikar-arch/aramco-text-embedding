@@ -1,0 +1,115 @@
+SOURCE: Saudi Aramco — Non IFRS 2019 Q2 H1
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2019/q2---h1/non-ifrs-aug-12-2019-english.pdf
+============================================================
+
+[Page 1]
+Saudi Arabian Oil Company | Half year 2019
+non-IFRS measures reconciliations and definitions
+We supplement our use of IFRS financial measures with non-IFRS financial measures, including return on average capital employed (ROACE), free
+cash flow, earnings before interest and taxes (EBIT) and gearing. These non-IFRS financial measures reflect an additional way of viewing aspects of
+our business that, when viewed with our IFRS results and the accompanying reconciliations to corresponding IFRS financial measures included in the
+consolidated financial report, may provide a more complete understanding of factors and trends affecting our business.
+The non-IFRS measures do not have a standardized meaning prescribed by IFRS and therefore may not be comparable to similarly titled measures
+presented by other companies and should not be relied upon to the exclusion of IFRS financial measures. We believe that the non-IFRS measures are
+useful as an additional tool to help management and investors make informed decisions about our financial performance.
+ROACE
+We utilize ROACE to evaluate management’s performance and demonstrate to its shareholder that capital has been used effectively.
+SAR USD*
+Twelve-month rolling period ended
+June 30, 2019 June 30, 2018 June 30, 2019 June 30, 2018
+Net income for the twelve-month rolling period 393,566 356,603 104,951 95,094
+Finance costs, net of tax 50% 2,175 1,320 580 352
+Net income before finance costs, net of tax 395,741 357,923 105,531 95,446
+Current borrowings (twelve-month period opening) 27,735 9,769 7,396 2,605
+Non-current borrowings (twelve-month period opening) 63,696 66,154 16,986 17,641
+Total equity (twelve-month period opening) 908,341 771,026 242,224 205,607
+Capital employed (period opening) 999,772 846,949 266,606 225,853
+Current borrowings (twelve-month period closing) 38,407 27,735 10,242 7,396
+Non-current borrowings (twelve-month period closing) 134,472 63,696 35,859 16,986
+Total equity (twelve-month period closing) 1,024,127 908,341 273,100 242,224
+Capital employed (period closing) 1,197,006 999,772 319,201 266,606
+Average capital employed 1,098,389 923,361 292,904 246,229
+ROACE - twelve-month rolling basis 36.0% 38.8%
+Free cash flow
+Free cash flow is used to evaluate cash available for financing activities, including dividend payments. We define free cash flow as net cash provided by
+operating activities less capital expenditures.
+SAR USD*
+Half year 2019 Half year 2018 Half year 2019 Half year 2018
+Net cash provided by operating activities 196,689 195,213 52,450 52,057
+Capital expenditures (54,263) (61,741) (14,470) (16,464)
+Free cash flow 142,426 133,472 37,980 35,593
+*Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only
+[TABLE DATA]
+June 30, 2019 | June 30, 2018 | June 30, 2019
+393,566 | 356,603
+1,320 | 104,951
+2,175 |  | 580
+395,741 | 357,923 | 105,531
+27,735 | 9,769
+66,154
+771,026 | 7,396
+63,696 |  | 16,986
+908,341 |  | 242,224
+999,772 | 846,949 | 266,606
+38,407 | 27,735
+63,696
+908,341 | 10,242
+134,472 |  | 35,859
+1,024,127 |  | 273,100
+1,197,006 | 999,772 | 319,201
+1,098,389 | 923,361 | 292,904
+36.0% | 38.8% |
+Half year 2019 | Half year 2018 | Half year 2019
+196,689 | 195,213
+(61,741) | 52,450
+(54,263) |  | (14,470)
+142,426 | 133,472 | 37,980
+[Page 2]
+Saudi Arabian Oil Company | Half year 2019
+non-IFRS measures reconciliations and definitions - continued
+EBIT
+EBIT is defined as net income plus finance costs and income taxes, less finance income.
+SAR USD*
+Half year 2019 Half year 2018 Half year 2019 Half year 2018
+Net income 175,871 198,820 46,899 53,019
+Finance costs 2,779 1,387 741 370
+Income taxes 170,963 180,779 45,590 48,207
+Finance income (2,714) (996) (724) (265)
+Earnings before interest and taxes 346,899 379,990 92,506 101,331
+Gearing
+Gearing is defined as ratio of (i) total borrowings (current and non-current) less cash and cash equivalents to (ii) total borrowings less cash and cash
+equivalents plus total equity.
+SAR USD*
+June 30, 2019 June 30, 2019
+Current borrowings 38,407 10,242
+Non-current borrowings 134,472 35,859
+Total borrowings 172,879 46,101
+Less: Cash and cash equivalents (148,225) (39,527)
+Net debt / (cash) 24,654 6,574
+Net debt / (cash) 24,654 6,574
+Total equity 1,024,127 273,100
+Total capital 1,048,781 279,674
+Gearing 2.4% 2.4%
+*Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only
+[TABLE DATA]
+Half year 2019 | Half year 2018 | Half year 2019
+175,871 | 198,820
+1,387
+180,779
+(996) | 46,899
+2,779 |  | 741
+170,963 |  | 45,590
+(2,714) |  | (724)
+346,899 | 379,990 | 92,506
+SAR |
+June 30, 2019 | June 30, 2019
+38,407 | 10,242
+134,472 | 35,859
+172,879 | 46,101
+(148,225) | (39,527)
+24,654 | 6,574
+24,654 | 6,574
+1,024,127 | 273,100
+1,048,781 | 279,674
+2.4% | 2.4%

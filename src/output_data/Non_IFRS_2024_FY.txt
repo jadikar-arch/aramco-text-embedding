@@ -1,0 +1,202 @@
+SOURCE: Saudi Aramco — Non IFRS 2024 FY
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2024/fy/saudi-aramco-fy-2024-non-ifrs-english.pdf
+============================================================
+
+[Page 1]
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and definitions
+for the year ended December 31, 2024
+Aramco uses certain non-IFRS financial measures to make informed liquidity under IFRS and should not be used instead of, or considered
+decisions about its financial position, operating performance, or as alternatives to, any measures of performance or liquidity under
+liquidity. These non-IFRS financial measures have been included IFRS. The non-IFRS financial measures relate to the reporting periods
+below to facilitate a better understanding of Aramco’s historical described below and are not intended to be predictive of future
+trends of operation and financial position. results. In addition, other companies, including those in Aramco’s
+industry, may calculate similarly titled non-IFRS financial measures
+Aramco uses non-IFRS financial measures as supplementary
+differently from Aramco. Because companies do not necessarily
+information to its IFRS-based operating performance and financial
+calculate these non-IFRS financial measures in the same manner,
+position. The non-IFRS financial measures are not defined by, or
+Aramco’s presentation of such non-IFRS financial measures may not
+presented in accordance with, IFRS. The non-IFRS financial measures
+be comparable to other similarly titled non-IFRS financial measures
+are not measurements of Aramco’s operating performance or
+used by other companies.
+Return on average capital employed (ROACE)
+SAR USD*
+Twelve months ended Twelve months ended
+December 31 December 31
+All amounts in millions unless otherwise stated 2024 2023 2024 2023
+Net income 398,422 454,764 106,246 121,271
+Finance costs, net of income taxes and zakat 5,270 4,093 1,406 1,092
+Net income before finance costs, net of income taxes and zakat 403,692 458,857 107,652 122,363
+As at period start:
+Non-current borrowings 226,481 318,380 60,395 84,901
+Current borrowings 63,666 74,764 16,978 19,937
+Total equity 1,737,092 1,666,147 463,225 444,306
+Capital employed 2,027,239 2,059,291 540,598 549,144
+As at period end:
+Non-current borrowings 261,733 226,481 69,795 60,395
+Current borrowings 57,557 63,666 15,348 16,978
+Total equity 1,651,355 1,737,092 440,361 463,225
+Capital employed 1,970,645 2,027,239 525,504 540,598
+Average capital employed 1,998,942 2,043,265 533,051 544,871
+ROACE 20.2% 22.5% 20.2% 22.5%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+ROACE measures the efficiency of Aramco’s utilization of capital.
+Aramco defines ROACE as net income before finance costs, net of ROACE
+income taxes and zakat, as a percentage of average capital employed, (%)
+calculated on a 12-month rolling basis. Average capital employed is the
+31.6
+average of total borrowings plus total equity at the beginning and end
+of the applicable period. Aramco utilizes ROACE to evaluate 24.4
+22.5
+management’s performance and demonstrate to its shareholders that 20.2
+capital has been used effectively.
+13.2
+ROACE for the year ended December 31, 2024, was 20.2%, compared
+to 22.5% in 2023. The decrease in ROACE, calculated on a 12-month
+rolling basis, was mainly attributable to lower earnings largely driven
+by a decrease in revenue and other income related to sales, higher
+operating costs, as well as lower finance and other income, partially 2020 2021 2022 2023 2024
+offset by lower income taxes and zakat.
+1 SAUDI ARAMCO
+[TABLE DATA]
+|  |  |  |  | USD* |
+| Twelve months ended
+December 31 |  |  |  | Twelve months ended
+December 31 |
+All amounts in millions unless otherwise stated |  |  |  |  |  |
+Net income | 398,422 | 454,764 |  |  | 106,246 | 121,271
+Finance costs, net of income taxes and zakat | 5,270 | 4,093 |  |  | 1,406 | 1,092
+Net income before finance costs, net of income taxes and zakat | 403,692 | 458,857 |  |  | 107,652 | 122,363
+|  |  |  |  |  |
+As at period start: |  |  |  |  |  |
+|  |  |  |  |  |
+Non-current borrowings | 226,481 | 318,380 |  |  | 60,395 | 84,901
+Current borrowings | 63,666 | 74,764 |  |  | 16,978 | 19,937
+Total equity | 1,737,092 | 1,666,147 |  |  | 463,225 | 444,306
+Capital employed | 2,027,239 | 2,059,291 |  |  | 540,598 | 549,144
+|  |  |  |  |  |
+As at period end: |  |  |  |  |  |
+Non-current borrowings | 261,733 | 226,481 |  |  | 69,795 | 60,395
+Current borrowings | 57,557 | 63,666 |  |  | 15,348 | 16,978
+Total equity | 1,651,355 | 1,737,092 |  |  | 440,361 | 463,225
+Capital employed | 1,970,645 | 2,027,239 |  |  | 525,504 | 540,598
+|  |  |  |  |  |
+Average capital employed | 1,998,942 | 2,043,265 |  |  | 533,051 | 544,871
+ROACE | 20.2% | 22.5% |  |  | 20.2% | 22.5%
+[Page 2]
+All amounts in millions unless otherwise stated
+Financial performance continued All amounts in millions unless otherwise stated
+Free cash flow
+SAR USD*
+Year ended December 31 Year ended December 31
+All amounts in millions unless otherwise stated 2024 2023 2024 2023
+Net cash provided by operating activities 508,888 537,814 135,704 143,417
+Capital expenditures (188,890) (158,308) (50,371) (42,215)
+Free cash flow 319,998 379,506 85,333 101,202
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Aramco uses free cash flow to evaluate its cash available for
+financing activities, including dividend payments. Aramco defines Free cash flow
+free cash flow as net cash provided by operating activities less ($)
+capital expenditures. 148,531
+Free cash flow in 2024 was ﷼ 319,998 ($85,333) compared to
+107,455
+﷼ 379,506 ($101,202), in 2023, a decrease of ﷼ 59,508 ($15,869) or 101,202
+85,333
+15.7%. This decrease largely reflects lower operating cash flows
+mainly due to lower earnings, partially offset by a reduction in cash
+49,137
+paid for the settlement of income, zakat and other taxes, and
+higher upstream capital expenditures.
+2020 2021 2022 2023 2024
+Earnings before interest, income taxes and zakat (EBIT)
+SAR USD*
+Year ended December 31 Year ended December 31
+All amounts in millions unless otherwise stated 2024 2023 2024 2023
+Net income 398,422 454,764 106,246 121,271
+Finance income (20,254) (31,216) (5,401) (8,324)
+Finance costs 10,540 8,186 2,811 2,183
+Income taxes and zakat 383,588 433,303 102,290 115,547
+Earnings before interest, income taxes and zakat 772,296 865,037 205,946 230,677
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Aramco defines EBIT as net income plus finance costs and income
+taxes and zakat, less finance income. Aramco believes EBIT provides EBIT
+useful information regarding its financial performance to analysts ($)
+and investors. 306,512
+EBIT for 2024 was ﷼ 772,296 ($205,946) compared to ﷼ 865,037
+230,677
+($230,677), in 2023. This decrease of ﷼ 92,741 ($24,731) or 10.7% 208,046 205,946
+was primarily due to lower revenue and other income related to
+sales as well as higher operating costs compared to the previous
+year. 101,391
+2020 2021 2022 2023 2024
+2 SAUDI ARAMCO
+[TABLE DATA]
+|  |  |  | USD* |
+| Year ended December 31 |  |  | Year ended December 31 |
+All amounts in millions unless otherwise stated |  |  |  |  |
+Net cash provided by operating activities | 508,888 | 537,814 |  | 135,704 | 143,417
+Capital expenditures | (188,890) | (158,308) |  | (50,371) | (42,215)
+Free cash flow | 319,998 | 379,506 |  | 85,333 | 101,202
+|  |  |  | USD* |
+| Year ended December 31 |  |  | Year ended December 31 |
+All amounts in millions unless otherwise stated |  |  |  |  |
+Net income | 398,422 | 454,764 |  | 106,246 | 121,271
+Finance income | (20,254) | (31,216) |  | (5,401) | (8,324)
+Finance costs | 10,540 | 8,186 |  | 2,811 | 2,183
+Income taxes and zakat | 383,588 | 433,303 |  | 102,290 | 115,547
+Earnings before interest, income taxes and zakat | 772,296 | 865,037 |  | 205,946 | 230,677
+[Page 3]
+All amounts in millions unless otherwise stated
+Gearing
+SAR USD*
+As at December 31 As at December 31
+All amounts in millions unless otherwise stated 2024 2023 2024 2023
+Total borrowings (current and non-current) 319,290 290,147 85,143 77,373
+Cash and cash equivalents (216,642) (198,973) (57,771) (53,059)
+Short-term investments (13,186) (184,343) (3,516) (49,158)
+Investments in debt securities (current and non-current)1 (11,384) (9,584) (3,037) (2,556)
+Non-current cash investments – – – –
+Net debt (cash) 78,078 (102,753) 20,819 (27,400)
+Total equity 1,651,355 1,737,092 440,361 463,225
+Total equity and net debt (cash) 1,729,433 1,634,339 461,180 435,825
+Gearing 4.5% (6.3)% 4.5% (6.3)%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+1. As at December 31, 2024, investments in debt securities (current and non-current) are comprised of ﷼ 1,656 ($442) and ﷼ 9,728 ($2,595), which form part of other assets and receivables under
+current assets, and investments in securities under non-current assets, respectively. As at December 31, 2023, investments in debt securities (current and non-current) are comprised of
+﷼ 1,249 ($333) and ﷼ 8,335 ($2,223), which form part of other assets and receivables under current assets, and investments in securities under non-current assets, respectively.
+Gearing is a measure of the degree to which Aramco’s operations
+are financed by debt and reflects available liquidity held in current Gearing2
+and non-current investments and cash management instruments. (%)
+Aramco defines gearing as the ratio of net debt (cash) (total
+22.2
+borrowings less cash and cash equivalents, short-term investments,
+total investments in debt securities (current and non-current), and
+non-current cash investments) to total equity and net debt (cash). 12.0
+Management believes that gearing is widely used by analysts and
+investors in the oil and gas industry to indicate a company’s 4.5
+financial health and flexibility. -7.9 -6.3
+Aramco’s gearing ratio was 4.5% as at December 31, 2024,
+compared to (6.3)% as at December 31, 2023. The increase in
+gearing was principally driven by the change in net debt (cash) 2020 2021 2022 2023 2024
+position mainly reflecting operating cash inflows, partially offset by
+dividend payments and capital expenditures during the year.
+2. Comparative ratios for the years 2021 and 2020 have been amended to reflect Aramco’s
+revised gearing definition.
+3 SAUDI ARAMCO
+[TABLE DATA]
+|  |  |  | USD* |
+| As at December 31 |  |  | As at December 31 |
+All amounts in millions unless otherwise stated |  |  |  |  |
+Total borrowings (current and non-current) | 319,290 | 290,147 |  | 85,143 | 77,373
+Cash and cash equivalents | (216,642) | (198,973) |  | (57,771) | (53,059)
+Short-term investments | (13,186) | (184,343) |  | (3,516) | (49,158)
+Investments in debt securities (current and non-current)1 | (11,384) | (9,584) |  | (3,037) | (2,556)
+Non-current cash investments | – | – |  | – | –
+Net debt (cash) | 78,078 | (102,753) |  | 20,819 | (27,400)
+| 1,651,355 | 1,737,092 |  | 440,361 | 463,225
+| 1,729,433 | 1,634,339 |  | 461,180 | 435,825
+Gearing | 4.5% | (6.3)% |  | 4.5% | (6.3)%

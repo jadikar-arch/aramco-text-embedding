@@ -1,0 +1,82 @@
+SOURCE: Saudi Aramco — Non IFRS 2020 Q2 H1
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2020/q2---h1/saudi-aramco-q2-2020-non-ifrs-english.pdf
+============================================================
+
+[Page 1]
+1 Saudi Arabian Oil Company
+Second quarter and half year 2020
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and
+definitions
+Aramco uses certain non-IFRS financial measures – free cash flow and gearing– in the analysis of its business and financial position.
+These non-IFRS financial measures have been included below to facilitate a better understanding of Aramco’s historical trends of operation and
+financial position.
+Aramco uses non-IFRS financial measures as supplementary information to its IFRS based operating performance and financial position. The
+non-IFRS financial measures are not defined by, or presented in accordance with, IFRS. The non-IFRS financial measures are not measurements
+of Aramco’s operating performance or liquidity under IFRS and should not be used instead of, or considered as alternatives to, any measures of
+performance or liquidity under IFRS. The non-IFRS financial measures relate to the second quarter and first half of 2020 and are not intended to
+be predictive of future results. In addition, other companies, including those in Aramco’s industry, may calculate similarly titled non-IFRS financial
+measures differently from Aramco. Because companies do not necessarily calculate these non-IFRS financial measures in the same manner,
+Aramco’s presentation of such non-IFRS financial measures may not be comparable to other similarly titled non-IFRS financial measures used by
+other companies.
+Free cash flow
+Aramco uses free cash flow to evaluate its cash available for financing activities, including dividend payments. Aramco defines free cash flow as
+net cash provided by operating activities less capital expenditures.
+Free cash flow decreased from SAR 77,299 ($20,614) in the second quarter of 2019 to SAR 22,878 ($6,101) for the same quarter in 2020, a
+decrease of SAR 54,421 ($14,513). This was mainly driven by lower operating cash flow, reflecting a decrease in crude oil prices and declining
+refining and chemicals margins, partially offset by a reduction in settlement of taxes and zakat and favourable movements in working capital.
+Capital expenditures decreased by SAR 3,931 ($1,049) in the second quarter of 2020, compared to the same quarter in 2019, reflecting the
+implementation of capital spending optimization and efficiency programs.
+Free cash flow decreased from SAR 142,426 ($37,980) in the first half of 2019 to SAR 79,205 ($21,122) for the same period in 2020, a decrease
+of SAR 63,221 ($16,858). The impact of lower earnings on operating cash flow was partially offset by cash released from working capital changes
+and a decrease in settlement of taxes and zakat. The implementation of capital spending optimization and efficiency programs led to lower capital
+expenditures in 2020.
+Second quarter Half year
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2020 2019 2020 2019 2020 2019 2020 2019
+Net cash provided by operating activities 46,310 104,662 12,349 27,911 130,377 196,689 34,767 52,450
+Capital expenditures (23,432) (27,363) (6,248) (7,297) (51,172) (54,263) (13,645) (14,470)
+Free cash flow 22,878 77,299 6,101 20,614 79,205 142,426 21,122 37,980
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+46,310 | 104,662
+(27,363) | 12,349
+(23,432) |  | (6,248)
+22,878 | 77,299 | 6,101
+130,377 | 196,689 | 34,767
+(51,172) | (54,263) | (13,645)
+79,205 | 142,426 | 21,122
+[Page 2]
+2 Saudi Arabian Oil Company
+Second quarter and half year 2020
+All amounts in millions unless otherwise stated
+Gearing
+Gearing is a measure of the degree to which Aramco’s operations are financed by debt. Aramco defines gearing as the ratio of total borrowings
+less cash and cash equivalents to total borrowings less cash and cash equivalents plus total equity. Management believes that gearing is widely
+used by analysts and investors in the oil and gas industry to indicate a company’s financial health and flexibility.
+Gearing increased from –0.2% (net cash position) as at December 31, 2019 to 20.1% as at June 30, 2020. This was primarily due to the deferred
+consideration in relation to the SABIC acquisition and the consolidation of SABIC’s net debt onto Aramco’s balance sheet.
+SAR USD*
+June 30, December 31, June 30, December 31,
+All amounts in millions unless otherwise stated 2020 2019 2020 2019
+Total borrowings (current and non-current) 492,143 175,585 131,238 46,823
+Cash and cash equivalents (206,593) (177,706) (55,092) (47,388)
+Net debt / (cash) 285,550 (2,121) 76,146 (565)
+Total equity 1,132,520 1,046,235 302,005 278,996
+Total equity and net debt / (cash) 1,418,070 1,044,114 378,151 278,431
+Gearing 20.1% (0.2)% 20.1% (0.2)%
+ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+492,143
+(206,593)
+285,550
+1,132,520
+1,418,070
+20.1%
+131,238
+(55,092)
+76,146
+302,005
+378,151
+20.1%

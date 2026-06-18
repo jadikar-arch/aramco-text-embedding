@@ -1,0 +1,358 @@
+SOURCE: Saudi Aramco — saudi-aramco-results-2017-2018-summary-financials
+TYPE: Other
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2018/saudi-aramco-results-2017-2018-summary-financials.pdf
+============================================================
+
+[Page 3]
+consolidated financial statements 03
+(All amounts in millions unless otherwise stated)
+Consolidated statement of income
+SAR USD*
+Year ended December 31 Year ended December 31
+2018 2017 2018 2017
+Revenue 1,182,137 840,483 315,236 224,129
+Other income related to sales 152,641 150,176 40,704 40,047
+Revenue and other income related to sales 1,334,778 990,659 355,940 264,176
+Production royalties and excise and other taxes (208,505) (140,893) (55,601) (37,572)
+Purchases (188,937) (126,093) (50,383) (33,625)
+Producing and manufacturing (56,202) (56,962) (14,987) (15,190)
+Selling, administrative and general (31,250) (30,994) (8,333) (8,265)
+Exploration (7,928) (13,725) (2,114) (3,660)
+Research and development (2,217) (1,902) (591) (507)
+Depreciation and amortization (41,334) (37,175) (11,023) (9,913)
+Operating costs (536,373) (407,744) (143,032) (108,732)
+Operating income 798,405 582,915 212,908 155,444
+Share of results of joint ventures and associates (1,415) (956) (377) (255)
+Finance and other income 3,865 1,569 1,030 418
+Finance costs (2,959) (2,090) (789) (557)
+Income before income taxes 797,896 581,438 212,772 155,050
+Income taxes (381,378) (296,819) (101,701) (79,152)
+Net income 416,518 284,619 111,071 75,898
+Net income attributable to
+Shareholder’s equity 416,196 283,198 110,985 75,519
+Non-controlling interests 322 1,421 86 379
+416,518 284,619 111,071 75,898
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+For full financial statements including notes to the accounts, please visit www.saudiaramco.com/investors
+Khalid A. Al-Falih Amin H. Nasser Khalid H. Al-Dabbagh
+Chairman of the Board President & Chief Executive Officer Senior Vice President, Finance,
+Strategy & Development
+[TABLE DATA]
+1,182,137
+152,641
+1,334,778
+(208,505)
+(188,937)
+(56,202)
+(31,250)
+(7,928)
+(2,217)
+(41,334)
+(536,373)
+798,405
+(1,415)
+3,865
+(2,959)
+797,896
+(381,378)
+416,518
+416,196
+322
+416,518
+315,236
+40,704
+355,940
+(55,601)
+(50,383)
+(14,987)
+(8,333)
+(2,114)
+(591)
+(11,023)
+(143,032)
+212,908
+(377)
+1,030
+(789)
+212,772
+(101,701)
+111,071
+110,985
+86
+111,071
+[Page 4]
+consolidated financial statements 04
+(All amounts in millions unless otherwise stated)
+Consolidated balance sheet
+SAR USD*
+At December 31 At December 31
+2018 2017 2018 2017
+Assets
+Non-current assets
+Property, plant and equipment 873,827 751,134 233,021 200,302
+Intangible assets 26,896 24,346 7,172 6,492
+Investments in joint ventures and associates 22,579 27,273 6,021 7,273
+Deferred income tax assets 9,866 13,606 2,631 3,628
+Other assets and receivables 13,127 14,119 3,501 3,765
+Investments in securities 17,214 18,872 4,590 5,033
+963,509 849,350 256,936 226,493
+Current assets
+Inventories 43,580 34,013 11,621 9,070
+Trade receivables 93,818 86,892 25,018 23,171
+Due from the Government 48,140 38,991 12,837 10,398
+Other assets and receivables 13,775 5,881 3,673 1,568
+Short-term investments 194 6,184 52 1,649
+Cash and cash equivalents 183,152 81,242 48,841 21,665
+382,659 253,203 102,042 67,521
+Total assets 1,346,168 1,102,553 358,978 294,014
+Equity and liabilities
+Shareholder’s equity
+Share capital 60,000 – 16,000 –
+Stated capital – 60,000 – 16,000
+Additional paid-in capital 26,981 26,981 7,195 7,195
+Retained earnings:
+Unappropriated 920,625 715,107 245,500 190,695
+Appropriated 6,000 6,000 1,600 1,600
+Other reserves 3,176 5,670 847 1,512
+1,016,782 813,758 271,142 217,002
+Non-controlling interests 11,653 12,556 3,107 3,348
+1,028,435 826,314 274,249 220,350
+Non-current liabilities
+Borrowings 71,329 68,692 19,021 18,318
+Deferred income tax liabilities 23,877 6,309 6,367 1,682
+Post-employment benefit obligations 23,209 38,191 6,189 10,184
+Provisions 15,606 13,997 4,162 3,733
+134,021 127,189 35,739 33,917
+Current liabilities
+Trade and other payables 72,286 62,055 19,276 16,548
+Obligations to the Government:
+Income taxes 69,575 57,679 18,553 15,381
+Royalties 11,862 20,410 3,164 5,443
+Borrowings 29,989 8,906 7,997 2,375
+183,712 149,050 48,990 39,747
+317,733 276,239 84,729 73,664
+Total equity and liabilities 1,346,168 1,102,553 358,978 294,014
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+For full financial statements including notes to the accounts, please visit www.saudiaramco.com/investors
+Khalid A. Al-Falih Amin H. Nasser Khalid H. Al-Dabbagh
+Chairman of the Board President & Chief Executive Officer Senior Vice President, Finance,
+Strategy & Development
+[TABLE DATA]
+873,827
+26,896
+22,579
+9,866
+13,127
+17,214
+963,509
+43,580
+93,818
+48,140
+13,775
+194
+183,152
+382,659
+1,346,168
+60,000
+–
+26,981
+920,625
+6,000
+3,176
+1,016,782
+11,653
+1,028,435
+71,329
+23,877
+23,209
+15,606
+134,021
+72,286
+69,575
+11,862
+29,989
+183,712
+317,733
+1,346,168
+233,021
+7,172
+6,021
+2,631
+3,501
+4,590
+256,936
+11,621
+25,018
+12,837
+3,673
+52
+48,841
+102,042
+358,978
+16,000
+–
+7,195
+245,500
+1,600
+847
+271,142
+3,107
+274,249
+19,021
+6,367
+6,189
+4,162
+35,739
+19,276
+18,553
+3,164
+7,997
+48,990
+84,729
+358,978
+[Page 5]
+consolidated financial statements 05
+(All amounts in millions unless otherwise stated)
+Consolidated statement of cash flows
+SAR USD*
+Year ended December 31 Year ended December 31
+2018 2017 2018 2017
+Income before income taxes 797,896 581,438 212,772 155,050
+Adjustments to reconcile income before income taxes
+to net cash provided by operating activities
+Depreciation and amortization 41,334 37,175 11,023 9,913
+Provisions 107 (91) 28 (24)
+Exploration and evaluation costs written off 2,951 8,522 787 2,272
+Net gain on disposal of property, plant and equipment – (464) – (124)
+Share of results of joint ventures and associates 1,415 956 377 255
+Finance income (2,840) (1,217) (757) (324)
+Finance costs 2,959 2,090 789 557
+Dividends from investments in securities (143) (141) (38) (38)
+(Gain)/loss on remeasurement of investments in affiliates (870) 262 (232) 70
+Change in fair value of investments through profit or loss (594) (38) (158) (10)
+Change in joint ventures and associates inventory profit elimination 103 (530) 27 (141)
+Other 1,417 156 377 42
+Change in working capital
+Inventories (6,455) (7,524) (1,721) (2,006)
+Trade receivables (5,696) (17,874) (1,519) (4,766)
+Due from the Government (9,149) (38,991) (2,439) (10,398)
+Other assets and receivables (7,335) (517) (1,956) (138)
+Trade and other payables 5,343 (1,140) 1,425 (304)
+Royalties payable (8,548) 10,544 (2,279) 2,811
+Other changes
+Other assets and receivables (1,117) (3,204) (298) (854)
+Provisions (347) (1,597) (93) (426)
+Post-employment benefit obligations (2,606) (1,140) (695) (304)
+Settlement of income and other taxes (354,124) (233,068) (94,433) (62,151)
+Net cash provided by operating activities 453,701 333,607 120,987 88,962
+Capital expenditures (131,766) (121,955) (35,138) (32,521)
+Acquisition of affiliates, net of cash acquired (8,571) (1,152) (2,285) (307)
+Distributions from joint ventures and associates 1,073 840 286 224
+Additional investments in joint ventures and associates (401) (3,546) (106) (946)
+Dividends from investments in securities 143 141 38 38
+Interest received 2,942 1,167 784 311
+Net investments in securities (615) (476) (164) (127)
+Net maturities of short-term investments 5,990 6,352 1,597 1,694
+Net cash used in investing activities (131,205) (118,629) (34,988) (31,634)
+Dividends (217,500) – (58,000) –
+Distributions to the Government – (187,849) – (50,093)
+Dividends paid to non-controlling interests (902) (1,091) (240) (291)
+Interest paid (2,748) (1,795) (733) (479)
+Proceeds from borrowings 11,660 20,245 3,109 5,399
+Repayments of borrowings (11,096) (11,321) (2,959) (3,019)
+Net cash used in financing activities (220,586) (181,811) (58,823) (48,483)
+Net increase in cash and cash equivalents 101,910 33,167 27,176 8,845
+Cash and cash equivalents at beginning of the year 81,242 48,075 21,665 12,820
+Cash and cash equivalents at end of the year 183,152 81,242 48,841 21,665
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+For full financial statements including notes to the accounts, please visit www.saudiaramco.com/investors
+Khalid A. Al-Falih Amin H. Nasser Khalid H. Al-Dabbagh
+Chairman of the Board President & Chief Executive Officer Senior Vice President, Finance,
+Strategy & Development
+[TABLE DATA]
+797,896
+41,334
+107
+2,951
+–
+1,415
+(2,840)
+2,959
+(143)
+(870)
+(594)
+103
+1,417
+(6,455)
+(5,696)
+(9,149)
+(7,335)
+5,343
+(8,548)
+(1,117)
+(347)
+(2,606)
+(354,124)
+453,701
+(131,766)
+(8,571)
+1,073
+(401)
+143
+2,942
+(615)
+5,990
+(131,205)
+(217,500)
+–
+(902)
+(2,748)
+11,660
+(11,096)
+(220,586)
+101,910
+81,242
+183,152
+212,772
+11,023
+28
+787
+–
+377
+(757)
+789
+(38)
+(232)
+(158)
+27
+377
+(1,721)
+(1,519)
+(2,439)
+(1,956)
+1,425
+(2,279)
+(298)
+(93)
+(695)
+(94,433)
+120,987
+(35,138)
+(2,285)
+286
+(106)
+38
+784
+(164)
+1,597
+(34,988)
+(58,000)
+–
+(240)
+(733)
+3,109
+(2,959)
+(58,823)
+27,176
+21,665
+48,841

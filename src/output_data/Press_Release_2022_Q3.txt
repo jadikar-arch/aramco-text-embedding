@@ -1,0 +1,123 @@
+SOURCE: Saudi Aramco — Press Release 2022 Q3
+TYPE: Press Release
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2022/q3/saudi-aramco-q3-2022-results-press-release-english.pdf
+============================================================
+
+[Page 1]
+Aramco announces third quarter 2022 results
+Q3 net income rises 39% YoY to $42.4 billion; free cash flow increases to a record $45.0 billion
+• Q3 earnings reflect Aramco’s ability to generate significant value
+• Net income: $42.4 billion (Q3 2021: $30.4 billion)
+• Cash flow from operating activities: $54.0 billion (Q3 2021: $36.3 billion)
+• Free cash flow1: $45.0 billion (Q3 2021: $28.7 billion)
+• Gearing ratio1, 2: -4.1% as at September 30, 2022, compared to 12.0% at end of 2021
+• Q2 dividend of $18.8 billion paid in the third quarter; Q3 dividend of $18.8 billion to be paid in the fourth quarter
+• Partnership with F2 and F3 highlights work on advanced low-carbon transport solutions
+• World’s first independent certifications of blue ammonia and hydrogen production
+“Aramco’s strong earnings and record free cash flow in the third quarter reinforce our proven
+ability to generate significant value through our low cost, lower-carbon intensity Upstream
+production and strategically integrated Upstream and Downstream businesses. While global
+crude oil prices during this period were affected by continued economic uncertainty, our long-
+term view is that oil demand will continue to grow for the rest of the decade given the world’s
+need for more affordable and reliable energy.
+“Against the backdrop of global underinvestment in our sector, we are extending our long-term
+oil and gas production capabilities while also working towards our previously stated ambition
+to achieve net-zero Scope 1 and Scope 2 greenhouse gas emissions from our wholly-owned
+operated assets.
+“Our plans for our Downstream expansion continue to move forward as we seek to leverage the significant potential of our
+products to meet rising global demand for petrochemicals, which will be critical to the materials transition that is required
+to support a lower-carbon future. In addition, we continue to develop new, lower-carbon energy solutions as we work to be
+part of a more practical, stable and inclusive energy transition.”
+Amin H. Nasser
+President and CEO
+For more information, please see the 2022 Saudi Aramco Third Quarter Interim Report.
+Key financial results
+Third quarter ended September 30 Nine months ended September 30
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2022 2021 2022 2021 2022 2021 2022 2021
+Net income 159,115 114,093 42,430 30,425 488,784 290,998 130,342 77,600
+EBIT1 301,810 214,744 80,482 57,265 909,618 550,249 242,565 146,733
+Capital expenditures 33,895 28,466 9,038 7,591 97,423 87,292 25,979 23,278
+Free cash flow1 168,617 107,738 44,965 28,730 413,274 260,944 110,207 69,585
+Dividends paid 70,329 70,327 18,754 18,754 210,988 210,977 56,263 56,261
+ROACE1, 3 32.6% 20.6% 32.6% 20.6% 32.6% 20.6% 32.6% 20.6%
+Average realized crude oil price ($/barrel) n/a n/a 101.7 72.8 n/a n/a 104.3 67.2
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+1. Non-IFRS measure: refer to Non-IFRS measures reconciliations and definitions section of the 2022 Saudi Aramco Third Quarter Interim Report for further details.
+2. Gearing ratios have been amended to reflect Aramco’s revised gearing definition. Please refer to Non-IFRS measures reconciliations and definitions section of the
+2022 Saudi Aramco Third Quarter Interim Report for further details.
+3. Calculated on a 12-month rolling basis.
+[TABLE DATA]
+159,115
+301,810
+33,895
+168,617
+70,329
+32.6%
+n/a
+42,430
+80,482
+9,038
+44,965
+18,754
+32.6%
+101.7
+488,784 | 290,998
+550,249
+87,292
+260,944
+210,977
+20.6%
+n/a
+909,618 |
+97,423 |
+413,274 |
+210,988 |
+32.6% |
+n/a |
+[Page 2]
+Contact Information
+International Media Relations: international.media@aramco.com
+Investor Relations: investor.relations@aramco.com
+Aramco
+Disclaimer
+The press release contains forward-looking statements. All statements other than statements relating to historical or current
+facts included in the press release are forward-looking statements. Forward-looking statements give the Company’s current
+expectations and projections relating to its capital expenditures and investments, major projects, upstream and downstream
+performance, including relative to peers. These statements may include, without limitation, any statements preceded by,
+followed by or including words such as “target,” “believe,” “expect,” “aim,” “intend,” “may,” “anticipate,” “estimate,”
+“plan,” “project,” ,” “can have,” “likely,” “should,” “could,” and other words and terms of similar meaning or the negative
+thereof. Such forward looking statements involve known and unknown risks, uncertainties and other important factors
+beyond the Company’s control that could cause the Company’s actual results, performance or achievements to be materially
+different from the expected results, performance, or achievements expressed or implied by such forward looking statements,
+including the following factors: international crude oil supply and demand and the price at which it sells crude oil; the impact
+of COVID-19 on business and economic conditions and on supply and demand for crude oil, gas and refined and petrochemical
+products; competitive pressure; climate change concerns and impacts; terrorism and armed conflict; adverse economic or
+political developments in Asia; operational risks and hazards in the oil and gas, refining and petrochemicals industries; any
+significant deviation or changes in existing economic and operating conditions that could affect the estimated quantity and
+value of the Company’s proved reserves; losses from risks related to insufficient insurance; the Company’s ability to deliver on
+current and future projects; comparability amongst periods; the Company’s ability to realize benefits from recent and future
+acquisitions, including with respect to SABIC; risks related to operating in several countries; the Company’s dependence on
+its senior management and key personnel; the reliability and security of the Company’s IT systems; litigation to which the
+Company is or may be subject; ; risks related to oil, gas, environmental, health and safety and other regulations that impact the
+industries in which the Company operates; risks related to international operations, including sanctions and trade restrictions,
+anti-bribery and anti-corruption laws and other laws and regulations; risks stemming from requirements to obtain, maintain,
+and renew governmental licenses, permits, and approvals; risks stemming from existing and potential laws, regulations, and
+other requirements or expectations relating to environmental protection, health and safety laws and regulations, and sale and
+use of chemicals and plastics; potential changes in equalization compensation received in connection with domestic sales of
+hydrocarbons; potential impact on tax rates if the Company does not separate its downstream business in a timeframe set by
+the Government of Saudi Arabia; risks related to Government-directed projects and other Government requirements, including
+those related to Government-set maximum level of crude oil production and target MSC; as well as the importance of the
+hydrocarbon industry to the Government; political and social instability and unrest and actual or potential armed conflicts in the
+regions in which the Company operates and other areas; risks arising should the Government eliminate or change the pegging
+of SAR to the U.S. dollar; and other risks and uncertainties that could cause actual results to differ from the forward looking
+statements in this press release, as set forth in the Company’s latest periodic reports filed with the Tadawul. For additional
+information on the potential risks and uncertainties that could cause actual results to differ from the results predicted please
+see the Company’s latest periodic reports filed with the Tadawul. Such forward-looking statements are based on numerous
+assumptions regarding the Company’s present and future business strategies and the environment in which it will operate in the
+future. The information contained in the press release, including but not limited to forward-looking statements, applies only as
+of the date of this press release and is not intended to give any assurances as to future results. The Company expressly disclaims
+any obligation or undertaking to disseminate any updates or revisions to the press release, including any financial data or
+forward-looking statements, whether as a result of new information, future events or otherwise, unless required by applicable
+law or regulation. No person should construe the press release as financial, tax or investment advice. Undue reliance should not
+be placed on the forward-looking statements.

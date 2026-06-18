@@ -1,0 +1,77 @@
+SOURCE: Saudi Aramco — Non IFRS 2021 Q2 H1
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2021/q2---h1/saudi-aramco-q2-2021-non-ifrs-english.pdf
+============================================================
+
+[Page 1]
+Saudi Aramco 1
+Second quarter and half year 2021
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and
+definitions
+Aramco uses certain non-IFRS financial measures, including free cash flow and gearing, to make informed decisions about its financial position
+and operating performance or liquidity. These non-IFRS financial measures have been included below to facilitate a better understanding of
+Aramco’s historical trends of operation and financial position.
+Aramco uses non-IFRS financial measures as supplementary information to its IFRS based operating performance and financial position. The
+non-IFRS financial measures are not defined by, or presented in accordance with, IFRS. The non-IFRS financial measures are not measurements
+of Aramco’s operating performance or liquidity under IFRS and should not be used instead of, or considered as alternatives to, any measures of
+performance or liquidity under IFRS. The non-IFRS financial measures relate to the reporting periods are not intended to be predictive of future
+results. In addition, other companies, including those in Aramco’s industry, may calculate similarly titled non-IFRS financial measures differently
+from Aramco. Because companies do not necessarily calculate these non-IFRS financial measures in the same manner, Aramco’s presentation of
+such non-IFRS financial measures may not be comparable to other similarly titled non-IFRS financial measures used by other companies.
+Free cash flow
+Aramco uses free cash flow to evaluate its cash available for financing activities, including dividend payments. Aramco defines free cash flow as
+net cash provided by operating activities less capital expenditures.
+Free cash flow for the second quarter of 2021 was SAR 84,657 ($22,576), compared to SAR 22,878 ($6,101) for the same quarter in 2020, an
+increase of SAR 61,779 ($16,475). This was principally due to higher earnings, mainly reflecting stronger crude oil prices, improved Downstream
+margins and the consolidation of SABIC’s results, partly offset by unfavorable changes in working capital and higher cash paid for the settlement
+of income, zakat and other taxes. Capital expenditures increased by SAR 4,644 ($1,239) in the second quarter of 2021, compared to the same
+period in 2020, due to increased spend in relation to ongoing Upstream increment projects, and higher Downstream capital expenditures.
+Free cash flow for the first half of 2021 was SAR 153,206 ($40,855), compared to SAR 79,205 ($21,122) for the same period in 2020. This
+increase of SAR 74,001 ($19,733) was mainly due to higher operating cash flow, principally driven by stronger earnings, partially offset by
+negative working capital movements. Capital expenditures for the first half of 2021 increased in comparison to the same period in 2020, due to
+higher Upstream and Downstream capital spend.
+Second quarter Half year
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2021 2020 2021 2020 2021 2020 2021 2020
+Net cash provided by operating activities 112,733 46,310 30,063 12,349 212,032 130,377 56,542 34,767
+Capital expenditures (28,076) (23,432) (7,487) (6,248) (58,826) (51,172) (15,687) (13,645)
+Free cash flow 84,657 22,878 22,576 6,101 153,206 79,205 40,855 21,122
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Gearing
+Gearing is a measure of the degree to which Aramco’s operations are financed by debt. Aramco defines gearing as the ratio of net debt (total
+borrowings less cash and cash equivalents) to net debt plus total equity. Management believes that gearing is widely used by analysts and
+investors in the oil and gas industry to indicate a company’s financial health and flexibility.
+Aramco's gearing ratio as at June 30, 2021 was 19.4%, compared to 23.0% as at December 31, 2020. The decrease in gearing was primarily due
+to higher cash and cash equivalents as at June 30, 2021, mainly driven by stronger operating cash flows and cash proceeds in connection with
+Aramco’s stabilized crude oil pipelines transaction.
+SAR USD*
+June 30, December 31, June 30, December 31,
+All amounts in millions unless otherwise stated 2021 2020 2021 2020
+Total borrowings (current and non-current) 539,633 536,077 143,903 142,954
+Cash & cash equivalents (253,593) (207,232) (67,625) (55,262)
+Net debt 286,040 328,845 76,278 87,692
+Total equity 1,189,393 1,101,094 317,171 293,625
+Total equity and net debt 1,475,433 1,429,939 393,449 381,317
+Gearing 19.4% 23.0% 19.4% 23.0%
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+112,733 | 46,310
+(23,432) | 30,063
+(28,076) |  | (7,487
+84,657 | 22,878 | 22,576
+212,032 | 130,377 | 56,542
+(58,826) | (51,172) | (15,687)
+153,206 | 79,205 | 40,855
+539,633
+(253,593)
+286,040
+1,189,393
+1,475,433
+19.4%
+143,903
+(67,625)
+76,278
+317,171
+393,449
+19.4%

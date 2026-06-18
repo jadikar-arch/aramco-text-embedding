@@ -1,0 +1,2420 @@
+SOURCE: Saudi Aramco — Interim Report 2022 Q3
+TYPE: Interim Report
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2022/q3/saudi-aramco-q3-2022-interim-report-english.pdf
+============================================================
+
+[Page 1]
+Aramco announces third quarter 2022 results
+Q3 net income rises 39% YoY to $42.4 billion; free cash flow increases to a record $45.0 billion
+• Q3 earnings reflect Aramco’s ability to generate significant value
+• Net income: $42.4 billion (Q3 2021: $30.4 billion)
+• Cash flow from operating activities: $54.0 billion (Q3 2021: $36.3 billion)
+• Free cash flow1: $45.0 billion (Q3 2021: $28.7 billion)
+• Gearing ratio1, 2: -4.1% as at September 30, 2022, compared to 12.0% at end of 2021
+• Q2 dividend of $18.8 billion paid in the third quarter; Q3 dividend of $18.8 billion to be paid in the fourth quarter
+• Partnership with F2 and F3 highlights work on advanced low-carbon transport solutions
+• World’s first independent certifications of blue ammonia and hydrogen production
+“Aramco’s strong earnings and record free cash flow in the third quarter reinforce our proven
+ability to generate significant value through our low cost, lower-carbon intensity Upstream
+production and strategically integrated Upstream and Downstream businesses. While global
+crude oil prices during this period were affected by continued economic uncertainty, our long-
+term view is that oil demand will continue to grow for the rest of the decade given the world’s
+need for more affordable and reliable energy.
+“Against the backdrop of global underinvestment in our sector, we are extending our long-term
+oil and gas production capabilities while also working towards our previously stated ambition
+to achieve net-zero Scope 1 and Scope 2 greenhouse gas emissions from our wholly-owned
+operated assets.
+“Our plans for our Downstream expansion continue to move forward as we seek to leverage the significant potential of our
+products to meet rising global demand for petrochemicals, which will be critical to the materials transition that is required
+to support a lower-carbon future. In addition, we continue to develop new, lower-carbon energy solutions as we work to be
+part of a more practical, stable and inclusive energy transition.”
+Amin H. Nasser
+President and CEO
+Key financial results
+Third quarter ended September 30 Nine months ended September 30
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2022 2021 2022 2021 2022 2021 2022 2021
+Net income 159,115 114,093 42,430 30,425 488,784 290,998 130,342 77,600
+EBIT1 301,810 214,744 80,482 57,265 909,618 550,249 242,565 146,733
+Capital expenditures 33,895 28,466 9,038 7,591 97,423 87,292 25,979 23,278
+Free cash flow1 168,617 107,738 44,965 28,730 413,274 260,944 110,207 69,585
+Dividends paid 70,329 70,327 18,754 18,754 210,988 210,977 56,263 56,261
+ROACE1, 3 32.6% 20.6% 32.6% 20.6% 32.6% 20.6% 32.6% 20.6%
+Average realized crude oil price ($/barrel) n/a n/a 101.7 72.8 n/a n/a 104.3 67.2
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+1. Non-IFRS measure: refer to Non-IFRS measures reconciliations and definitions section for further details.
+2. Gearing ratios have been amended to reflect Aramco’s revised gearing definition. Please refer to Non-IFRS measures reconciliations and definitions section for further details.
+3. Calculated on a 12-month rolling basis.
+[TABLE DATA]
+159,115
+301,810
+33,895
+168,617
+70,329
+32.6%
+n/a
+42,430
+80,482
+9,038
+44,965
+18,754
+32.6%
+101.7
+488,784 | 290,998
+550,249
+87,292
+260,944
+210,977
+20.6%
+n/a
+909,618 |
+97,423 |
+413,274 |
+210,988 |
+32.6% |
+n/a |
+[Page 2]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+Third quarter highlights
+Market conditions slightly softened in Key Upstream developments include the • Aramco and SATORP have obtained
+the third quarter as continued economic following: the International Sustainability &
+uncertainty driven by inflationary • The compression projects at the Carbon Certification Plus (ISCC+)
+pressures slowed crude oil demand Haradh and Hawiyah fields have credential for their joint waste plastic
+growth. Despite this, Aramco delivered started commissioning activities, with recycling initiative. The two entities
+strong earnings and record free cash initial production planned by the end join SABIC in holding the ISCC+
+flow reflecting its ability to generate of 2022 and full capacity expected in certification, which is a global standard
+significant value through its low-cost 2023; and for recycled and bio-based materials.
+Upstream production and strategically The initiative aims to establish the first
+integrated Downstream business. In line • The Hawiyah Gas Plant expansion, petrochemical circular value chain in
+with its commitment to maximize total part of the Haradh Gas increment the Kingdom to produce polymers
+shareholder returns, Aramco declared program, has started pre- from plastic waste, reducing the
+a cash dividend of SAR 70.33 billion commissioning activities and is impact of single-use plastic on the
+($18.76 billion) for the third quarter. expected to be on-stream in 2023. environment.
+Aramco’s long-term view is that oil Downstream Sustainability
+demand will likely continue to grow
+The Downstream business remains As part of its role in supporting the
+for the rest of the decade, as will the
+focused on capturing additional value global energy transition, Aramco
+world’s need for more affordable,
+across the hydrocarbon chain and seeks to explore new low-carbon
+reliable, and sustainable energy.
+expanding its sources of earnings. transportation solutions. In September,
+Aramco intends to meet this growing
+the Company signed a Memorandum
+demand by capturing unique growth
+During the quarter, the Company of Understanding with Formula
+opportunities and expanding its
+continued to demonstrate its excellent Motorsport Limited to introduce the
+Maximum Sustainable Capacity (MSC),
+track record of dependable operations, use of alternative, lower-carbon fuels
+while enhancing integration of its
+achieving 99.9% supply reliability. in the Formula 2 and Formula 3 racing
+Upstream and Downstream businesses
+In the first nine months of the year, championships beginning in 2023.
+and growing its liquids-to-chemicals
+Downstream consumed approximately Through this collaboration, Aramco
+capabilities. In the third quarter, capital
+42% of Aramco’s crude oil production. aims to demonstrate the potential of
+expenditures were SAR 33.9 billion ($9.0
+liquid synthetic fuels to reduce emissions
+billion), up 19.1% compared to the
+Key Downstream developments include both in motorsport and the broader
+same period in 2021.
+the following: transportation sector.
+• In August, SASREF and SABIC Agri-
+Upstream Aramco supports the development of
+Nutrients received the world’s
+In line with its focus on maintaining first independent certifications for artificial intelligence (AI) technologies
+its Upstream preeminence, Aramco production of blue ammonia and in the Kingdom and embraces the use
+continued to progress its gas expansion hydrogen. The certifications, granted of AI as a means to create a sustainable
+strategy to meet growing domestic by a leading independent agency, competitive advantage. During the
+demand, and increase MSC to 13.0 verify that a significant amount of the quarter, the Company and a private
+mmbpd by 2027. Through its vast CO associated with the manufacturing sector partner established a Global AI
+reserves, operational capabilities and pro 2 cess of blue ammonia and Corridor to build local capacity and
+spare capacity, Aramco will seek to hydrogen has been captured and grow talent, nurture Saudi AI startups,
+capture global supply gap opportunities utilized in downstream applications and attract high-impact intellectual
+when needed with its low-cost, lower- instead of emitted. This milestone is an property and capital investment to the
+carbon intensity Upstream production. important step towards the Company’s Kingdom that will support economic
+growth and create employment
+target to produce up to 11 million tons
+During the quarter, total hydrocarbon of blue ammonia annually by 2030; opportunities. The Corridor will launch
+production was 14.4 mmboed, and several initiatives in the domains of
+reflecting Aramco’s efficient and reliable AI research, solutioning, upskilling,
+operations. training, and venturing that augments
+other Aramco and Kingdom initiatives to
+create a vibrant Saudi AI ecosystem.
+2
+[Page 3]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions unless otherwise stated
+Financial performance
+Summary of financial performance
+Third quarter Nine months
+SAR USD* SAR USD*
+All amounts in millions unless % %
+otherwise stated 2022 2021 2022 2021 change 2022 2021 2022 2021 change
+Income before income
+taxes and zakat 302,279 212,158 80,607 56,576 42.5% 909,890 542,214 242,637 144,591 67.8%
+Income taxes and zakat (143,164) (98,065) (38,177) (26,151) 46.0% (421,106) (251,216) (112,295) (66,991) 67.6%
+Net income 159,115 114,093 42,430 30,425 39.5% 488,784 290,998 130,342 77,600 68.0%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Financial Results
+Key factors affecting Aramco’s financial Third quarter Nine months
+results Net income Net income
+• Aramco’s results of operations and Net income for the third quarter of 2022 Net income for the first nine months
+cash flows are primarily driven by was SAR 159,115 ($42,430), compared of 2022 was SAR 488,784 ($130,342),
+market prices and volumes sold of to SAR 114,093 ($30,425) for the same compared to SAR 290,998 ($77,600) for
+hydrocarbons as well as refined and quarter in 2021. The increase in net the same period in 2021. The increase
+chemicals products. Global demand income was primarily driven by higher predominantly reflects the impact of
+for petroleum products remained crude oil prices and volumes sold. stronger crude oil prices and volumes
+strong in the first nine months of 2022, This was partially offset by increased sold, and higher refining margins. This
+which resulted in higher prices and
+production royalties largely attributable was partially offset by an increase in
+volumes sold for hydrocarbons and
+to higher average effective royalty rate production royalties mainly resulting
+improved refining margins, compared
+resulting from stronger crude oil prices, from higher average effective royalty
+to the same period in 2021.
+and higher sales volume. rate driven by stronger crude oil prices,
+and higher sales volume.
+Income taxes and zakat
+The charge for income taxes and zakat Income taxes and zakat
+for the third quarter of 2022 was SAR The charge for income taxes and zakat
+143,164 ($38,177), compared to SAR for the first nine months of 2022 was
+98,065 ($26,151) for the same quarter SAR 421,106 ($112,295), compared to
+in 2021. The increase principally reflects SAR 251,216 ($66,991) for the same
+the impact of higher earnings in the period in 2021. This increase was in line
+third quarter of 2022. with stronger earnings in the first nine
+months of 2022.
+For non-IFRS measures, refer to the
+Non-IFRS measures reconciliations and
+definitions section.
+3
+[TABLE DATA]
+302,279 |  | 80,607
+(143,164) |  | (38,177)
+159,115 | 114,093 | 42,430
+909,890 |  | 242,637
+(421,106) |  | (112,295)
+488,784 | 290,998 | 130,342
+[Page 4]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions unless otherwise stated
+Upstream financial performance
+Third quarter Nine months
+SAR USD* SAR USD*
+All amounts in millions unless % %
+otherwise stated 2022 2021 2022 2021 change 2022 2021 2022 2021 change
+Earnings before interest, income
+taxes and zakat 293,996 205,926 78,399 54,914 42.8% 852,261 526,112 227,270 140,297 62.0%
+Capital expenditures - cash basis 27,209 21,759 7,256 5,802 25.0% 76,770 66,265 20,472 17,671 15.9%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Third quarter
+Earnings before interest, income taxes compared to SAR 21,759 ($5,802) for the higher crude oil volumes sold. This
+and zakat (EBIT) for the third quarter same period in 2021. This is mainly due was partly offset by increased crude oil
+of 2022 was SAR 293,996 ($78,399), to increased development activity for production royalties.
+compared to SAR 205,926 ($54,914) for crude oil increments and gas projects.
+the same quarter in 2021. This robust Capital expenditures for the first nine
+performance was primarily attributable Nine months months of 2022 were SAR 76,770
+to improved average realized crude oil EBIT for the first nine months of 2022 ($20,472), an increase by 15.9%,
+prices and increased crude oil volumes was SAR 852,261 ($227,270), compared compared to SAR 66,265 ($17,671)
+sold, partially offset by higher crude oil to SAR 526,112 ($140,297) for the for the same period in 2021. This was
+production royalties. same period in 2021. These earnings principally attributable to drilling
+are driven by global energy demand activities related to increasing crude
+Capital expenditures for the third growth resulting in stronger average oil MSC, development of crude oil
+quarter of 2022 were SAR 27,209 realized crude prices, reinforced by increments, and gas projects.
+($7,256), an increase of 25.0%
+Downstream financial performance
+Third quarter Nine months
+SAR USD* SAR USD*
+All amounts in millions unless % %
+otherwise stated 2022 2021 2022 2021 change 2022 2021 2022 2021 change
+Earnings (losses) before interest,
+income taxes and zakat (4,246) 14,837 (1,132) 3,957 (128.6)% 81,774 48,752 21,806 13,001 67.7%
+Capital expenditures - cash basis 6,365 6,213 1,697 1,657 2.4% 19,404 19,488 5,174 5,197 (0.4)%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Third quarter
+EBIT for the third quarter of 2022 was a compared to SAR 6,213 ($1,657) for Capital expenditures for the first nine
+loss of SAR 4,246 ($1,132), compared to the third quarter in 2021, remaining months of 2022 were SAR 19,404
+a profit of SAR 14,837 ($3,957) for the relatively flat with the prior period. ($5,174), in line with expenditures of SAR
+same quarter in 2021. This result was 19,488 ($5,197) in the same period of
+largely driven by inventory re-valuation Nine months 2021.
+losses as refined product prices, while EBIT for the first nine months of 2022
+higher compared to the same period in was SAR 81,774 ($21,806), compared to
+2021, experienced a significant decline SAR 48,752 ($13,001) for the same period
+in the third quarter of 2022. in 2021. This financial performance is
+primarily the result of higher refining
+Capital expenditures for the third margins compared to the same period in
+quarter of 2022 were SAR 6,365 ($1,697) 2021.
+4
+[TABLE DATA]
+293,996
+27,209
+78,399
+7,256
+852,261
+76,770
+227,270
+20,472
+(4,246)
+6,365
+(1,132)
+1,697
+81,774
+19,404
+21,806
+5,174
+[Page 5]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and definitions
+This Interim Report includes certain to its IFRS-based operating performance results. In addition, other companies,
+non-IFRS financial measures (ROACE, and financial position. The non-IFRS including those in Aramco’s industry,
+free cash flow, EBIT, and gearing), financial measures are not defined by, may calculate similarly titled non-IFRS
+which Aramco uses to make informed or presented in accordance with, IFRS. financial measures differently from
+decisions about its financial position The non-IFRS financial measures are not Aramco. Because companies do not
+and operating performance or liquidity. measurements of Aramco’s operating necessarily calculate these non-IFRS
+These non-IFRS financial measures have performance or liquidity under IFRS financial measures in the same manner,
+been included in this Interim Report and should not be used instead of, Aramco’s presentation of such non-
+to facilitate a better understanding of or considered as alternatives to, any IFRS financial measures may not be
+Aramco’s historical trends of operation measures of performance or liquidity comparable to other similarly titled non-
+and financial position. under IFRS. The non-IFRS financial IFRS financial measures used by other
+measures relate to the reporting periods companies.
+Aramco uses non-IFRS financial described in this Interim Report and are
+measures as supplementary information not intended to be predictive of future
+ROACE
+ROACE measures the efficiency of the applicable period. Aramco utilizes period in 2021. The increase in ROACE
+Aramco’s utilization of capital. Aramco ROACE to evaluate management’s was predominantly driven by higher
+defines ROACE as net income before performance and demonstrate to its earnings, mainly reflecting stronger
+finance costs, net of income taxes and shareholders that capital has been used crude oil prices and volumes sold, and
+zakat, as a percentage of average capital effectively. improved refining margins. This was
+employed, calculated on a 12-month partially offset by higher average capital
+rolling basis. Average capital employed ROACE for the 12 months ended employed during the period.
+is the average of total borrowings plus September 30, 2022, was 32.6%,
+total equity at the beginning and end of compared to 20.6% for the same
+Twelve months ended September 30
+SAR USD*
+All amounts in millions unless otherwise stated 2022 2021 2022 2021
+Net income 610,182 343,453 162,714 91,588
+Finance costs, net of income taxes and zakat 5,214 6,330 1,391 1,688
+Net income before finance costs, net of income taxes and zakat 615,396 349,783 164,105 93,276
+As at period start:
+Non-current borrowings 421,998 411,552 112,533 109,747
+Current borrowings 115,287 96,770 30,743 25,805
+Total equity 1,231,404 1,113,737 328,375 296,997
+Capital employed 1,768,689 1,622,059 471,651 432,549
+As at period end:
+Non-current borrowings 319,952 421,998 85,320 112,533
+Current borrowings 70,321 115,287 18,752 30,743
+Total equity 1,618,212 1,231,404 431,523 328,375
+Capital employed 2,008,485 1,768,689 535,595 471,651
+Average capital employed 1,888,587 1,695,374 503,623 452,100
+ROACE 32.6% 20.6% 32.6% 20.6%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+5
+[TABLE DATA]
+610,182
+5,214
+615,396
+421,998
+115,287
+1,231,404
+1,768,689
+319,952
+70,321
+1,618,212
+2,008,485
+1,888,587
+32.6%
+162,714
+1,391
+164,105
+112,533
+30,743
+328,375
+471,651
+85,320
+18,752
+431,523
+535,595
+503,623
+32.6%
+[Page 6]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions unless otherwise stated
+Free cash flow
+Aramco uses free cash flow to evaluate increase in cash paid for the settlement operating cash flows representing
+its cash available for financing of income, zakat and other taxes. stronger earnings. This is partially
+activities, including dividend payments. Capital expenditures increased by SAR offset by unfavorable working capital
+Aramco defines free cash flow as net 5,429 ($1,447) in the third quarter of movements, and higher cash paid for
+cash provided by operating activities 2022, compared to the same period in the settlement of income, zakat and
+less capital expenditures. 2021, mainly due to higher Upstream other taxes. Capital expenditures for
+capital expenditures reflecting the first nine months of 2022 increased
+Free cash flow for the third quarter increased development activity for by SAR 10,131 ($2,701) compared
+of 2022 was SAR 168,617 ($44,965), crude oil increments and gas projects. to the same period in 2021, due to
+compared to SAR 107,738 ($28,730) for higher Upstream capital expenditures
+the same quarter in 2021, an increase Free cash flow for the first nine months principally attributable to drilling
+of SAR 60,879 ($16,235). This was of 2022 was SAR 413,274 ($110,207), activities related to increasing crude
+largely a reflection of higher operating compared to 260,944 ($69,585), oil MSC, development of crude oil
+cash flows as a result of higher for the same period in 2021. The increments, and gas projects.
+earnings and favorable movements in increase of SAR 152,330 ($40,622)
+working capital, partially offset by an was predominantly driven by higher
+Third quarter Nine months
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2022 2021 2022 2021 2022 2021 2022 2021
+Net cash provided by operating activities 202,512 136,204 54,003 36,321 510,697 348,236 136,186 92,863
+Capital expenditures (33,895) (28,466) (9,038) (7,591) (97,423) (87,292) (25,979) (23,278)
+Free cash flow 168,617 107,738 44,965 28,730 413,274 260,944 110,207 69,585
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Earnings before interest, income taxes and zakat (EBIT)
+Aramco defines EBIT as net income ($57,265) during the same quarter ($146,733) during the same period
+plus finance costs and income taxes in 2021. This increase of SAR 87,066 in 2021, reflecting an increase of
+and zakat, less finance income. Aramco ($23,217) mainly represents the impact SAR 359,369 ($95,832). This is largely
+believes EBIT provides useful information of higher crude oil prices and volumes attributable to stronger crude oil prices
+regarding its financial performance to sold, partially offset by an increase in and volumes sold, and higher refining
+analysts and investors. production royalties. margins, partially offset by an increase in
+production royalties.
+EBIT for the third quarter ended EBIT for the nine months ended
+September 30, 2022, was SAR 301,810 September 30, 2022, was SAR 909,618
+($80,482), compared to SAR 214,744 ($242,565), compared to SAR 550,249
+Third quarter Nine months
+SAR USD* SAR USD*
+All amounts in millions unless otherwise stated 2022 2021 2022 2021 2022 2021 2022 2021
+Net income 159,115 114,093 42,430 30,425 488,784 290,998 130,342 77,600
+Finance income (2,562) (331) (683) (88) (7,644) (967) (2,038) (258)
+Finance costs 2,093 2,917 558 777 7,372 9,002 1,966 2,400
+Income taxes and zakat 143,164 98,065 38,177 26,151 421,106 251,216 112,295 66,991
+Earnings before interest, income taxes
+and zakat 301,810 214,744 80,482 57,265 909,618 550,249 242,565 146,733
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+6
+[TABLE DATA]
+202,512
+(33,895)
+168,617
+54,003
+(9,038)
+44,965
+510,697
+(97,423)
+413,274
+136,186
+(25,979)
+110,207
+159,115
+(2,562)
+2,093
+143,164
+301,810
+42,430
+(683)
+558
+38,177
+80,482
+488,784
+(7,644)
+7,372
+421,106
+909,618
+130,342
+(2,038)
+1,966
+112,295
+242,565
+[Page 7]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions unless otherwise stated
+Gearing
+Gearing is a measure of the degree and net (cash) / debt. The revised Aramco’s revised gearing ratio as at
+to which Aramco’s operations are gearing definition better reflects September 30, 2022, was (4.1)% (net
+financed by debt. Aramco’s gearing available liquidity held in current and cash position), compared to 12.0% as
+definition has been revised and is now non-current investments and cash at December 31, 2021. The decrease
+defined as the ratio of net (cash) / debt management instruments. Management in gearing was driven by lower net
+(total borrowings less cash and cash believes that gearing is widely used by debt and higher total equity, reflecting
+equivalents, short-term investments, analysts and investors in the oil and stronger earnings as a result of higher
+investments in debt securities (current gas industry to indicate a company’s crude oil prices and volumes sold, and
+and non-current), and non-current financial health and flexibility. improved refining margins.
+cash investments) to total equity
+SAR USD*
+September December September December
+All amounts in millions unless otherwise stated 30, 2022 31, 2021 30, 2022 31, 2021
+Total borrowings (current and non-current) 390,273 510,921 104,072 136,246
+Cash and cash equivalents (274,710) (299,579) (73,256) (79,888)
+Short-term investments (171,126) (27,073) (45,634) (7,219)
+Investments in debt securities (current and non-current)1 (8,143) (8,966) (2,171) (2,391)
+Non-current cash investments - - - -
+Net (cash) / debt (63,706) 175,303 (16,989) 46,748
+Total equity 1,618,212 1,280,668 431,523 341,512
+Total equity and net (cash) / debt 1,554,506 1,455,971 414,534 388,260
+Gearing (4.1)% 12.0% (4.1)% 12.0%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+1. As at September 30, 2022, investments in debt securities (current and non-current) are comprised of SAR 1,605 ($428) and SAR 6,538 ($1,743) which form part of other
+assets and receivables under current assets, and investments in securities under non-current assets, respectively. As at December 31, 2021, the investments in debt securities
+(current and non-current) are comprised of SAR 1,515 ($404) and SAR 7,451 ($1,987) which form part of other assets and receivables under current assets, and investments in
+securities under non-current assets, respectively.
+The following table reflects Aramco’s investments, investment in debt September 30, 2022, and December 31,
+gearing ratio in line with its previously securities (current and non-current), and 2021, respectively.
+disclosed definition. Accordingly, non-current cash investments, Aramco’s
+excluding the impact of short-term gearing ratio is 6.7% and 14.2% as at
+SAR USD*
+September December September December
+All amounts in millions unless otherwise stated 30, 2022 31, 2021 30, 2022 31, 2021
+Total borrowings (current and non-current) 390,273 510,921 104,072 136,246
+Cash and cash equivalents (274,710) (299,579) (73,256) (79,888)
+Net debt 115,563 211,342 30,816 56,358
+Total equity 1,618,212 1,280,668 431,523 341,512
+Total equity and net debt 1,733,775 1,492,010 462,339 397,870
+Gearing 6.7% 14.2% 6.7% 14.2%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+7
+[TABLE DATA]
+390,273
+(274,710)
+(171,126)
+(8,143)
+-
+(63,706)
+1,618,212
+1,554,506
+(4.1)%
+104,072
+(73,256)
+(45,634)
+(2,171)
+-
+(16,989)
+431,523
+414,534
+(4.1)%
+390,273
+(274,710)
+115,563
+1,618,212
+1,733,775
+6.7%
+104,072
+(73,256)
+30,816
+431,523
+462,339
+6.7%
+[Page 8]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+Terms and abbreviations
+Currencies mmtpa Reliability
+Million metric tonnes per annum Total products volume shipped/
+SAR/Saudi Riyal
+delivered within 24 hours of the
+Saudi Arabian riyal, the lawful currency
+per day scheduled time, divided by the total
+of the Kingdom
+Volumes are converted into a daily basis products volume committed. Any
+using a calendar year (Gregorian) delays caused by factors that are under
+$/USD/Dollar
+the Company’s control (e.g. terminal,
+U.S. dollar
+scf pipeline, stabilization, or production)
+Standard cubic feet negatively affect the score, whereas
+Units of measurement
+delays caused by conditions that are
+Barrel (bbl) tscf beyond the Company’s control, such as
+Barrels of crude oil, condensate or Trillion standard cubic feet adverse weather, are not considered. A
+refined products score of less than 100 percent indicates
+Technical terms there were issues that negatively
+boe impacted reliability.
+CO
+Barrels of oil equivalent 2
+Carbon dioxide.
+Scope 1 greenhouse gas (GHG)
+bpd emissions
+Condensate
+Barrels per day Direct emissions, which include GHG
+Light hydrocarbon substances produced
+emissions from onsite fuel combustion,
+with raw gas which condenses into
+bscf flaring, venting, and fugitive emissions.
+liquid at normal temperatures and
+Billion standard cubic feet
+pressures associated with surface
+Scope 2 greenhouse gas (GHG)
+production equipment.
+bscfd emissions
+Billion standard cubic feet per day Indirect emissions, which account for
+Hydrocarbons
+GHG emissions from offsite power
+Crude oil and other hydrogen and
+GW generation including electricity and
+carbon compounds in liquid or gaseous
+Gigawatts steam.
+state.
+mboed
+Natural gas
+Thousand barrels of oil equivalent per
+Dry gas produced at Aramco’s gas
+day
+plants and sold within the Kingdom.
+mbpd
+NGL
+Thousand barrels per day
+Natural gas liquids, which are liquid
+or liquefied hydrocarbons produced
+mmbbl
+in the manufacture, purification and
+Million barrels
+stabilization of natural gas. For purposes
+of reserves, ethane is included in NGL.
+mmboe
+For purposes of production, ethane is
+Million barrels of oil equivalent
+reported separately and excluded from
+NGL.
+mmboed
+Million barrels of oil equivalent per day
+mmbpd
+Million barrels per day
+mmBTU
+Million British thermal units
+mmscf
+Million standard cubic feet
+mmscfd
+Million standard cubic feet per day
+8
+[Page 9]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+Terms and abbreviations Glossary
+Affiliate H SABIC
+Except with respect to financial Hijri calendar. Saudi Basic Industries Corporation.
+information, the term Affiliate means
+a person who controls another person IAS SABIC Agri-Nutrients
+or is controlled by that other person, or International Accounting Standard(s). SABIC Agri-Nutrients, a Saudi joint stock
+who is under common control with that company and a non-wholly owned
+person by a third person. In any of the IFRS subsidiary of Aramco.
+preceding, control could be direct or International Financial Reporting
+indirect. Standard(s) that are endorsed in the SASREF
+Kingdom and other standards and Saudi Aramco Jubail Refinery Company,
+With respect to financial information, pronouncements endorsed by SOCPA. a subsidiary of Aramco, formerly
+the term Affiliate means the Company’s known as Saudi Aramco Shell Refinery
+subsidiaries, joint arrangements and Joint arrangement Company.
+associate, each as defined by IFRS. As defined by IFRS, refers to either a
+joint operation or a joint venture. SATORP
+Associate Saudi Aramco Total Refining and
+As defined by IFRS, means an entity Joint operation Petrochemical Company, a joint venture
+over which the Company has significant As defined by IFRS, arises where the established by Aramco and Total
+influence but does not control, investors have rights to the assets and Refining Saudi Arabia SAS in 2008.
+generally reflected by a shareholding obligations for the liabilities of a joint
+of between 20% and 50% of the voting arrangement. Saudi Aramco/Aramco
+rights. Significant influence is the Saudi Arabian Oil Company, together
+power to participate in the financial Joint venture with its consolidated subsidiaries,
+and operating policy decisions of the As defined by IFRS, means a type and where the context requires, its
+investee but is not control or joint of joint arrangement whereby the joint operations, joint ventures and
+control over those policies. parties that have joint control of the associates.
+arrangement have rights to the net
+Company assets of the joint arrangement. Any reference to “us”, “we” or “our”
+Saudi Arabian Oil Company. refers to Saudi Aramco / Aramco except
+Kingdom where otherwise stated.
+Control Kingdom of Saudi Arabia.
+As defined by IFRS, a company controls Unless otherwise stated, the text does
+an entity when it is exposed to, or MENA not distinguish between the activities
+has rights to, variable returns from its Middle East and North Africa. and operations of the Company and
+involvement with the entity and has the those of its subsidiaries.
+ability to affect those returns through its MSC
+power over the entity. Maximum Sustainable Capacity, the Shareholder
+average maximum number of barrels Any holder of shares.
+COVID-19 per day of crude oil that can be
+The coronavirus disease 2019. produced for one year during any SOCPA
+future planning period, after taking Saudi Organization for Chartered and
+Domestic into account all planned capital Professional Accountants.
+Refers to the Kingdom of Saudi Arabia. expenditures and maintenance, repair
+and operating costs, and after being
+EBIT given three months to make operational
+Earnings (losses) before interest, income adjustments. The MSC excludes Aramco
+taxes and zakat. Gulf Operations Company Ltd.’s crude
+oil production capacity.
+General Assembly
+Any Ordinary General Assembly or PIF
+Extraordinary General Assembly. Public Investment Fund of Saudi Arabia.
+Government ROACE
+The Government of the Kingdom (and Return on average capital employed.
+“Governmental” shall be interpreted
+accordingly).
+9
+[Page 10]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+Disclaimer
+This Interim Report may contain certain • Climate change concerns and related We undertake no obligation to
+forward-looking statements with impacts on the global demand for update or revise any forward-looking
+respect to Aramco’s financial position, hydrocarbons and hydrocarbon-based statement, whether as a result of new
+results of operations and business and products, as well as risks related to information, future events or otherwise.
+Aramco’s ESG goals and targets;
+certain of Aramco’s plans, intentions, All subsequent written and oral
+expectations, assumptions, goals and • Conditions affecting the forward-looking statements attributable
+beliefs regarding such items. These transportation of products; to us or to persons acting on our behalf
+statements include all matters that are expressly qualified in their entirety
+• Operational risk and hazards common
+are not historical fact and generally, by the cautionary statements referred to
+in the oil and gas, refining and
+but not always, may be identified by above and contained elsewhere in this
+petrochemicals industries;
+the use of words such as “believes”, Interim Report.
+“expects”, “are expected to”, • The cyclical nature of the oil and
+“anticipates”, “intends”, “estimates”, gas, refining and petrochemicals Aramco’s financial information herein
+industries;
+“should”, “will”, “shall”, “may”, “is has been extracted from Aramco’s
+likely to”, “plans”, “outlook” or similar • Terrorism and armed conflict, political condensed consolidated interim
+expressions, including variations and and social instability and unrest, and financial report for the three and
+the negatives thereof or comparable actual or potential armed conflicts in nine month periods ended September
+terminology. the MENA region and other areas; 30, 2022, which is prepared and
+• Managing Aramco’s growth and presented in accordance with IAS
+Investors and prospective investors 34, that is endorsed in the Kingdom
+risks related to its strategic growth
+should be aware that forward-looking objectives; of Saudi Arabia and other standards
+statements are not guarantees of future and pronouncements issued by the
+• Risks in connection with projects
+performance and that Aramco’s actual Saudi Organization for Chartered and
+under development and recent and
+financial position, results of operations Professional Accountants (“SOCPA”).
+future acquisitions and joint ventures,
+and business and the development of
+including with respect to SABIC;
+the industries in which it operates may In addition, this document includes
+differ significantly from those made • Aramco’s dependence on the certain “non-IFRS financial measures.”
+in or suggested by these forward- reliability and security of its IT systems; These measures are not recognized
+looking statements. In addition, even • Managing Aramco’s subsidiaries, joint measures under IFRS and do not have
+if Aramco’s financial position, results operations, joint ventures, associates standardized meanings prescribed
+of operations and business and the and entities in which it holds a by IFRS. Rather, these measures are
+development of the industries in which minority interest; provided as additional information
+it operates are consistent with these to complement IFRS measures by
+• Aramco’s exposure to interest rate risk
+forward-looking statements, those providing further understanding of
+and foreign exchange risk;
+results or developments may not be Aramco’s results of operations, cash
+indicative of results or developments in • Risks related to operating in a flow and financial position from
+subsequent periods. regulated industry and changes management’s perspective. Accordingly,
+to oil, gas, environmental or other they should not be considered in
+regulations that impact the industries
+Factors that could cause actual results isolation or as a substitute for analysis
+in which Aramco operates;
+to differ materially from Aramco’s of Aramco’s financial information
+expectations are contained in • Risks related to litigation, including reported under IFRS.
+cautionary statements in this Interim international trade litigation, disputes
+Report and include, among other or agreements; and A reconciliation of non-IFRS measures
+things, the following: • Risks related to the Kingdom. is included in the Non-IFRS measures
+• Supply, demand and price fluctuations reconciliations and definitions section of
+this Interim Report.
+with respect to oil and gas, and
+Disclaimer – Risk Factors
+Aramco’s other products;
+• Global economic market conditions; For a discussion of our risk factors,
+please see Aramco’s Annual Report
+• Natural disasters and public health
+2021, available through the investor
+pandemics or epidemics (such as
+relations section of Aramco’s website at
+COVID-19), and weather conditions
+www.aramco.com/en/investors/reports-
+(including those associated with
+climate change); and-presentations.
+• Competition in the industries in which
+Aramco operates;
+10
+[Page 12]
+Report on review of the condensed consolidated interim financial
+report
+To the shareholders of Saudi Arabian Oil Company
+Introduction
+We have reviewed the accompanying condensed consolidated balance sheet of Saudi Arabian Oil Company
+and its subsidiaries as at September 30, 2022 and the related condensed consolidated statements of income,
+comprehensive income and cash flows for the three-month and nine-month periods then ended and the
+related condensed consolidated statement of changes in equity for the nine-month period then ended and
+other explanatory notes (the “condensed consolidated interim financial report”). Management is
+responsible for the preparation and presentation of this condensed consolidated interim financial report in
+accordance with International Accounting Standard 34, ‘Interim Financial Reporting’, that is endorsed in
+the Kingdom of Saudi Arabia. Our responsibility is to express a conclusion on this condensed consolidated
+interim financial report based on our review.
+Scope of review
+We conducted our review in accordance with International Standard on Review Engagements 2410, ‘Review
+of interim financial information performed by the independent auditor of the entity’, that is endorsed in the
+Kingdom of Saudi Arabia. A review of interim financial information consists of making inquiries, primarily
+of persons responsible for financial and accounting matters, and applying analytical and other review
+procedures. A review is substantially less in scope than an audit conducted in accordance with International
+Standards on Auditing, that are endorsed in the Kingdom of Saudi Arabia, and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might be identified in an
+audit. Accordingly, we do not express an audit opinion.
+Conclusion
+Based on our review, nothing has come to our attention that causes us to believe that the accompanying
+condensed consolidated interim financial report is not prepared, in all material respects, in accordance with
+International Accounting Standard 34, ‘Interim Financial Reporting’, that is endorsed in the Kingdom of
+Saudi Arabia.
+PricewaterhouseCoopers
+Omar M. Al Sagga
+License Number 369
+October 31, 2022
+PricewaterhouseCoopers, License No. 25, Saudi Aramco, P.O. Box 1659, Dhahran 31311, Kingdom of Saudi Arabia
+T: +966 (13) 873-6800, F: +966 (13) 873-8883, www.pwc.com/middle-east
+[Page 13]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of income
+SAR USD*
+3rd quarter 3rd quarter Nine months Nine months 3rd quarter 3rd quarter Nine months Nine months
+Note 2022 2021 2022 2021 2022 2021 2022 2021
+Revenue 10 543,712 359,092 1,572,783 943,517 144,990 95,758 419,409 251,605
+Other income related to sales 70,223 46,290 206,422 111,972 18,726 12,344 55,046 29,859
+Revenue and other income related to
+sales 613,935 405,382 1,779,205 1,055,489 163,716 108,102 474,455 281,464
+Royalties and other taxes (91,177) (39,282) (271,393) (94,589) (24,314) (10,475) (72,372) (25,224)
+Purchases (148,856) (96,936) (400,203) (258,641) (39,694) (25,850) (106,720) (68,971)
+Producing and manufacturing (29,219) (19,555) (69,012) (49,984) (7,792) (5,214) (18,403) (13,329)
+Selling, administrative and general (19,615) (12,411) (63,919) (39,118) (5,231) (3,309) (17,045) (10,431)
+Exploration (1,401) (1,375) (4,550) (3,430) (374) (367) (1,214) (915)
+Research and development (939) (888) (2,805) (2,626) (251) (237) (748) (700)
+Depreciation and amortization 5,6 (22,494) (22,129) (64,895) (63,293) (5,998) (5,901) (17,305) (16,878)
+Operating costs (313,701) (192,576) (876,777) (511,681) (83,654) (51,353) (233,807) (136,448)
+Operating income 300,234 212,806 902,428 543,808 80,062 56,749 240,648 145,016
+Share of results of joint ventures and
+associates 130 1,872 4,946 6,103 34 499 1,318 1,627
+Finance and other income 4,008 397 9,888 1,305 1,069 105 2,637 348
+Finance costs (2,093) (2,917) (7,372) (9,002) (558) (777) (1,966) (2,400)
+Income before income taxes and zakat 302,279 212,158 909,890 542,214 80,607 56,576 242,637 144,591
+Income taxes and zakat 7 (143,164) (98,065) (421,106) (251,216) (38,177) (26,151) (112,295) (66,991)
+Net income 159,115 114,093 488,784 290,998 42,430 30,425 130,342 77,600
+Net income attributable to
+Shareholders' equity 156,068 109,072 471,875 278,564 41,618 29,086 125,833 74,284
+Non-controlling interests 3,047 5,021 16,909 12,434 812 1,339 4,509 3,316
+159,115 114,093 488,784 290,998 42,430 30,425 130,342 77,600
+Earnings per share (basic and diluted) 18 0.71 0.50 2.15 1.27 0.19 0.13 0.57 0.34
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Chief Financial Officer & Controller
+President & Chief Executive Officer Senior Vice President
+13
+[TABLE DATA]
+| 359,092
+46,290 |
+543,712 |  | 1,572,783
+70,223 |  | 206,422
+| 405,382 |
+613,935 |  | 1,779,205
+(91,177) | (39,282)
+(96,936)
+(19,555)
+(12,411)
+(1,375)
+(888)
+(22,129) | (271,393)
+(148,856) |  | (400,203)
+(29,219) |  | (69,012)
+(19,615) |  | (63,919)
+(1,401) |  | (4,550)
+(939) |  | (2,805)
+(22,494) |  | (64,895)
+(313,701) | (192,576) | (876,777)
+300,234 | 212,806
+1,872
+397
+(2,917) | 902,428
+|  |
+130 |  | 4,946
+4,008 |  | 9,888
+(2,093) |  | (7,372)
+302,279 | 212,158
+(98,065) | 909,890
+(143,164) |  | (421,106)
+159,115 | 114,093 | 488,784
+| 109,072
+5,021 |
+|  |
+156,068 |  | 471,875
+3,047 |  | 16,909
+159,115 | 114,093 | 488,784
+| 0.50 |
+0.71 |  | 2.15
+| 95,758
+12,344 |
+144,990 |  | 419,409
+18,726 |  | 55,046
+| 108,102 |
+163,716 |  | 474,455
+(24,314) | (10,475)
+(25,850)
+(5,214)
+(3,309)
+(367)
+(237)
+(5,901) | (72,372)
+(39,694) |  | (106,720)
+(7,792) |  | (18,403)
+(5,231) |  | (17,045)
+(374) |  | (1,214)
+(251) |  | (748)
+(5,998) |  | (17,305)
+(83,654) | (51,353) | (233,807)
+80,062 | 56,749
+499
+105
+(777) | 240,648
+|  |
+34 |  | 1,318
+1,069 |  | 2,637
+(558) |  | (1,966)
+80,607 | 56,576
+(26,151) | 242,637
+(38,177) |  | (112,295)
+42,430 | 30,425 | 130,342
+| 29,086
+1,339 |
+|  |
+41,618 |  | 125,833
+812 |  | 4,509
+42,430 | 30,425 | 130,342
+| 0.13 |
+0.19 |  | 0.57
+[Page 14]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of comprehensive income
+SAR USD*
+3rd quarter 3rd quarter Nine months Nine months 3rd quarter 3rd quarter Nine months Nine months
+Note 2022 2021 2022 2021 2022 2021 2022 2021
+Net income 159,115 114,093 488,784 290,998 42,430 30,425 130,342 77,600
+Other comprehensive income (loss),
+net of tax 8
+Items that will not be reclassified to
+net income
+Remeasurement of post-
+employment benefits 4,774 8 21,318 10,801 1,273 2 5,685 2,880
+Share of post-employment benefits
+remeasurement from joint
+ventures and associates 180 256 48 68
+Changes in fair value of equity
+investments classified as fair ‑ ‑ ‑ ‑
+value through other
+comprehensive income (131) 814 (205) 1,667 (34) 217 (54) 444
+Items that may be reclassified
+subsequently to net income
+Cash flow hedges and other 268 20 1,234 (25) 71 6 329 (6)
+Changes in fair value of debt
+securities classified as fair value
+through other comprehensive
+income (86) (4) (465) (495) (23) (1) (124) (132)
+Share of other comprehensive (loss)
+income of joint ventures and
+associates (580) 101 (649) (310) (155) 27 (173) (83)
+Currency translation differences (3,953) (1,742) (8,170) (2,304) (1,054) (465) (2,179) (614)
+472 (803) 13,319 9,334 126 (214) 3,552 2,489
+Total comprehensive income 159,587 113,290 502,103 300,332 42,556 30,211 133,894 80,089
+Total comprehensive income
+attributable to
+Shareholders' equity 157,008 109,112 486,103 288,798 41,868 29,096 129,627 77,013
+Non-controlling interests 2,579 4,178 16,000 11,534 688 1,115 4,267 3,076
+159,587 113,290 502,103 300,332 42,556 30,211 133,894 80,089
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Chief Financial Officer & Controller
+President & Chief Executive Officer Senior Vice President
+14
+[TABLE DATA]
+| 114,093
+8
+‑
+814
+20
+(4)
+101
+(1,742) |
+159,115 |  | 488,784
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+4,774 |  | 21,318
+|  |
+180 |  | 256
+|  |
+(131) |  | (205)
+|  |
+|  |
+268 |  | 1,234
+|  |
+(86) |  | (465)
+|  |
+(580) |  | (649)
+(3,953) |  | (8,170)
+472 | (803) | 13,319
+159,587 | 113,290 | 502,103
+| 109,112
+4,178 |
+|  |
+|  |
+157,008 |  | 486,103
+2,579 |  | 16,000
+159,587 | 113,290 | 502,103
+| 30,425
+2
+‑
+217
+6
+(1)
+27
+(465) |
+42,430 |  | 130,342
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+1,273 |  | 5,685
+|  |
+48 |  | 68
+|  |
+(34) |  | (54)
+|  |
+|  |
+71 |  | 329
+|  |
+(23) |  | (124)
+|  |
+(155) |  | (173)
+(1,054) |  | (2,179)
+126 | (214) | 3,552
+42,556 | 30,211 | 133,894
+| 29,096
+1,115 |
+|  |
+|  |
+41,868 |  | 129,627
+688 |  | 4,267
+42,556 | 30,211 | 133,894
+[Page 15]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated balance sheet
+SAR USD*
+September 30, December 31, September 30, December 31,
+Note 2022 2021 2022 2021
+Assets
+Non-current assets
+Property, plant and equipment 5 1,273,904 1,244,316 339,707 331,818
+Intangible assets 6 161,586 160,668 43,090 42,845
+Investments in joint ventures and associates 75,424 69,559 20,113 18,549
+Deferred income tax assets 13,490 14,969 3,597 3,992
+Post-employment benefits 22,587 6,023
+Other assets and receivables 31,838 37,776 8,490 10,073
+Investments in securities 24,606 24,161‑ 6,562 6,443‑
+1,603,435 1,551,449 427,582 413,720
+Current assets
+Inventories 107,808 74,703 28,749 19,921
+Trade receivables 194,557 140,373 51,882 37,433
+Due from the Government 72,680 41,317 19,381 11,018
+Other assets and receivables 32,268 28,196 8,605 7,519
+Short-term investments 171,126 27,073 45,634 7,219
+Cash and cash equivalents 274,710 299,579 73,256 79,888
+853,149 611,241 227,507 162,998
+Total assets 2,456,584 2,162,690 655,089 576,718
+Equity and liabilities
+Shareholders' equity
+Share capital 75,000 60,000 20,000 16,000
+Additional paid-in capital 26,981 26,981 7,195 7,195
+Treasury shares (2,384) (2,828) (636) (754)
+Retained earnings:
+Unappropriated 1,283,766 1,018,443 342,338 271,585
+Appropriated 6,000 6,000 1,600 1,600
+Other reserves 8 (345) 4,661 (92) 1,243
+1,389,018 1,113,257 370,405 296,869
+Non-controlling interests 229,194 167,411 61,118 44,643
+1,618,212 1,280,668 431,523 341,512
+Non-current liabilities
+Borrowings 9 319,952 436,371 85,320 116,366
+Deferred income tax liabilities 103,433 74,850 27,583 19,960
+Post-employment benefits 30,533 40,729 8,142 10,861
+Provisions and other liabilities 29,651 26,244 7,907 6,998
+483,569 578,194 128,952 154,185
+Current liabilities
+Trade and other payables 138,903 124,689 37,041 33,251
+Obligations to the Government:
+Income taxes and zakat 7 119,971 90,525 31,992 24,140
+Royalties 25,608 14,064 6,829 3,750
+Borrowings 9 70,321 74,550 18,752 19,880
+354,803 303,828 94,614 81,021
+Total liabilities 838,372 882,022 223,566 235,206
+Total equity and liabilities 2,456,584 2,162,690 655,089 576,718
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Chief Financial Officer & Controller
+President & Chief Executive Officer Senior Vice President
+15
+[TABLE DATA]
+1,273,904
+161,586
+75,424
+13,490
+22,587
+31,838
+24,606
+1,603,435
+107,808
+194,557
+72,680
+32,268
+171,126
+274,710
+853,149
+2,456,584
+75,000
+26,981
+(2,384)
+1,283,766
+6,000
+(345)
+1,389,018
+229,194
+1,618,212
+319,952
+103,433
+30,533
+29,651
+483,569
+138,903
+119,971
+25,608
+70,321
+354,803
+838,372
+2,456,584
+339,707
+43,090
+20,113
+3,597
+6,023
+8,490
+6,562
+427,582
+28,749
+51,882
+19,381
+8,605
+45,634
+73,256
+227,507
+655,089
+20,000
+7,195
+(636)
+342,338
+1,600
+(92)
+370,405
+61,118
+431,523
+85,320
+27,583
+8,142
+7,907
+128,952
+37,041
+31,992
+6,829
+18,752
+94,614
+223,566
+655,089
+[Page 16]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of changes in equity
+SAR USD*
+Shareholders' equity
+Retained earnings
+Additional Other reserves Non-controlling
+Share capital paid-in capital Treasury shares Unappropriated Appropriated (Note 8) interests Total Total
+Balance at January 1, 2021 60,000 26,981 (3,264) 895,273 6,000 5,858 110,246 1,101,094 293,625
+Net income 278,564 12,434 290,998 77,600
+Other comprehensive income (loss) 10,234 (900) 9,334 2,489
+‑ ‑ ‑ ‑ ‑
+Total comprehensive income 278,564 10,234 11,534 300,332 80,089
+‑ ‑ ‑ ‑ ‑
+Transfer of post-employment benefits
+‑ ‑ ‑ ‑
+remeasurement 10,435 (10,435)
+Treasury shares issued to employees 312 (5) (68) 239 64
+‑ ‑ ‑ ‑ ‑ ‑ ‑
+Share-based compensation (11) 164 153 41
+‑ ‑ ‑ ‑
+Dividends (Note 18) (210,977) (210,977) (56,261)
+‑ ‑ ‑ ‑ ‑
+Sale of non-controlling equity interest in
+‑ ‑ ‑ ‑ ‑ ‑
+a subsidiary 46,547 46,547 12,412
+Change in ownership interest of a
+‑ ‑ ‑ ‑ ‑ ‑
+subsidiary (679) 679
+Dividends to non-controlling interests
+‑ ‑ ‑ ‑ ‑ ‑ ‑
+and other (5,984) (5,984) (1,595)
+‑ ‑ ‑ ‑ ‑ ‑
+Balance at September 30, 2021 60,000 26,981 (2,952) 972,600 6,000 5,753 163,022 1,231,404 328,375
+Balance at January 1, 2022 60,000 26,981 (2,828) 1,018,443 6,000 4,661 167,411 1,280,668 341,512
+Net income 471,875 16,909 488,784 130,342
+Other comprehensive income (loss) 14,228 (909) 13,319 3,552
+‑ ‑ ‑ ‑ ‑
+Total comprehensive income 471,875 14,228 16,000 502,103 133,894
+‑ ‑ ‑ ‑ ‑
+Transfer of post-employment benefits
+‑ ‑ ‑ ‑
+remeasurement (Note 8) 19,235 (19,235)
+Transfer of share of post-employment
+‑ ‑ ‑ ‑ ‑ ‑ ‑
+benefits remeasurement from joint
+ventures and associates (Note 8) 256 (256)
+Treasury shares issued to employees 444 (49) 18 413 110
+‑ ‑ ‑ ‑ ‑ ‑ ‑
+Share-based compensation (3) 239 236 63
+‑ ‑ ‑ ‑
+Dividends (Note 18) (210,988) (210,988) (56,263)
+‑ ‑ ‑ ‑ ‑
+Bonus shares issued (Note 18) 15,000 (15,000)
+‑ ‑ ‑ ‑ ‑ ‑
+Sale of non-controlling equity interest in
+‑ ‑ ‑ ‑ ‑ ‑ ‑
+a subsidiary (Note 16) 58,125 58,125 15,500
+Acquisition of non-controlling interests
+‑ ‑ ‑ ‑ ‑ ‑
+in subsidiaries (Note 17(g)) (3) (227) (230) (62)
+Dividends to non-controlling interests
+‑ ‑ ‑ ‑ ‑
+and other (12,115) (12,115) (3,231)
+‑ ‑ ‑ ‑ ‑ ‑
+Balance at September 30, 2022 75,000 26,981 (2,384) 1,283,766 6,000 (345) 229,194 1,618,212 431,523
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Chief Financial Officer & Controller
+President & Chief Executive Officer Senior Vice President
+16
+[TABLE DATA]
+60,000 | 26,981 | (2,828) | 1,018,443 | 6,000 | 4,661 | 167,411 | 1,280,668
+|  |  | 471,875 |  |  | 16,909 | 488,784
+|  |  |  |  | 14,228 | (909) | 13,319
+‑ | ‑ | ‑ | 471,875 | ‑ | ‑
+14,228 | 16,000 | 502,103
+‑ | ‑ | ‑ | ‑ | ‑ |  |  |
+‑ | ‑ | ‑ | 19,235 | ‑ | (19,235) |  |
+‑ | ‑ | ‑ |  | ‑ |  | ‑ | ‑
+|  |  | 256 |  | (256) |  |
+|  | 444 | (49) |  | 18 |  | 413
+‑ | ‑ | ‑ | (3) | ‑ | 239 | ‑ | ‑
+236
+‑ | ‑ |  | (210,988) | ‑ |  | ‑ | (210,988)
+‑
+15,000 | ‑ | ‑ | (15,000) | ‑ |  | ‑ |
+‑ | ‑ | ‑ |  | ‑ | ‑ | ‑ |
+| ‑ | ‑ |  | ‑ | ‑ | ‑
+58,125 | ‑
+58,125
+|  |  |  |  |  |  |
+‑ | ‑ | ‑ | ‑
+(3) | ‑ | ‑ | (227) | (230)
+|  |  |  |  |  |  |
+‑ | ‑ | ‑ |  | ‑ | ‑ | (12,115) | (12,115)
+|  |  |  |  |  |  |
+‑
+75,000 | ‑
+26,981 | ‑
+(2,384) | ‑
+1,283,766 | ‑
+6,000 | ‑
+(345) | 229,194 | 1,618,212
+341,512
+130,342
+3,552
+133,894
+‑
+110
+‑
+63
+(56,263)
+‑
+15,500
+(62)
+(3,231)
+431,523
+[Page 17]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+Condensed consolidated statement of cash flows
+SAR USD*
+3rd quarter 3rd quarter Nine months Nine months 3rd quarter 3rd quarter Nine months Nine months
+Note 2022 2021 2022 2021 2022 2021 2022 2021
+Income before income taxes and zakat 302,279 212,158 909,890 542,214 80,607 56,576 242,637 144,591
+Adjustments to reconcile income before income taxes
+and zakat to net cash provided by operating
+activities
+Depreciation and amortization 5,6 22,494 22,129 64,895 63,293 5,998 5,901 17,305 16,878
+Exploration and evaluation costs written off 183 287 654 715 48 77 174 191
+Loss on disposal of property, plant and equipment 476 1,894 127 505
+Share of results of joint ventures and associates (130) (1,872) (4,946) (6,103) (34) (499) (1,318) (1,627)
+Finance income (2,562) (331‑) (7,644) (967‑) (683) (88‑) (2,038) (258‑)
+Finance costs 2,093 2,917 7,372 9,002 558 777 1,966 2,400
+Dividends from investments in securities (234) (71) (540) (327) (62) (19) (144) (87)
+Change in fair value of investments through profit or
+loss 157 9 428 554 42 2 114 148
+Change in joint ventures and associates inventory
+profit elimination (208) (67) (282) 270 (56) (18) (76) 72
+Other 310 (1,414) (8) (387) 83 (377) (2) (103)
+Change in working capital
+Inventories 8,465 (6,076) (33,105) (17,928) 2,257 (1,620) (8,828) (4,780)
+Trade receivables 26,286 (9,925) (54,184) (49,996) 7,009 (2,647) (14,449) (13,333)
+Due from the Government 14,010 (8,355) (31,363) (18,032) 3,737 (2,228) (8,363) (4,809)
+Other assets and receivables 2,096 (1,256) (2,867) (3,667) 559 (335) (765) (978)
+Trade and other payables (17,329) 7,404 13,667 22,203 (4,622) 1,975 3,644 5,921
+Royalties payable (20,103) 1,359 11,544 4,882 (5,360) 362 3,079 1,302
+Other changes
+Other assets and receivables (280) 591 2,957 (492) (75) 157 788 (132)
+Provisions and other liabilities 3,552 8 3,126 243 947 3 834 65
+Post-employment benefits 1,139 (378) 3,401 1,613 304 (101) 907 430
+Settlement of income, zakat and other taxes 7(c) (140,182) (80,913) (374,192) (198,854) (37,381) (21,577) (99,784) (53,028)
+Net cash provided by operating activities 202,512 136,204 510,697 348,236 54,003 36,321 136,186 92,863
+Capital expenditures 4 (33,895) (28,466) (97,423) (87,292) (9,038) (7,591) (25,979) (23,278)
+Acquisition of affiliates, net of cash acquired 17(e) (402) (107)
+Distributions from joint ventures and associates 1,092 1,972 3,047 2,891 292 526 813 771
+Additional investments in joint ventures and ‑ ‑ ‑ ‑ ‑ ‑
+associates (296) (262) (1,396) (438) (79) (70) (372) (117)
+Dividends from investments in securities 234 71 540 327 62 19 144 87
+Interest received 1,782 252 3,060 754 475 67 816 201
+Net investments in securities (899) (723) (1,943) (1,731) (240) (192) (519) (461)
+Net purchases of short-term investments (75,638) (2,984) (144,053) (2,941) (20,171) (796) (38,415) (784)
+Net cash used in investing activities (107,620) (30,140) (238,570) (88,430) (28,699) (8,037) (63,619) (23,581)
+Dividends paid to shareholders of the Company 18 (70,329) (70,327) (210,988) (210,977) (18,754) (18,754) (56,263) (56,261)
+Dividends paid to non-controlling interests in
+subsidiaries (2,807) (95) (9,757) (3,069) (749) (25) (2,602) (818)
+Proceeds from sale of non-controlling equity interest
+in a subsidiary 16 58,125 46,547 15,500 12,412
+Acquisition of non-controlling interests in subsidiaries 17(g) (49) (230) (14) (62)
+Proceeds from issue of treasury shares 145‑ 81‑ 408 273 39‑ 21‑ 109 73
+Proceeds from borrowings 248 913‑ 5,089 24,279‑ 67 244‑ 1,357 6,475‑
+Repayments of borrowings (3,263) (3,604) (123,255) (27,012) (870) (962) (32,868) (7,204)
+Principal portion of lease payments (3,082) (2,967) (9,045) (8,873) (822) (791) (2,412) (2,366)
+Interest paid (2,020) (1,419) (7,343) (5,967) (538) (378) (1,958) (1,591)
+Net cash used in financing activities (81,157) (77,418) (296,996) (184,799) (21,641) (20,645) (79,199) (49,280)
+Net increase (decrease) in cash and cash equivalents 13,735 28,646 (24,869) 75,007 3,663 7,639 (6,632) 20,002
+Cash and cash equivalents at beginning of the period 260,975 253,593 299,579 207,232 69,593 67,625 79,888 55,262
+Cash and cash equivalents at end of the period 274,710 282,239 274,710 282,239 73,256 75,264 73,256 75,264
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Amin H. Nasser Ziad T. Al Murshed Bassam M. Asiri
+Director, Chief Financial Officer & Controller
+President & Chief Executive Officer Senior Vice President
+17
+[TABLE DATA]
+302,279 | 212,158
+22,129
+287
+(1,872)
+(331‑)
+2,917
+(71)
+9
+(67)
+(1,414)
+(6,076)
+(9,925)
+(8,355)
+(1,256)
+7,404
+1,359
+591
+8
+(378)
+(80,913) | 909,890
+|  |
+|  |
+22,494 |  | 64,895
+183 |  | 654
+476 |  | 1,894
+(130) |  | (4,946)
+(2,562) |  | (7,644)
+2,093 |  | 7,372
+(234) |  | (540)
+|  |
+157 |  | 428
+|  |
+(208) |  | (282)
+310 |  | (8)
+|  |
+8,465 |  | (33,105)
+26,286 |  | (54,184)
+14,010 |  | (31,363)
+2,096 |  | (2,867)
+(17,329) |  | 13,667
+(20,103) |  | 11,544
+|  |
+(280) |  | 2,957
+3,552 |  | 3,126
+1,139 |  | 3,401
+(140,182) |  | (374,192)
+202,512 | 136,204 | 510,697
+| (28,466)
+1,972
+‑
+(262)
+71
+252
+(723)
+(2,984) |
+(33,895) |  | (97,423)
+|  | (402)
+1,092 |  | 3,047
+‑ |  |
+(296) |  | (1,396)
+234 |  | 540
+1,782 |  | 3,060
+(899) |  | (1,943)
+(75,638) |  | (144,053)
+(107,620) | (30,140) | (238,570)
+| (70,327)
+(95)
+81‑
+913‑
+(3,604)
+(2,967)
+(1,419) |
+(70,329) |  | (210,988)
+|  |
+(2,807) |  | (9,757)
+|  |
+|  | 58,125
+(49) |  | (230)
+145‑ |  | 408
+248 |  | 5,089
+(3,263) |  | (123,255)
+(3,082) |  | (9,045)
+(2,020) |  | (7,343)
+(81,157) | (77,418) | (296,996)
+| 28,646
+253,593 |
+13,735 |  | (24,869)
+260,975 |  | 299,579
+274,710 | 282,239 | 274,710
+80,607 | 56,576
+5,901
+77
+(499)
+(88‑)
+777
+(19)
+2
+(18)
+(377)
+(1,620)
+(2,647)
+(2,228)
+(335)
+1,975
+362
+157
+3
+(101)
+(21,577) | 242,637
+|  |
+|  |
+5,998 |  | 17,305
+48 |  | 174
+127 |  | 505
+(34) |  | (1,318)
+(683) |  | (2,038)
+558 |  | 1,966
+(62) |  | (144)
+|  |
+42 |  | 114
+|  |
+(56) |  | (76)
+83 |  | (2)
+|  |
+2,257 |  | (8,828)
+7,009 |  | (14,449)
+3,737 |  | (8,363)
+559 |  | (765)
+(4,622) |  | 3,644
+(5,360) |  | 3,079
+|  |
+(75) |  | 788
+947 |  | 834
+304 |  | 907
+(37,381) |  | (99,784)
+54,003 | 36,321 | 136,186
+| (7,591)
+526
+‑
+(70)
+19
+67
+(192)
+(796) |
+(9,038) |  | (25,979)
+|  | (107)
+292 |  | 813
+‑ |  |
+(79) |  | (372)
+62 |  | 144
+475 |  | 816
+(240) |  | (519)
+(20,171) |  | (38,415)
+(28,699) | (8,037) | (63,619)
+| (18,754)
+(25)
+21‑
+244‑
+(962)
+(791)
+(378) |
+(18,754) |  | (56,263)
+|  |
+(749) |  | (2,602)
+|  |
+|  | 15,500
+(14) |  | (62)
+39‑ |  | 109
+67 |  | 1,357
+(870) |  | (32,868)
+(822) |  | (2,412)
+(538) |  | (1,958)
+(21,641) | (20,645) | (79,199)
+| 7,639
+67,625 |
+3,663 |  | (6,632)
+69,593 |  | 79,888
+73,256 | 75,264 | 73,256
+[Page 18]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+Notes to the condensed consolidated interim financial report
+1.General information
+The Saudi Arabian Oil Company (the “Company”), with headquarters located in Dhahran, Kingdom of Saudi Arabia (the “Kingdom”), is engaged in
+prospecting, exploring, drilling and extracting hydrocarbon substances (“Upstream”) and processing, manufacturing, refining and marketing these
+hydrocarbon substances (“Downstream”). The Company was formed on November 13, 1988 by Royal Decree No. M/8; however, its history dates
+back to May 29, 1933 when the Saudi Arabian Government (the “Government”) granted a concession to the Company’s predecessor for the right
+to, among other things, explore the Kingdom for hydrocarbons. Effective January 1, 2018, Council of Minister’s Resolution No. 180, dated
+1/4/1439H (December 19, 2017), converted the Company to a Saudi Joint Stock Company with new Bylaws.
+On December 11, 2019, the Company completed its Initial Public Offering (“IPO”) and its ordinary shares were listed on the Saudi Stock Exchange
+(“Tadawul”). In connection with the IPO, the Government, being the sole owner of the Company’s shares at such time, sold an aggregate of 3.45
+billion ordinary shares, or 1.73% of the Company’s share capital.
+On February 13, 2022, the Government transferred 8 billion ordinary shares, or 4% of the Company’s share capital, to the Public Investment Fund
+(“PIF”), the sovereign wealth fund of the Kingdom. Following the transfer, the Government remains the Company’s largest shareholder, retaining
+a 94.19% direct shareholding.
+The condensed consolidated interim financial report of the Company and its subsidiaries (together “Saudi Aramco”) was approved by the Board
+of Directors on October 31, 2022.
+2.Basis of preparation and other significant accounting policies
+The condensed consolidated interim financial report has been prepared in accordance with International Accounting Standard 34 (“IAS 34”),
+Interim Financial Reporting, that is endorsed in the Kingdom, and other standards and pronouncements issued by the Saudi Organization for
+Chartered and Professional Accountants (“SOCPA”). This condensed consolidated interim financial report is consistent with the accounting
+policies and methods of computation and presentation set out in Saudi Aramco’s consolidated financial statements for the year ended
+December 31, 2021, except for new and amended standards disclosed below.
+The results for the interim periods are unaudited and include all adjustments necessary for a fair presentation of the results for the periods
+presented. This condensed consolidated interim financial report should be read in conjunction with the consolidated financial statements and
+related notes for the year ended December 31, 2021, which have been prepared in accordance with International Financial Reporting Standards
+(“IFRS”) that are endorsed in the Kingdom, and other standards and pronouncements issued by SOCPA. The consolidated financial statements for
+the year ended December 31, 2021 are also in compliance with IFRS as issued by the International Accounting Standards Board (“IASB”).
+Translations from SAR to USD presented as supplementary information in the Condensed Consolidated Statement of Income, Condensed
+Consolidated Statement of Comprehensive Income, Condensed Consolidated Balance Sheet, Condensed Consolidated Statement of Changes in
+Equity, and Condensed Consolidated Statement of Cash Flows at September 30, 2022 and December 31, 2021 and for the three-month and
+nine-month periods ended September 30, 2022 and 2021, are for convenience and were calculated at the rate of USD 1.00 = SAR 3.75
+representing the exchange rate at the balance sheet dates.
+New or amended standards
+(i) Saudi Aramco adopted the following IASB pronouncement, as endorsed in the Kingdom, effective for annual periods beginning on or after
+January 1, 2022:
+Amendment to IAS 16, Property, Plant and Equipment
+In May 2020, the IASB issued an amendment to IAS 16, Property, Plant and Equipment, which prohibits an entity from deducting from the cost of
+an item of property, plant and equipment any proceeds from selling items produced while the entity is preparing the asset for its intended use.
+Instead, the proceeds from selling such items, and the costs of producing those items, are recognized in profit or loss. There is no material impact
+on the condensed consolidated interim financial report from adopting this amendment to IAS 16.
+(ii) Saudi Aramco has not early adopted any new accounting standards, interpretations or amendments that are issued but not yet effective.
+18
+[Page 19]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+3. Fair value estimation
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at
+the measurement date. The fair value measurement is based on the presumption that the transaction to sell the asset or transfer the liability
+takes place either in the principal market for the asset or liability or, in the absence of a principal market, in the most advantageous market for
+the asset or liability. Management believes that the fair values of Saudi Aramco’s financial assets and liabilities that are measured and recognized
+at amortized cost are not materially different from their carrying amounts at the end of the reporting period.
+The following table presents Saudi Aramco’s assets and liabilities measured and recognized at fair value at September 30, 2022 and
+December 31, 2021, based on the prescribed fair value measurement hierarchy on a recurring basis. Saudi Aramco did not measure any financial
+assets or financial liabilities at fair value on a non-recurring basis at September 30, 2022 and December 31, 2021. There were no changes made to
+any of the valuation techniques and valuation processes applied as of December 31, 2021 and changes in unobservable inputs are not expected
+to materially impact the fair values.
+Assets Level 1i Level 2ii Level 3iii Total
+September 30, 2022
+Investments in securities:
+Equity securities at Fair Value Through Other Comprehensive Income ("FVOCI") 9,414 104 1,305 10,823
+Debt securities at FVOCI 40 7,504 7,544
+Equity securities at Fair Value Through Profit or Loss ("FVPL") 288 1,365 5,592 7,245
+Debt securities at FVPL 5‑ 5
+Trade receivables related to contracts with provisional pricing arrangements 137,501 137,501
+9,742
+‑
+8,973
+‑
+144,403 163,118
+‑ ‑
+Other assets and receivables:
+Interest rate swaps 706 706
+Commodity swaps 177 5,181 8 5,366
+Currency forward contracts ‑ 72 ‑ 72
+Financial assets - option rights 2,429 2,429
+177
+‑
+5,959 2,437
+‑
+8,573
+‑ ‑
+Total assets 9,919 14,932 146,840 171,691
+December 31, 2021
+Investments in securities:
+Equity securities at FVOCI 9,134 88 1,340 10,562
+Debt securities at FVOCI 37 7,846 7,883
+Equity securities at FVPL 359 1,861 3,928 6,148
+Debt securities at FVPL 53 ‑ 53
+Trade receivables related to contracts with provisional pricing arrangements 109,440 109,440
+9,583 9,795‑ 114,708‑ 134,086
+‑ ‑
+Other assets and receivables:
+Interest rate swaps 9 9
+Commodity swaps 1,489 83 1,572
+Currency forward contracts ‑ 32 ‑ 32
+Financial assets - option rights ‑ 2,390 2,390
+‑ 1,530 2,473‑ 4,003
+‑ ‑
+Total assets 9,583 11,325 117,181 138,089
+‑
+19
+[TABLE DATA]
+10,823
+7,544
+7,245
+5
+137,501
+163,118
+706
+5,366
+72
+2,429
+8,573
+171,691
+[Page 20]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+3. Fair value estimation continued
+Liabilities Level 1i Level 2ii Level 3iii Total
+September 30, 2022
+Trade and other payables:
+Interest rate swaps 20 20
+Commodity swaps 2,661 96 2,757
+Currency forward contracts ‑ 376 ‑ 376
+Provisions and other liabilities: ‑
+Financial liability - options and forward contracts ‑ 3,477‑ 3,477
+Total liabilities 3,057 3,573 6,630
+‑ ‑
+December 31, 2021 ‑
+Trade and other payables:
+Interest rate swaps 427 427
+Commodity swaps 201 1,755 43 1,999
+Currency forward contracts ‑ 151 ‑ 151
+Provisions and other liabilities:
+Financial liability - options and forward contracts ‑ 3,301‑ 3,301
+Total liabilities 201 2,333 3,344 5,878
+‑ ‑
+i. Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+ii. Valuation techniques for which the lowest level input that is significant to the fair value measurement is directly or indirectly observable.
+iii. Valuation techniques for which the lowest level input that is significant to the fair value measurement is unobservable.
+The changes in Level 3 investments in securities for the nine-month period ended September 30, 2022 and the year ended December 31, 2021
+are as follows:
+September 30, December 31,
+2022 2021
+Beginning 5,268 4,970
+Net additions (disposals) 1,516 (5)
+Net movement in unrealized fair value 79 407
+Realized gain (loss) 39 (104)
+Ending 6,902 5,268
+The movement in trade receivables related to contracts with provisional pricing arrangements mainly relates to sales transactions, net of
+settlements, made during the period, resulting from contracts with customers (Note 10). Unrealized fair value movements on these trade
+receivables are not significant.
+The change in commodity swaps primarily relates to purchase and sales derivative contracts including recognition of a gain or loss that results
+from adjusting a derivative to fair value. Fair value movements on these commodity swaps are not significant.
+The movements in Financial assets - option rights and Financial liability - options and forward contracts, which are related to put, call and forward
+contracts on Saudi Aramco’s own equity instruments in certain subsidiaries, are due to changes in the unrealized fair value during the period.
+20
+[TABLE DATA]
+20
+2,757
+376
+3,477
+6,630
+5,268
+1,516
+79
+39
+6,902
+[Page 21]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+4. Operating segments
+Saudi Aramco is engaged in prospecting, exploring, drilling, extracting, processing, manufacturing, refining and marketing hydrocarbon
+substances within the Kingdom and has interests in refining, petrochemical, distribution, marketing and storage facilities outside the Kingdom.
+Saudi Aramco’s operating segments are established on the basis of those components that are evaluated regularly by the CEO, considered to be
+the Chief Operating Decision Maker. The Chief Operating Decision Maker monitors the operating results of Saudi Aramco’s operating segments
+separately for the purpose of making decisions about resource allocation and performance assessment. Segment performance is evaluated based
+on revenues, costs and a broad range of key performance indicators in addition to segment profitability.
+For management purposes, Saudi Aramco is organized into business units based on the main types of activities. At September 30, 2022, Saudi
+Aramco had two reportable segments, Upstream and Downstream, with all other supporting functions aggregated into a Corporate segment.
+Upstream activities include crude oil, natural gas and natural gas liquids exploration, field development and production. Downstream activities
+consist primarily of refining and petrochemical manufacturing, supply and trading, distribution and power generation, logistics, and marketing of
+crude oil and related services to international and domestic customers. Corporate activities include primarily supporting services including
+Human Resources, Finance and IT not allocated to Upstream and Downstream. Transfer prices between operating segments are on an arm’s
+length basis in a manner similar to transactions with third parties.
+There are no differences from the consolidated financial statements for the year ended December 31, 2021 in the basis of segmentation or in the
+basis of measurement of segment earnings before interest, income taxes and zakat.
+Information by segments for the three-month period ended September 30, 2022 is as follows:
+Upstream Downstream Corporate Eliminations Consolidated
+External revenue 268,626 274,628 458 543,712
+Other income related to sales 26,466 43,757 70,223
+Inter-segment revenue 120,930 11,007 70 (132,007‑)
+Earnings (losses) before interest, income taxes and zakat 293,996 (4,246) (4,984‑) 17,044‑ 301,810
+Finance income 2,562‑
+Finance costs (2,093)
+Income before income taxes and zakat 302,279
+Capital expenditures - cash basis 27,209 6,365 321 33,895
+‑
+Information by segments for the three-month period ended September 30, 2021 is as follows:
+Upstream Downstream Corporate Eliminations Consolidated
+External revenue 174,982 183,860 250 359,092
+Other income related to sales 20,280 26,010 46,290
+Inter-segment revenue 79,792 10,856 58 (90,706‑)
+Earnings (losses) before interest, income taxes and zakat 205,926 14,837 (1,949‑) (4,070‑) 214,744
+Finance income 331‑
+Finance costs (2,917)
+Income before income taxes and zakat 212,158
+Capital expenditures - cash basis 21,759 6,213 494 28,466
+‑
+Information by segments for the nine-month period ended September 30, 2022 is as follows:
+Upstream Downstream Corporate Eliminations Consolidated
+External revenue 797,137 774,278 1,368 1,572,783
+Other income related to sales 68,443 137,979 206,422
+Inter-segment revenue 362,165 33,334 213 (395,712‑)
+Earnings (losses) before interest, income taxes and zakat 852,261 81,774 (13,757‑) (10,660‑) 909,618
+Finance income 7,644‑
+Finance costs (7,372)
+Income before income taxes and zakat 909,890
+Capital expenditures - cash basis 76,770 19,404 1,249 97,423
+‑
+21
+[TABLE DATA]
+543,712
+70,223
+301,810
+2,562‑
+(2,093)
+302,279
+33,895
+1,572,783
+206,422
+909,618
+7,644‑
+(7,372)
+909,890
+97,423
+[Page 22]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+4. Operating segments continued
+Information by segments for the nine-month period ended September 30, 2021 is as follows:
+Upstream Downstream Corporate Eliminations Consolidated
+External revenue 452,997 489,649 871 943,517
+Other income related to sales 45,519 66,453 111,972
+Inter-segment revenue 205,960 25,657 187 (231,804‑)
+Earnings (losses) before interest, income taxes and zakat 526,112 48,752 (8,719‑) (15,896‑) 550,249
+Finance income 967‑
+Finance costs (9,002)
+Income before income taxes and zakat 542,214
+Capital expenditures - cash basis 66,265 19,488 1,539 87,292
+‑
+5. Property, plant and equipment
+Depots, storage
+Land and land Oil and gas Plant, machinery tanks and Fixtures, IT and Construction-in-
+improvements Buildings properties and equipment pipelines office equipment progress Total
+Cost
+January 1, 2022 53,099 86,411 596,495 878,043 84,110 19,554 246,175 1,963,887
+Additions1 314 333 281 9,897 251 100 92,245 103,421
+Acquisition (Note 17(e)) 42 39 61 17 14 173
+Construction completed 1,459 3,420 34,796 32,846 5,049 1,106 (78,676)
+‑ ‑
+Currency translation differences (1,186) (1,346) (12,144) (1,181) (255) (849) (16,961)
+‑
+Transfers and adjustments 346 (272) 386 (462) 356 45 (1,608) (1,209)
+‑
+Transfer of exploration and
+evaluation assets 537 537
+Retirements and sales (50) (302) (994) (4,360) (360) (324) (85) (6,475)
+‑ ‑ ‑ ‑ ‑ ‑
+September 30, 2022 54,024 88,283 630,964 903,881 88,225 20,243 257,753 2,043,373
+Accumulated depreciation
+January 1, 2022 (17,989) (38,603) (225,273) (382,413) (43,679) (11,614) (719,571)
+Charge for the period (1,069) (2,520) (14,610) (42,030) (1,843) (990) (63,062)
+‑
+Currency translation differences 14 764 7,272 504 205 8,759
+‑
+Transfers and adjustments (6) 143 (19) (227) (42) (25) (176)
+‑ ‑
+Retirements and sales 20 256 250 3,395 340 320 4,581
+‑
+September 30, 2022 (19,030) (39,960) (239,652) (414,003) (44,720) (12,104) (769,469)
+‑
+Property, plant and equipment - net,
+‑
+September 30, 2022 34,994 48,323 391,312 489,878 43,505 8,139 257,753 1,273,904
+1. Borrowing costs capitalized during the nine-month period ended September 30, 2022, amounting to SAR 3,593, were calculated using an average annualized capitalization rate of
+3.3%.
+Additions to right-of-use assets during the three-month and nine-month periods ended September 30, 2022 were SAR 2,909 and SAR 7,720,
+respectively. Acquisition of right-of-use assets during the three-month and nine-month periods ended September 30, 2022 were nil and SAR 25,
+respectively. The following table presents depreciation charges and net carrying amounts of right-of-use assets by class of assets.
+Depreciation
+expense for the
+nine-month period Net carrying
+ended September amount at
+30, 2022 September 30, 2022
+Land and land improvements 148 4,281
+Buildings 405 3,256
+Oil and gas properties 11 14
+Plant, machinery and equipment 7,796 35,387
+Depots, storage tanks and pipelines 217 2,231
+Fixtures, IT and office equipment 93 372
+8,670 45,541
+22
+[TABLE DATA]
+‑
+54,024 | ‑
+88,283 | ‑
+630,964 | ‑
+903,881 | ‑
+88,225 | ‑
+20,243 | 257,753
+(19,030) | (39,960) | (239,652) | (414,003) | (44,720) | (12,104) | ‑
+|  |  |  |  |  | ‑
+34,994 | 48,323 | 391,312 | 489,878 | 43,505 | 8,139 | ‑
+257,753
+(769,469)
+1,273,904
+148 | 4,281
+405 | 3,256
+11 | 14
+7,796 | 35,387
+217 | 2,231
+93 | 372
+8,670 | 45,541
+[Page 23]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+6. Intangible assets
+Franchise/
+Exploration and Brands and customer Computer
+Goodwill evaluation trademarks relationships software Other1 Total
+Cost
+January 1, 2022 100,188 19,219 22,874 19,720 5,149 2,929 170,079
+Additions 3,172 239 56 3,467
+Acquisition (Note 17(e)) 418 399 817
+Currency translation differences (31‑) (201‑) (33‑) (45) (233) (543)
+Transfers and adjustments ‑ (190‑) (174‑) 11 (3‑) (356)
+Transfer of exploration and evaluation assets (537‑) (537)
+Retirements and write offs ‑ (654‑) (20) (4) (678)
+September 30, 2022 100,575
+‑
+21,200 22,483
+‑
+19,513
+‑
+5,733
+‑
+2,745
+‑
+172,249
+‑ ‑ ‑
+Accumulated amortization
+January 1, 2022 (2,235) (2,367) (3,721) (1,088) (9,411)
+Charge for the period2 (295) (736) (266) (536) (1,833)
+Currency translation differences ‑ ‑ 12 5 48 148 213
+Transfers and adjustments ‑ ‑ 190 95 (11) 86 360
+Retirements and write offs ‑ ‑ 4 4 8
+September 30, 2022
+‑ ‑
+(2,328) (3,003) (3,946) (1,386) (10,663)
+‑ ‑ ‑ ‑
+Intangible assets - net, September 30, 2022 100,575 21,200 20,155 16,510 1,787 1,359 161,586
+‑ ‑
+1. Other intangible assets comprise patents and intellectual property having a net book value of SAR 767 and licenses, technology and usage rights having a net book value of SAR 592 as
+at September 30, 2022.
+2. Saudi Aramco recognized a write-down of SAR 330 on certain other intangible assets during the nine-month period ended September 30, 2022.
+7. Income taxes and zakat
+(a) Kingdom income tax rates
+The Company is subject to an income tax rate of 20% on its Downstream activities and on the activities of exploration and production of non-
+associated natural gas, including gas condensates, as well as the collection, treatment, processing, fractionation and transportation of associated
+and non-associated natural gas and their liquids, gas condensates and other associated elements. All other activities are subject to an income tax
+rate of 50%, in accordance with the Saudi Arabian Income Tax Law of 2004 and its amendments (the “Tax Law”). The 20% income tax rate
+applicable to the Downstream activities is conditional on the Company separating its Downstream activities under the control of one or more
+separate wholly owned subsidiaries before December 31, 2024, otherwise the Company’s Downstream activities will be retroactively taxed at
+50%. The Company expects to transfer all its Downstream activities into a separate legal entity or entities within the period specified.
+Additionally, according to the Tax Law, shares held directly or indirectly in listed companies on Tadawul by taxpayers engaged in oil and
+hydrocarbon activities are exempt from the application of corporate income tax. As a result, the Company’s ownership interests in such
+companies are subject to zakat.
+The reconciliation of tax charge at the Kingdom statutory rates to consolidated tax and zakat expense is as follows:
+3rd quarter 3rd quarter Nine months Nine months
+2022 2021 2022 2021
+Income before income taxes and zakat 302,279 212,158 909,890 542,214
+Less: Income subject to zakat (5,240) (6,340) (23,194) (20,236)
+Income subject to income tax 297,039 205,818 886,696 521,978
+Income taxes at the Kingdom’s statutory tax rates 145,230 98,835 429,473 250,211
+Tax effect of:
+Income not subject to tax at statutory rates and other (2,499) (1,338) (9,952) (437)
+Income tax expense 142,731 97,497 419,521 249,774
+Zakat expense 433 568 1,585 1,442
+Total income tax and zakat expense 143,164 98,065 421,106 251,216
+23
+[TABLE DATA]
+‑
+100,575 | 21,200 | ‑
+22,483 | ‑
+19,513 | ‑
+5,733 | ‑
+2,745
+‑ | ‑ | (2,328) | (3,003) | (3,946) | (1,386)
+‑
+100,575 | ‑
+21,200 | ‑
+20,155 | ‑
+16,510 | 1,787 | 1,359
+(10,663)
+161,586
+302,279 | 212,158
+(6,340) | 909,890
+(5,240) |  | (23,194)
+297,039 | 205,818
+98,835
+(1,338) | 886,696
+|  |
+145,230 |  | 429,473
+|  |
+|  |
+(2,499) |  | (9,952)
+142,731 | 97,497
+568 | 419,521
+433 |  | 1,585
+143,164 | 98,065 | 421,106
+[Page 24]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+7. Income taxes and zakat continued
+(b) Income tax and zakat expense
+3rd quarter 3rd quarter Nine months Nine months
+2022 2021 2022 2021
+Current income tax - Kingdom 134,841 92,653 401,084 234,897
+Current income tax - Foreign 138 293 1,108 658
+Deferred income tax - Kingdom 7,196 3,922 12,618 12,617
+Deferred income tax - Foreign 556 629 4,711 1,602
+Zakat - Kingdom 433 568 1,585 1,442
+143,164 98,065 421,106 251,216
+(c) Income tax and zakat obligation to the Government
+2022 2021
+January 1 90,525 42,059
+Provided during the period 402,669 236,339
+Payments during the period by the Company (Note 14) (182,064) (96,468)
+Payments during the period by subsidiaries and joint operations (7,759) (3,206)
+Settlements of due from the Government (179,569) (95,371)
+Other settlements (3,831) (3,131)
+September 30 119,971 80,222
+8. Other reserves
+Share of other comprehensive
+income (loss) of joint ventures and
+associates
+Currency Investments in Share-based Foreign currency
+translation securities at Post-employment compensation Cash flow hedges translation gains Cash flow hedges
+differences FVOCI benefits reserve and other (losses) and other Total
+January 1, 2022 (564) 5,769 139 (397) 733 (1,019) 4,661
+Current period change (8,170) (638) 239 1,234 (1,612) 963 (7,984)
+‑
+Remeasurement gain1 35,928 256 36,184
+‑
+Transfer to retained earnings (19,235) 18 (256) (19,473)
+‑ ‑ ‑ ‑ ‑
+Tax effect (32) (14,610) (14,642)
+‑ ‑ ‑ ‑
+Less: amounts related to non-controlling interests 2,595 1 (2,083) (5) 401 909
+‑ ‑ ‑ ‑ ‑
+September 30, 2022 (6,139) 5,100 396 832 (478) (56) (345)
+‑ ‑
+‑
+1. The remeasurement gain is primarily due to the net impact arising from changes in discount rates used to determine the present value of the post-employment benefit obligations and
+changes in the fair value of post-employment benefit plan assets.
+9. Borrowings
+September 30, December 31,
+2022 2021
+Non-current:
+Deferred consideration 80,701 188,723
+Commercial borrowings 50,077 52,280
+Debentures 94,692 98,449
+Sukuk 34,446 34,560
+Lease liabilities 37,274 38,108
+Other financing arrangements 22,762 24,251
+319,952 436,371
+Current:
+Deferred consideration 40,763 33,544
+Short-term bank financing 10,824 17,351
+Commercial borrowings 8,905 10,556
+Debentures 3,750
+Sukuk 264 266
+Lease liabilities 9,565‑ 9,083
+70,321 74,550
+24
+[TABLE DATA]
+134,841 | 92,653
+293
+3,922
+629
+568 | 401,084
+138 |  | 1,108
+7,196 |  | 12,618
+556 |  | 4,711
+433 |  | 1,585
+143,164 | 98,065 | 421,106
+90,525
+402,669
+(182,064)
+(7,759)
+(179,569)
+(3,831)
+119,971
+‑
+(6,139) | 5,100 |  | 396 | ‑ ‑
+832 | ‑
+(478) | ‑
+(56)
+80,701
+50,077
+94,692
+34,446
+37,274
+22,762
+319,952
+40,763
+10,824
+8,905
+264
+9,565‑
+70,321
+[Page 25]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+9. Borrowings continued
+On January 24, 2022, the Company, in agreement with PIF, made a partial prepayment of SAR 28,579 ($7,621), which has reduced the principal
+amounts of two promissory notes payable on or before April 7, 2024 and April 7, 2026, by SAR 26,250 ($7,000) and SAR 3,750 ($1,000),
+respectively. In addition, on June 30, 2022, the Company made a partial prepayment of SAR 38,192 ($10,185), which has reduced the principal
+amount of a promissory note payable on or before April 7, 2025 by SAR 9,375 ($2,500) and further reduced the principal amount of the
+promissory note payable on or before April 7, 2026 by SAR 35,625 ($9,500). These partial prepayments resulted in a net gain of SAR 3,064 ($817),
+which was recognized in the Condensed Consolidated Statement of Income.
+On April 4, 2022, the Company entered into a new five-year common terms agreement for unsecured revolving credit facilities aggregating to
+SAR 37,500 ($10,000), to replace facilities which expired during the period. The new facilities comprise USD denominated conventional facilities
+of SAR 30,000 ($8,000) and a SAR denominated Shari’a compliant Murabaha facility of SAR 7,500 ($2,000). The conventional facilities also
+incorporate a SAR 7,500 ($2,000) swingline sublimit facility in support of the Company’s establishment of a U.S. commercial paper program. The
+common terms agreement provides the framework and common lending terms for the facilities and the Company has the option of up to two
+extensions of one year each. The Company shall apply all amounts advanced to it under these facilities for general corporate purposes and
+towards its general working capital requirements. No amounts have been drawn against these facilities as at the date of the condensed
+consolidated interim financial report.
+10. Revenue
+3rd quarter 3rd quarter Nine months Nine months
+2022 2021 2022 2021
+Revenue from contracts with customers 545,768 357,088 1,568,420 937,067
+Movement between provisional and final prices (3,365) 463 416 3,169
+Other revenue 1,309 1,541 3,947 3,281
+543,712 359,092 1,572,783 943,517
+Revenue from contracts with customers is measured at a transaction price agreed under the contract and the payment is due within 10 to 120
+days from the invoice date depending on specific terms of the contract.
+Transaction prices are not adjusted for the time value of money as Saudi Aramco does not have any contracts where the period between the
+transfer of product to the customer and payment by the customer exceeds one year.
+Disaggregation of revenue from contracts with customers
+Saudi Aramco’s revenue from contracts with customers according to product type and source is as follows:
+3rd quarter 2022
+Upstream Downstream Corporate Total
+Crude oil 257,226 40,837 298,063
+Refined and chemical products 224,560 224,560
+Natural gas and NGLs 14,217 5,376 ‑ 19,593
+Metal products ‑ 3,552 ‑ 3,552
+Revenue from contracts with customers 271,443 274,325
+‑
+545,768
+‑ ‑
+Movement between provisional and final prices (3,017) (348) ‑ (3,365)
+Other revenue 200 651 458 1,309
+External revenue 268,626 274,628 458
+‑
+543,712
+3rd quarter 2021
+Upstream Downstream Corporate Total
+Crude oil 161,649 16,024 177,673
+Refined and chemical products 162,636 162,636
+Natural gas and NGLs 12,823 869 ‑ 13,692
+Metal products ‑ 3,087 ‑ 3,087
+Revenue from contracts with customers 174,472 182,616 ‑ 357,088
+‑ ‑
+Movement between provisional and final prices 426 37 ‑ 463
+Other revenue 84 1,207 250 1,541
+External revenue 174,982 183,860 250‑ 359,092
+25
+[TABLE DATA]
+545,768 | 357,088
+463
+1,541 | 1,568,420
+(3,365) |  | 416
+1,309 |  | 3,947
+543,712 | 359,092 | 1,572,783
+257,226 | 40,837 |
+| 224,560 |
+14,217 | 5,376 | ‑
+‑ | 3,552 | ‑
+271,443 | 274,325 | ‑
+‑ |  | ‑
+(3,017) | (348) | ‑
+200 | 651 | 458
+268,626 | 274,628 | ‑
+458
+298,063
+224,560
+19,593
+3,552
+545,768
+(3,365)
+1,309
+543,712
+[Page 26]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+10. Revenue continued
+Nine months 2022
+Upstream Downstream Corporate Total
+Crude oil 750,405 88,348 838,753
+Refined and chemical products 654,101 654,101
+Natural gas and NGLs 45,971 17,650 ‑ 63,621
+Metal products ‑ 11,945 ‑ 11,945
+Revenue from contracts with customers 796,376 772,044 ‑ 1,568,420
+‑ ‑
+Movement between provisional and final prices 461 (45) ‑ 416
+Other revenue 300 2,279 1,368 3,947
+External revenue 797,137 774,278 1,368
+‑
+1,572,783
+Nine months 2021
+Upstream Downstream Corporate Total
+Crude oil 415,121 41,668 456,789
+Refined and chemical products 433,874 433,874
+Natural gas and NGLs 34,544 2,281 ‑ 36,825
+Metal products ‑ 9,579 ‑ 9,579
+Revenue from contracts with customers 449,665 487,402 ‑ 937,067
+‑ ‑
+Movement between provisional and final prices 3,059 110 ‑ 3,169
+Other revenue 273 2,137 871 3,281
+External revenue 452,997 489,649 871‑ 943,517
+11. Non-cash investing and financing activities
+Investing and financing activities for the three-month and nine-month periods ended September 30, 2022 include additions to right-of-use assets
+of SAR 2,909 and SAR 7,720 (September 30, 2021: SAR 3,022 and SAR 10,289), respectively, asset retirement provisions of SAR 119 and SAR 281
+(September 30, 2021: SAR 105 and SAR 273), respectively, and equity awards issued to employees of SAR 3 and SAR 63 (September 30, 2021:
+SAR 7 and SAR 37), respectively. Further, investing activities during the three-month period ended September 30, 2022 include an additional
+investment in Rabigh Refining and Petrochemical Company (“Petro Rabigh”) as part of a subscription to a rights issuance offering through
+conversion of a non-current loan receivable of SAR 2,981 (Note 12(b)).
+12. Commitments
+(a) Capital commitments
+Capital expenditures contracted for but not yet incurred were SAR 163,500 and SAR 159,145 at September 30, 2022 and December 31, 2021,
+respectively. In addition, leases contracted for but not yet commenced were SAR 14,858 and SAR 10,309 at September 30, 2022 and
+December 31, 2021, respectively.
+(b) Petro Rabigh
+In December 2021, the Company signed a commitment letter to fully exercise its right to subscribe to its 37.5% share in the Petro Rabigh Rights
+Issue Offering, representing 298 million shares, for a maximum commitment of SAR 2,981. After obtaining necessary approvals from the
+competent authorities, the shareholders of Petro Rabigh approved the capital increase through offering 795 million shares for a total amount of
+SAR 7,950, at the Extraordinary General Meeting held on June 8, 2022. The rights issuance closed on July 6, 2022 and the Company and
+Sumitomo Chemical Co. Ltd., the founding shareholders, subscribed to their proportionate share in the offering, funded through debt-to-equity
+conversion of their non-current loan receivable from Petro Rabigh. Upon closing of the rights issuance, the loan receivable of SAR 2,981 was
+converted to an equity investment. Further, out of the proceeds of the rights issuance, Petro Rabigh repaid SAR 1,940 of its equity bridge loans
+(“the EBLs”), which were guaranteed by the two founding shareholders. The final maturity date of October 1, 2022 for the remaining EBLs of
+SAR 9,310 was extended to December 20, 2022, with an option to further extend up to March 20, 2023.
+13. Contingencies
+Saudi Aramco has contingent assets and liabilities with respect to certain disputed matters, including claims by and against contractors and
+lawsuits and arbitrations involving a variety of issues. These contingencies arise in the ordinary course of business. It is not anticipated that any
+material adjustments will result from these contingencies.
+26
+[TABLE DATA]
+750,405 | 88,348 |
+| 654,101 |
+45,971 | 17,650 | ‑
+‑ | 11,945 | ‑
+796,376 | 772,044 | ‑
+‑ |  | ‑
+461 | (45) | ‑
+300 | 2,279 | 1,368
+797,137 | 774,278 | ‑
+1,368
+838,753
+654,101
+63,621
+11,945
+1,568,420
+416
+3,947
+1,572,783
+[Page 27]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+14. Payments to the Government by the Company
+3rd quarter 3rd quarter Nine months Nine months
+2022 2021 2022 2021
+Income taxes (Note 7(c)) 50,704 40,388 182,064 96,468
+Royalties 109,160 36,930 273,935 89,496
+Dividends 66,266 69,084 198,801 207,252
+15. Related party transactions and balances
+(a) Transactions
+3rd quarter 3rd quarter Nine months Nine months
+2022 2021 2022 2021
+Joint ventures:
+Revenue from sales 6,855 7,898 21,720 20,303
+Other revenue 12 11 23 34
+Interest income 41 26 90 71
+Purchases 5,378 4,848 22,249 14,306
+Service expenses 4 8 8
+Associates: ‑
+Revenue from sales 10,882 16,878 57,765 47,396
+Other revenue 22 165 86 495
+Interest income 11 12 90 98
+Purchases 7,215 13,534 48,394 39,244
+Service expenses 34 22 79 90
+Lease expenses 36 79 150 139
+Government, semi-Government and other entities with Government ownership
+or control:
+Revenue from sales 5,539 5,588 16,635 13,054
+Other income related to sales 70,223 46,290 206,422 111,972
+Other revenue 292 161 866 585
+Purchases 3,821 3,000 9,334 9,068
+Service expenses 135 87 304 488
+Lease expenses 165 109 424 315
+(b) Balances
+September 30, December 31,
+2022 2021
+Joint ventures:
+Other assets and receivables 5,618 5,943
+Trade receivables 5,903 4,755
+Interest receivable 308 233
+Trade and other payables 7,091 6,803
+Associates:
+Other assets and receivables 1,526 6,813
+Trade receivables 19,841 14,794
+Trade and other payables 10,793 7,916
+Borrowings 19 15
+Government, semi-Government and other entities with Government ownership or control:
+Other assets and receivables 533 509
+Trade receivables 7,313 3,056
+Due from the Government 72,680 41,317
+Trade and other payables 2,711 2,959
+Borrowings 126,290 229,525
+(c) Compensation of key management personnel
+Compensation policies for and composition of key management personnel remain consistent with 2021.
+27
+[TABLE DATA]
+50,704 | 40,388
+36,930
+69,084 | 182,064
+109,160 |  | 273,935
+66,266 |  | 198,801
+| 7,898
+11
+26
+4,848
+‑
+16,878
+165
+12
+13,534
+22
+79
+5,588
+46,290
+161
+3,000
+87
+109 |
+6,855 |  | 21,720
+12 |  | 23
+41 |  | 90
+5,378 |  | 22,249
+4 |  | 8
+|  |
+|  |
+10,882 |  | 57,765
+22 |  | 86
+11 |  | 90
+7,215 |  | 48,394
+34 |  | 79
+36 |  | 150
+|  |
+|  |
+|  |
+5,539 |  | 16,635
+70,223 |  | 206,422
+292 |  | 866
+3,821 |  | 9,334
+135 |  | 304
+165 |  | 424
+5,618
+5,903
+308
+7,091
+1,526
+19,841
+10,793
+19
+533
+7,313
+72,680
+2,711
+126,290
+[Page 28]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+16. Sale of equity interest in subsidiary - Aramco Gas Pipelines Company (“AGPC”)
+On February 23, 2022, the Company closed the transaction for a sale of a 49% equity interest in Aramco Gas Pipelines Company (“AGPC”), a
+newly formed wholly owned subsidiary of the Company, to GreenSaif Pipelines Bidco S.à r.l. (formerly, GEPIF III Finance III Lux S.à r.l.)
+(“GreenSaif”) for upfront proceeds of SAR 58,125 ($15,500) in cash.
+GreenSaif is an entity owned by a consortium of investors led by affiliates of BlackRock Real Assets and Hassana Investment Company, the
+investment management arm of the General Organization for Social Insurance (“GOSI”) in the Kingdom. GreenSaif, as a shareholder of AGPC, is
+entitled to receive quarterly distributions of its pro rata share of AGPC’s available cash when the Company pays discretionary dividends to its
+ordinary shareholders. Given the discretionary nature of distributions to GreenSaif, in line with the principles outlined in Note 2(d) of Saudi
+Aramco’s consolidated financial statements for the year ended December 31, 2021, GreenSaif’s shareholding represents a non-controlling
+interest and, therefore, the upfront sale proceeds are recognized in the condensed consolidated interim financial report as a non-controlling
+interest within equity.
+Immediately prior to the closing of the transaction, the Company leased the usage rights to its gas pipelines network to AGPC for a 20-year
+period. Concurrently, AGPC granted the Company the exclusive right to use, operate and maintain the pipelines network during the 20-year
+period in exchange for a quarterly, volume-based tariff payable by the Company to AGPC. The tariff is backed by minimum volume commitments.
+The Company will at all times retain title to, and operational control of, the pipelines.
+17. Investments in affiliates
+(a) PKN Orlen S.A.
+On January 12, 2022, Saudi Aramco signed sale and purchase agreements for the acquisition of a 30% equity interest in the Gdansk Refinery joint
+venture with PKN Orlen, a 100% ownership of Grupa Lotos S.A.’s wholesale business, and a 50% equity interest in the jet fuel joint venture with
+Air BP. The transaction, with a total purchase price of approximately SAR 2,063, is expected to close in 2022, subject to obtaining the required
+regulatory approvals and other terms and conditions of the acquisition agreements.
+(b) Tuwaiq Casting & Forging Company (“TCFC”)
+On January 12, 2022, TCFC was formed as a limited liability company under the laws of the Kingdom, to engage in activities to support the
+Kingdom’s industrial, energy and maritime sectors through the manufacturing and smelting of iron and other metals. Saudi Aramco, through its
+wholly owned subsidiary, Saudi Aramco Development Company (“SADCO”), acquired a 15% ownership interest in TCFC, and indirectly through
+the Saudi Arabian Industrial Investment Company (“Dussur”), acquired an additional 70% ownership interest, with the remaining 15% ownership
+interest directly held by Doosan Heavy Industries & Construction (“Doosan”). Saudi Aramco’s total beneficial ownership interest in TCFC is
+44.75%. At September 30, 2022, the total investment in TCFC of SAR 880 has been fully drawn down, of which SADCO’s share is SAR 132.
+(c) ETG Inputs Holdco Limited (“ETG Inputs”)
+On January 24, 2022, SABIC Agri-Nutrients Company (“SABIC AN”), a subsidiary of Saudi Basic Industries Corporation (“SABIC”), signed a binding
+agreement to acquire 49% of the share capital of ETG Inputs. The transaction is subject to obtaining the required regulatory approvals and other
+terms and conditions of the acquisition agreement.
+(d) Cognite A.S. (“Cognite”)
+On February 8, 2022, Saudi Aramco, through its wholly owned subsidiary, Aramco Overseas Company B.V. (“AOC B.V.”), acquired a 7.37%
+ownership interest in Cognite for SAR 443. Cognite was formed on December 19, 2016 as a private limited liability company under the laws of
+Norway, to provide software and industrial internet of things (“IIoT”) services to industrial companies.
+(e) Scientific Design
+On April 14, 2022, SABIC acquired the remaining 50% equity interest in the Scientific Design group of companies ("Scientific Design") from
+Clariant AG (“Clariant”) for a cash consideration of SAR 523. Scientific Design is a leading licensor of high-performance process technologies and a
+catalysts producer. This transaction gives SABIC full ownership of Scientific Design, which was previously an equally owned joint venture between
+SABIC and Clariant. On increasing its ownership, SABIC remeasured its existing investment to fair value and recognized a gain of SAR 365, which is
+reflected in the Condensed Consolidated Statement of Income. The purchase price allocation, as performed by an independent valuer, has not
+been concluded. Based on the preliminary fair values of the total identifiable net assets and liabilities of SAR 628, including cash acquired of
+SAR 121, goodwill of SAR 418 has been recognized.
+28
+[Page 29]
+Saudi Aramco
+Third quarter and nine months interim report 2022
+All amounts in millions of Saudi Riyals unless otherwise stated
+17. Investments in affiliates continued
+(f) Middle East Cloud and Digital Transformation Company Limited (“CNTXT”)
+On April 14, 2022, CNTXT was formed as a limited liability company under the laws of the Kingdom as a joint venture with Cognite to become the
+exclusive reseller of Cognite’s proprietary data fusion platform, Cognite Data Fusion, in the Middle East and North Africa (“MENA”) region and to
+become the exclusive reseller of Google Cloud Platform products in the Kingdom. Saudi Aramco, through its wholly owned and directly held
+subsidiary, SADCO, acquired a 51% ownership interest in CNTXT with the remaining 49% ownership interest held by Cognite. The total
+investment in CNTXT is expected to be up to SAR 310, of which SADCO’s share is SAR 158. At September 30, 2022, SAR 68 had been drawn down,
+of which SADCO’s share was SAR 35.
+(g) National Industrial Gases Company (“GAS”) and Mt. Vernon Phenol Plant Partnership (“MVPP”)
+On June 15, 2022, SABIC acquired an additional 4% equity interest in GAS, a non-wholly owned subsidiary, for cash consideration of SAR 181. As a
+result, SABIC’s shareholding increased from 70% to 74% with no change in control, and the impact of the transaction has been reflected in the
+Condensed Consolidated Statement of Changes in Equity. In addition, SABIC acquired the remaining 49% shareholding in MVPP, now integrated
+into SABIC Innovative Plastics Mt. Vernon, LLC, a wholly owned subsidiary. SABIC paid consideration amounting to SAR 49.
+(h) Valvoline Global Products
+On July 31, 2022, Saudi Aramco signed an equity purchase agreement to acquire Valvoline Inc.’s global products business (“Valvoline Global
+Products”). Valvoline Global Products is a leading worldwide independent producer and distributor of premium branded automotive, commercial
+and industrial lubricants, and automotive chemicals. The transaction, with a total purchase price of SAR 9,938 ($2,650), is expected to close by
+early 2023, subject to customary closing conditions and regulatory approvals.
+18. Dividends
+Dividends declared and paid on ordinary shares are as follows:
+SAR per share
+Nine months Nine months Nine months Nine months
+2022 2021 2022 2021
+Quarter:
+March1 70,331 70,325 0.35 0.35
+June2 70,328 70,325 0.32 0.35
+September2 70,329 70,327 0.32 0.35
+Total dividends declared and paid 210,988 210,977 0.99 1.05
+Dividends declared on October 31, 2022 and October 28, 20212,3 70,330 70,328 0.32 0.35
+1. Dividends of SAR 70,331 paid in 2022 relate to 2021 results. Dividends of SAR 70,325 paid in 2021 relate to 2020 results.
+2. Dividends per share of SAR 0.32, declared on May 13, 2022, August 12, 2022 and October 31, 2022, reflect the effect of the issuance of the bonus shares as described below.
+3. The condensed consolidated interim financial report does not reflect a dividend to shareholders of approximately SAR 70,330, which was declared on October 31, 2022
+(October 28, 2021: SAR 70,328). This dividend will be deducted from unappropriated retained earnings in the year ending December 31, 2022 and relates to results for the
+three-month period ended September 30, 2022.
+On May 12, 2022, after obtaining necessary approvals from the competent authorities, the Extraordinary General Assembly (“EGA”) approved
+the increase of the Company’s share capital by SAR 15,000 and the commensurate increase of the number of the Company’s issued ordinary
+shares by 20 billion without par value. Such increase was effected through capitalization of the Company’s retained earnings. Each shareholder
+was granted one (1) bonus share for every ten (10) shares owned. The Company’s share capital after the increase is SAR 75,000, is fully paid and
+is divided into 220 billion ordinary shares with equal voting rights without par value.
+Accordingly, earnings per share for the nine-month period ended September 30, 2022 and the three-month and nine-month periods ended
+September 30, 2021 have been calculated by retrospectively adjusting the weighted average number of outstanding shares to reflect the effect
+of the issuance of the above bonus shares.
+19. Events after the reporting period
+Power and Water Utility Company for Jubail and Yanbu (“Marafiq”)
+On October 2, 2022, Marafiq, an associate of Saudi Aramco, announced its intention to proceed with an IPO and list its shares on Tadawul. The
+IPO comprises shares being offered by the majority shareholders of Marafiq, including Saudi Aramco Power Company and SABIC, in proportion to
+their shareholding. Upon completion of the IPO, the aggregate equity ownership of the aforementioned Saudi Aramco subsidiaries in Marafiq will
+reduce from 49.62% to 35%. The carrying value of the investment in Marafiq in the condensed consolidated interim financial report at September
+30, 2022, was SAR 4,138 (December 31, 2021: SAR 3,924).
+29
+[TABLE DATA]
+| 70,325
+70,325
+70,327 |
+70,331 |  | 0.35
+70,328 |  | 0.32
+70,329 |  | 0.32
+210,988 | 210,977 | 0.99
+| 70,328 |
+70,330 |  | 0.32

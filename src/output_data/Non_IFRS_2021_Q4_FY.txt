@@ -1,0 +1,192 @@
+SOURCE: Saudi Aramco — Non IFRS 2021 Q4 FY
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2021/q4---fy/saudi-aramco-fy-2021-non-ifrs-english.pdf
+============================================================
+
+[Page 1]
+All amounts in millions unless otherwise stated
+Non-IFRS measures reconciliations and definitions
+for the year ended December 31, 2021
+Aramco uses certain non-IFRS financial in accordance with, IFRS. The non-IFRS Because companies do not necessarily
+measures to make informed decisions financial measures are not measurements calculate these non-IFRS financial
+about its financial position and operating of Aramco’s operating performance or measures in the same manner, Aramco’s
+performance or liquidity. These non-IFRS liquidity under IFRS and should not be presentation of such non-IFRS financial
+financial measures have been included used instead of, or considered as measures may not be comparable to
+below to facilitate a better understanding alternatives to, any measures of other similarly titled non-IFRS financial
+of Aramco’s historical trends of operation performance or liquidity under IFRS. The measures used by other companies.
+and financial position. non-IFRS financial measures relate to the
+reporting periods described below are not
+Aramco uses non-IFRS financial measures intended to be predictive of future results.
+as supplementary information to its In addition, other companies, including
+IFRS-based operating performance and those in Aramco’s industry, may calculate
+financial position. The non-IFRS financial similarly titled non-IFRS financial
+measures are not defined by, or presented measures differently from Aramco.
+Return on average capital employed (ROACE)
+ROACE measures the efficiency of applicable period. Aramco utilizes ROACE reflecting stronger crude oil prices,
+Aramco’s utilization of capital. Aramco to evaluate management’s performance improved refining and chemicals margins,
+defines ROACE as net income before and demonstrate to its shareholders that and the consolidation of SABIC’s full-year
+finance costs, net of income taxes and capital has been used effectively. results. This was partially offset by higher
+zakat, as a percentage of average capital average capital employed during the year,
+employed, calculated on a 12-month ROACE for the year ended December 31, mainly resulting from the acquisition of
+rolling basis. Average capital employed is 2021, was 24.4%, compared to 13.2% SABIC in June 2020.
+the average of total borrowings plus total in 2020. This increase was primarily
+equity at the beginning and end of the attributable to higher earnings, mainly
+SAR USD*
+Twelve months ended Twelve months ended ROACE
+December 31 December 31
+All amounts in millions unless
+otherwise stated 2021 2020 2021 2020 %
+Net income 412,396 183,763 109,972 49,003
+Finance costs, net of income
+taxes and zakat 6,029 5,282 1,608 1,409
+Net income before finance costs,
+net of income taxes and zakat 418,425 189,045 111,580 50,412 2021
+24.4
+As at period start:
+Non-current borrowings 436,920 150,690 116,512 40,184
+Current borrowings 99,157 24,895 26,442 6,639
+Total equity 1,101,094 1,046,235 293,625 278,996
+Capital employed 1,637,171 1,221,820 436,579 325,819 2020
+13.2
+As at period end:
+Non-current borrowings 436,371 436,920 116,366 116,512
+Current borrowings 74,550 99,157 19,880 26,442
+Total equity 1,280,668 1,101,094 341,512 293,625
+Capital employed 1,791,589 1,637,171 477,758 436,579
+Average capital employed 1,714,380 1,429,496 457,169 381,199
+ROACE 24.4% 13.2% 24.4% 13.2%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+412,396
+6,029
+418,425
+436,920
+99,157
+1,101,094
+1,637,171
+436,371
+74,550
+1,280,668
+1,791,589
+1,714,380
+24.4%
+109,972
+1,608
+111,580
+116,512
+26,442
+293,625
+436,579
+116,366
+19,880
+341,512
+477,758
+457,169
+24.4%
+[Page 2]
+All amounts in millions unless otherwise stated
+Free cash flow
+Aramco uses free cash flow to evaluate cash flows, mainly driven by stronger Free cash flow
+its cash available for financing activities, crude oil prices and improved refining
+including dividend payments. Aramco and chemicals margins. This was $ billions
+defines free cash flow as net cash partially offset by unfavorable changes
+provided by operating activities less in working capital, higher cash paid for
+capital expenditures. the settlement of income, zakat and other
+taxes, an increase in capital expenditures
+Free cash flow in 2021 was SAR 402,956 related to crude oil increments, the
+($107,455), compared to SAR 184,267 Tanajib Gas Plant, other development 2021
+($49,137) in 2020, an increase of drilling programs, and the consolidation
+SAR 218,689 ($58,318), or 118.7%. of SABIC’s full-year capital expenditures. 107
+This was largely due to higher operating
+SAR USD*
+Year ended December 31 Year ended December 31 2020
+All amounts in millions unless
+49
+otherwise stated 2021 2020 2021 2020
+Net cash provided by
+operating activities 522,601 285,297 139,360 76,079
+Capital expenditures (119,645) (101,030) (31,905) (26,942)
+Free cash flow 402,956 184,267 107,455 49,137
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Gearing
+Gearing is a measure of the degree to Aramco’s gearing ratio was 14.2% as at Gearing
+which Aramco’s operations are financed December 31, 2021, compared to 23.0%
+by debt. Aramco defines gearing as the as at December 31, 2020. The decrease in %
+ratio of net debt (total borrowings less gearing was a result of higher cash and
+cash and cash equivalents) to net debt cash equivalents as at December 31, 2021,
+plus total equity. Management believes mainly driven by stronger operating cash
+that gearing is widely used by analysts flows attributable to higher crude oil
+2021
+and investors in the oil and gas industry prices, improved refining and chemicals
+to indicate a company’s financial health margins, the consolidation of SABIC’s
+14.2
+and flexibility. full-year results and cash proceeds in
+connection with Aramco’s crude oil
+pipeline transaction.
+SAR USD* 2020
+As at December 31 As at December 31 23.0
+All amounts in millions unless
+otherwise stated 2021 2020 2021 2020
+Total borrowings (current
+and non-current) 510,921 536,077 136,246 142,954
+Cash and cash equivalents (299,579) (207,232) (79,888) (55,262)
+Net debt 211,342 328,845 56,358 87,692
+Total equity 1,280,668 1,101,094 341,512 293,625
+Total equity and net debt 1,492,010 1,429,939 397,870 381,317
+Gearing 14.2% 23.0% 14.2% 23.0%
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+522,601
+(119,645)
+402,956
+139,360
+(31,905)
+107,455
+510,921
+(299,579)
+211,342
+1,280,668
+1,492,010
+14.2%
+136,246
+(79,888)
+56,358
+341,512
+397,870
+14.2%
+[Page 3]
+All amounts in millions unless otherwise stated
+Earnings before interest, income taxes and zakat (EBIT)
+Aramco defines EBIT as net income EBIT for 2021 was SAR 780,174 ($208,046), EBIT
+plus finance costs and income taxes compared to SAR 380,217 ($101,391)
+and zakat, less finance income. Aramco in 2020. This increase of SAR 399,957 $ billions
+believes EBIT provides useful information ($106,655), or 105.2%, principally
+regarding its financial performance to reflects the impact of stronger crude oil
+analysts and investors. prices, improved refining and chemicals
+margins, and the consolidation of SABIC’s
+full-year results.
+2021
+SAR USD* 208
+Year ended December 31 Year ended December 31
+All amounts in millions unless
+otherwise stated 2021 2020 2021 2020
+Net income 412,396 183,763 109,972 49,003
+2020
+Finance income (1,405) (2,771) (375) (739)
+101
+Finance costs 12,058 10,564 3,215 2,817
+Income taxes and zakat 357,125 188,661 95,234 50,310
+Earnings before interest,
+income taxes and zakat 780,174 380,217 208,046 101,391
+* Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+412,396
+(1,405)
+12,058
+357,125
+780,174
+109,972
+(375)
+3,215
+95,234
+208,046

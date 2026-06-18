@@ -1,0 +1,154 @@
+SOURCE: Saudi Aramco — Non IFRS 2020 Q1
+TYPE: Non Ifrs
+URL: https://www.aramco.com/-/media/publications/corporate-reports/reports-and-presentations/2020/q1/saudi-aramco-q1-2020-non-ifrs-en.pdf
+============================================================
+
+[Page 1]
+Saudi Aramco | First Quarter 2020
+Non-IFRS measures reconciliations and
+definitions
+This Interim Report includes certain non-IFRS financial measures – ROACE, free cash flow, gearing and EBIT – which Saudi
+Aramco uses in the analysis of its business and financial position.
+These non-IFRS financial measures have been included in this Interim Report to facilitate a better understanding of Saudi Aramco’s
+historical trends of operation and financial position.
+Saudi Aramco uses non-IFRS financial measures as supplementary information to its IFRS based operating performance and
+financial position. The non-IFRS financial measures are not defined by, or presented in accordance with, IFRS. The non-IFRS
+financial measures are not measurements of Saudi Aramco’s operating performance or liquidity under IFRS and should not be used
+instead of, or considered as alternatives to, any measures of performance or liquidity under IFRS. The non-IFRS financial measures
+relate to the reporting periods described in this Interim Report and are not intended to be predictive of future results. In addition,
+other companies, including those in Saudi Aramco’s industry, may calculate similarly titled non-IFRS financial measures differently
+from Saudi Aramco. Because companies do not necessarily calculate these non-IFRS financial measures in the same manner,
+Saudi Aramco’s presentation of such non-IFRS financial measures may not be comparable to other similarly titled non-IFRS
+financial measures used by other companies.
+ROACE
+ROACE measures the efficiency of Saudi Aramco’s utilization of capital. Saudi Aramco defines ROACE as net income before
+finance costs, net of tax, for a period as a percentage of average capital employed during that period. Average capital employed is
+the average of total borrowings plus total equity at the beginning and end of the applicable period. Saudi Aramco utilizes ROACE to
+evaluate management’s performance and demonstrate to its shareholders that capital has been used effectively.
+ROACE for the twelve months ended March 31, 2019 and 2020 was 40.0% and 26.3%, respectively. The decrease was principally
+due to lower net income.
+SAR USD*
+Twelve months ended Twelve months ended
+March 31 March 31
+All amounts in millions unless otherwise stated 2020 2019 2020 2019
+Net income 309,885 407,872 82,636 108,766
+Finance costs, net of tax 3,174 1,764 847 470
+Net income before finance costs, net of tax 313,059 409,636 83,483 109,236
+As at period start:
+Non-current borrowings 90,146 66,477 24,039 17,727
+Current borrowings 36,213 24,637 9,657 6,570
+Total equity 985,630 844,852 262,834 225,294
+Capital employed 1,111,989 935,966 296,530 249,591
+As at period end:
+Non-current borrowings 154,466 90,146 41,191 24,039
+Current borrowings 30,783 36,213 8,209 9,657
+Total equity 1,079,539 985,630 287,877 262,834
+Capital employed 1,264,788 1,111,989 337,277 296,530
+Average capital employed 1,188,389 1,023,978 316,904 273,061
+ROACE 26.3% 40.0% 26.3% 40.0%
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+309,885
+3,174
+313,059
+90,146
+36,213
+985,630
+1,111,989
+154,466
+30,783
+1,079,539
+1,264,788
+1,188,389
+26.3%
+82,636
+847
+83,483
+24,039
+9,657
+262,834
+296,530
+41,191
+8,209
+287,877
+337,277
+316,904
+26.3%
+[Page 2]
+Saudi Aramco | First Quarter 2020
+Free cash flow
+Saudi Aramco uses free cash flow to evaluate its cash available for financing activities, including dividend payments. Saudi Aramco
+defines free cash flow as net cash provided by operating activities less capital expenditures.
+Free cash flow decreased from SAR 65,127 ($17,366) in the first quarter of 2019 to SAR 56,327 ($15,021) for the same period in
+2020, a decrease of SAR 8,800 ($2,345), or 13.5%. This was mainly driven by lower operating cash flow, reflecting declining crude
+oil prices and refining and chemicals margins, partially offset by favourable movements in working capital. Capital expenditures
+marginally increased by SAR 840 ($224) in the first quarter of 2020, compared to the same period in 2019.
+SAR USD*
+First quarter First quarter
+All amounts in millions unless otherwise stated 2020 2019 2020 2019
+Net cash provided by operating activities 84,067 92,027 22,418 24,539
+Capital expenditures (27,740) (26,900) (7,397) (7,173)
+Free cash flow 56,327 65,127 15,021 17,366
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Gearing
+Gearing is a measure of the degree to which Saudi Aramco’s operations are financed by debt. Saudi Aramco defines gearing as the
+ratio of total borrowings less cash and cash equivalents to total borrowings less cash and cash equivalents plus total equity.
+Management believes that gearing is widely used by analysts and investors in the oil and gas industry to indicate a company’s
+financial health and flexibility.
+Gearing decreased from -0.2% as at December 31, 2019 to -4.9% as at March 31, 2020 (net cash position at both period-ends).
+This was primarily due to an increase in cash and cash equivalents relating to the proceeds from the issuance of Senior Unsecured
+Notes of SAR 45,000 ($12,000) in 2019 that were held in short-term investments at December 31, 2019, and matured during the
+quarter.
+SAR USD*
+March 31, December 31, March 31, December 31,
+All amounts in millions unless otherwise stated 2020 2019 2020 2019
+Total borrowings (current and non-current) 185,249 175,585 49,400 46,823
+Cash & cash equivalents (235,435) (177,706) (62,783) (47,388)
+Net cash (50,186) (2,121) (13,383) (565)
+Total equity 1,079,539 1,046,235 287,877 278,996
+Total equity and net cash 1,029,353 1,044,114 274,494 278,431
+Gearing (4.9)% (0.2)% (4.9)% (0.2)%
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+Earnings before interest and taxes (EBIT)
+Saudi Aramco defines EBIT as net income plus finance costs and income taxes, less finance income. Saudi Aramco believes EBIT
+provides useful information regarding its financial performance to analysts and investors.
+EBIT for the quarter ended March 31, 2019 and 2020 was SAR 165,949 ($44,253) and SAR 128,258 ($34,202), respectively. The
+decrease of SAR 37,691 ($10,051), or 22.7%, was mainly attributable to lower crude oil prices, and refining and chemicals margins.
+SAR USD*
+First quarter First quarter
+All amounts in millions unless otherwise stated 2020 2019 2020 2019
+Net income 62,478 83,286 16,661 22,210
+Finance income (1,060) (1,440) (283) (384)
+Finance costs 1,583 1,261 422 336
+Income taxes 65,257 82,842 17,402 22,091
+Earnings before interest and taxes 128,258 165,949 34,202 44,253
+∗ Supplementary information is converted at a fixed rate of U.S. dollar 1.00 = SAR 3.75 for convenience only.
+[TABLE DATA]
+84,067
+(27,740)
+56,327
+22,418
+(7,397)
+15,021
+185,249
+(235,435)
+(50,186)
+1,079,539
+1,029,353
+(4.9)%
+49,400
+(62,783)
+(13,383)
+287,877
+274,494
+(4.9)%
+62,478
+(1,060)
+1,583
+65,257
+128,258
+16,661
+(283)
+422
+17,402
+34,202
