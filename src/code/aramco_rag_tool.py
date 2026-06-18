@@ -18,7 +18,7 @@ class Tools:
             description="OpenAI API key (used to embed the query)",
         )
         DB_URL: str = Field(
-            default="postgresql://postgres:9mgl0n5coek1umhwevloeolnybu956bx@thomas.proxy.rlwy.net:15444/railway",
+            default="",
             description="PostgreSQL connection string (Railway)",
         )
         COLLECTION_NAME: str = Field(
